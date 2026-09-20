@@ -1,0 +1,2317 @@
+[
+  {
+    "id": "iss_001",
+    "title": "Government Exam Paper Leaks",
+    "title_hi": "सरकारी परीक्षाओं में पेपर लीक",
+    "category": "Education",
+    "slug": "paper-leak",
+    "summary": "Government exam paper leaks have severely undermined trust in India's public examination system. Between 2015 and 2024, at least 41 major paper leaks were reported across competitive exams including NEET, SSC, Police SI, Railway and state-level recruitments. These incidents affect millions of aspirants who spend years preparing.",
+    "summary_hi": "सरकारी परीक्षाओं में पेपर लीक ने भारत की सार्वजनिक परीक्षा प्रणाली में विश्वास को गंभीर रूप से कमज़ोर किया है। 2015 से 2024 के बीच, NEET, SSC, पुलिस SI, रेलवे और राज्य स्तरीय भर्ती सहित प्रतियोगी परीक्षाओं में कम से कम 41 प्रमुख पेपर लीक दर्ज किए गए।",
+    "status": "Active",
+    "priority": "High",
+    "severity": "Critical",
+    "featured": true,
+    "trending": true,
+    "icon": "📝",
+    "color": "#c1272d",
+    "last_updated": "2024-06-25",
+    "timeline": [
+      {
+        "year": 2015,
+        "month": "Jan",
+        "event": "First major SSC CGL paper leak reported",
+        "description": "Staff Selection Commission Combined Graduate Level exam paper leaked in multiple states.",
+        "reference": "Media Reports 2015"
+      },
+      {
+        "year": 2018,
+        "month": "Mar",
+        "event": "RRB Group D leak",
+        "description": "Railway Recruitment Board Group D examination paper leaked hours before the exam.",
+        "reference": "Railway Ministry Statement"
+      },
+      {
+        "year": 2021,
+        "month": "Sep",
+        "event": "Bihar Police SI paper leak",
+        "description": "Bihar Police Sub-Inspector exam paper leaked, exam cancelled for 1.6 lakh candidates.",
+        "reference": "Bihar Government Notification"
+      },
+      {
+        "year": 2022,
+        "month": "Nov",
+        "event": "Rajasthan REET leak",
+        "description": "Rajasthan Eligibility Examination for Teachers paper leaked; 16 lakh candidates affected.",
+        "reference": "Rajasthan Government Order"
+      },
+      {
+        "year": 2024,
+        "month": "May",
+        "event": "NEET-UG controversy",
+        "description": "Allegations of irregularities in NEET-UG 2024 affecting 24 lakh medical aspirants. Supreme Court took suo-motu cognizance.",
+        "reference": "Supreme Court of India"
+      },
+      {
+        "year": 2024,
+        "month": "Jun",
+        "event": "Public Examinations Act 2024",
+        "description": "Parliament passed the Public Examinations (Prevention of Unfair Means) Act, 2024 prescribing up to 10 years imprisonment and ₹1 crore fine.",
+        "reference": "Gazette of India, June 2024"
+      }
+    ],
+    "related_statistics": [
+      "ed004",
+      "ed001",
+      "ed002",
+      "ed005"
+    ],
+    "related_news": [
+      "n003"
+    ],
+    "related_surveys": [
+      "s005",
+      "s006",
+      "s019"
+    ],
+    "related_stories": [
+      "st006",
+      "st004"
+    ],
+    "related_politicians": [
+      "pol_010",
+      "pol_001"
+    ],
+    "official_documents": [
+      {
+        "type": "Parliament Act",
+        "title": "Public Examinations (Prevention of Unfair Means) Act, 2024",
+        "url": "https://legislative.gov.in/",
+        "date": "2024-06"
+      },
+      {
+        "type": "Supreme Court",
+        "title": "Suo Motu cognizance on NEET-UG irregularities",
+        "url": "https://main.sci.gov.in/",
+        "date": "2024-07"
+      },
+      {
+        "type": "Government Report",
+        "title": "NTA Review Committee Report 2024",
+        "url": "https://www.nta.ac.in/",
+        "date": "2024-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is a paper leak?",
+        "q_hi": "पेपर लीक क्या है?",
+        "a": "A paper leak occurs when exam questions are disclosed to some candidates before the official exam, giving them an unfair advantage. It can happen through insiders, coaching centres, or digital networks.",
+        "a_hi": "पेपर लीक तब होता है जब परीक्षा के प्रश्न आधिकारिक परीक्षा से पहले कुछ उम्मीदवारों को बता दिए जाते हैं।"
+      },
+      {
+        "q": "How many students are affected by paper leaks?",
+        "q_hi": "पेपर लीक से कितने छात्र प्रभावित होते हैं?",
+        "a": "Each cancelled exam affects hundreds of thousands to millions of candidates who lose preparation time, examination fees, and career opportunities.",
+        "a_hi": "प्रत्येक रद्द परीक्षा लाखों उम्मीदवारों को प्रभावित करती है।"
+      },
+      {
+        "q": "What is the legal punishment for paper leak?",
+        "q_hi": "पेपर लीक की कानूनी सज़ा क्या है?",
+        "a": "Under the Public Examinations (Prevention of Unfair Means) Act, 2024: imprisonment up to 10 years and fine up to ₹1 crore.",
+        "a_hi": "सार्वजनिक परीक्षा (अनुचित साधनों की रोकथाम) अधिनियम, 2024 के तहत 10 वर्ष तक कारावास और ₹1 करोड़ तक जुर्माना।"
+      },
+      {
+        "q": "What is NTA?",
+        "q_hi": "NTA क्या है?",
+        "a": "The National Testing Agency (NTA) is a government body that conducts major national-level examinations including NEET, JEE Main, CUET, and UGC NET.",
+        "a_hi": "NTA एक सरकारी संस्था है जो NEET, JEE Main, CUET जैसी राष्ट्रीय परीक्षाएँ आयोजित करती है।"
+      }
+    ],
+    "related_issues": [
+      "iss_002",
+      "iss_003",
+      "iss_006"
+    ],
+    "keywords": [
+      "paper leak",
+      "neet",
+      "exam",
+      "education",
+      "nta",
+      "ssc",
+      "rrb",
+      "students",
+      "corruption"
+    ]
+  },
+  {
+    "id": "iss_002",
+    "title": "NEET Medical Entrance Examination",
+    "title_hi": "NEET मेडिकल प्रवेश परीक्षा",
+    "category": "Education",
+    "slug": "neet",
+    "summary": "NEET (National Eligibility cum Entrance Test) is India's single national entrance examination for medical admissions. Since its introduction in 2013 (and mandated status from 2016), it has been subject to ongoing debate around fairness, language medium, regional disparities, and alleged irregularities in 2024.",
+    "summary_hi": "NEET (राष्ट्रीय पात्रता सह प्रवेश परीक्षा) भारत में चिकित्सा प्रवेश के लिए एकल राष्ट्रीय परीक्षा है। 2013 में शुरू होने के बाद से इसमें निष्पक्षता, भाषा माध्यम और क्षेत्रीय असमानता को लेकर बहस जारी है।",
+    "status": "Active",
+    "priority": "High",
+    "severity": "High",
+    "featured": false,
+    "trending": true,
+    "icon": "🏥",
+    "color": "#0d9488",
+    "last_updated": "2024-07-10",
+    "timeline": [
+      {
+        "year": 2013,
+        "month": "May",
+        "event": "NEET introduced",
+        "description": "Supreme Court upheld NEET as the single medical entrance exam, replacing multiple state and private college tests.",
+        "reference": "Supreme Court Judgment 2013"
+      },
+      {
+        "year": 2016,
+        "month": "Aug",
+        "event": "NEET made mandatory for all",
+        "description": "All medical admissions in India mandated through NEET — state quota, central quota and private institutions.",
+        "reference": "MCI Notification"
+      },
+      {
+        "year": 2021,
+        "month": "Nov",
+        "event": "Tamil Nadu NEET exemption attempt",
+        "description": "Tamil Nadu Assembly passed a bill to exempt the state from NEET, sent to Governor for assent.",
+        "reference": "Tamil Nadu Legislative Assembly"
+      },
+      {
+        "year": 2024,
+        "month": "May",
+        "event": "NEET-UG 2024 — 67 perfect scorers",
+        "description": "Unusually high number of perfect scorers (67) in a single exam raised questions. Centre ordered a high-level review.",
+        "reference": "MoE Press Release"
+      },
+      {
+        "year": 2024,
+        "month": "Jul",
+        "event": "SC orders investigation",
+        "description": "Supreme Court ordered comprehensive probe into NEET irregularities and reviewed if re-test was needed.",
+        "reference": "Supreme Court, July 2024"
+      }
+    ],
+    "related_statistics": [
+      "ed004",
+      "ed005",
+      "hc004",
+      "hc005"
+    ],
+    "related_news": [
+      "n003"
+    ],
+    "related_surveys": [
+      "s005",
+      "s006"
+    ],
+    "related_stories": [
+      "st006",
+      "st004"
+    ],
+    "related_politicians": [
+      "pol_010",
+      "pol_001"
+    ],
+    "official_documents": [
+      {
+        "type": "Supreme Court",
+        "title": "NEET Review — SC Bench Proceedings 2024",
+        "url": "https://main.sci.gov.in/",
+        "date": "2024-07"
+      },
+      {
+        "type": "Government Report",
+        "title": "High-Level Committee Report on NEET-UG 2024",
+        "url": "https://www.nta.ac.in/",
+        "date": "2024-07"
+      },
+      {
+        "type": "Parliament Questions",
+        "title": "Lok Sabha Q&A on NTA and NEET",
+        "url": "https://sansad.in/",
+        "date": "2024-07"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is NEET?",
+        "q_hi": "NEET क्या है?",
+        "a": "National Eligibility cum Entrance Test — the single entrance exam for MBBS, BDS and other medical courses in India.",
+        "a_hi": "NEET भारत में MBBS, BDS और अन्य चिकित्सा पाठ्यक्रमों के लिए एकल प्रवेश परीक्षा है।"
+      },
+      {
+        "q": "How many students appear in NEET?",
+        "q_hi": "NEET में कितने छात्र बैठते हैं?",
+        "a": "Over 24 lakh students appeared in NEET-UG 2024, making it one of the world's largest single-day competitive exams.",
+        "a_hi": "NEET-UG 2024 में 24 लाख से अधिक छात्र शामिल हुए।"
+      },
+      {
+        "q": "What is the NEET controversy about?",
+        "q_hi": "NEET विवाद किस बारे में है?",
+        "a": "Concerns include: alleged paper leaks, grace marks controversies, language medium disadvantage for Hindi/regional medium students, and structural inequalities between state boards and CBSE.",
+        "a_hi": "विवाद में शामिल हैं: कथित पेपर लीक, ग्रेस मार्क विवाद, और भाषा माध्यम असमानता।"
+      }
+    ],
+    "related_issues": [
+      "iss_001",
+      "iss_007",
+      "iss_008"
+    ],
+    "keywords": [
+      "neet",
+      "medical",
+      "entrance",
+      "exam",
+      "nta",
+      "mbbs",
+      "healthcare",
+      "education"
+    ]
+  },
+  {
+    "id": "iss_003",
+    "title": "Youth Unemployment",
+    "title_hi": "युवा बेरोज़गारी",
+    "category": "Employment",
+    "slug": "youth-unemployment",
+    "summary": "India faces a significant youth unemployment challenge. The overall unemployment rate was 8.1% in 2024, while youth unemployment (ages 15–29) stood at 23.7% — meaning nearly 1 in 4 young Indians seeking work is unable to find employment. Urban youth unemployment is higher than rural.",
+    "summary_hi": "भारत में युवा बेरोज़गारी एक गंभीर चुनौती है। 2024 में समग्र बेरोज़गारी दर 8.1% थी, जबकि युवा बेरोज़गारी (15–29 वर्ष) 23.7% थी — यानी नौकरी ढूँढने वाला हर चौथा युवा भारतीय रोज़गार नहीं पा रहा।",
+    "status": "Active",
+    "priority": "High",
+    "severity": "High",
+    "featured": true,
+    "trending": true,
+    "icon": "🧑‍💼",
+    "color": "#f59e0b",
+    "last_updated": "2024-06-01",
+    "timeline": [
+      {
+        "year": 2020,
+        "month": "Apr",
+        "event": "COVID-19 job losses",
+        "description": "Unemployment spiked to 23.5% during COVID-19 lockdown, wiping out millions of informal sector jobs.",
+        "reference": "CMIE Monthly Survey"
+      },
+      {
+        "year": 2021,
+        "month": "Jun",
+        "event": "Slow recovery",
+        "description": "Unemployment returned to 8% range but informal sector remained fragile with lower wages.",
+        "reference": "PLFS Quarterly Report"
+      },
+      {
+        "year": 2022,
+        "month": "Aug",
+        "event": "Agniveer scheme launched",
+        "description": "Government launched Agniveer — short-term military enlistment scheme — as employment initiative in defence sector.",
+        "reference": "Ministry of Defence Notification"
+      },
+      {
+        "year": 2023,
+        "month": "Mar",
+        "event": "PLFS 2022–23 results",
+        "description": "Annual PLFS showed unemployment rate at 7.7%; youth unemployment remained elevated at 22.5%.",
+        "reference": "PLFS Annual Report 2022-23"
+      },
+      {
+        "year": 2024,
+        "month": "May",
+        "event": "CMIE May 2024 data",
+        "description": "Urban youth unemployment hit 23.7% per CMIE. Graduate unemployment rate significantly higher than average.",
+        "reference": "CMIE Unemployment Report"
+      }
+    ],
+    "related_statistics": [
+      "em001",
+      "em002",
+      "em003",
+      "em004",
+      "em005"
+    ],
+    "related_news": [
+      "n008"
+    ],
+    "related_surveys": [
+      "s011",
+      "s027",
+      "s037"
+    ],
+    "related_stories": [
+      "st009",
+      "st001"
+    ],
+    "related_politicians": [
+      "pol_001",
+      "pol_004"
+    ],
+    "official_documents": [
+      {
+        "type": "Government Report",
+        "title": "Periodic Labour Force Survey (PLFS) Annual Report 2022-23",
+        "url": "https://mospi.gov.in/",
+        "date": "2023-09"
+      },
+      {
+        "type": "Parliament Questions",
+        "title": "Lok Sabha Questions on Unemployment 2024",
+        "url": "https://sansad.in/",
+        "date": "2024-03"
+      },
+      {
+        "type": "Policy Document",
+        "title": "National Employment Policy (Draft)",
+        "url": "https://labour.gov.in/",
+        "date": "2023-01"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is the current unemployment rate?",
+        "q_hi": "वर्तमान बेरोज़गारी दर क्या है?",
+        "a": "As of May 2024, overall unemployment is 8.1% (CMIE). Youth unemployment (15–29) is 23.7%.",
+        "a_hi": "मई 2024 तक, समग्र बेरोज़गारी 8.1% है। युवा बेरोज़गारी (15–29) 23.7% है।"
+      },
+      {
+        "q": "How is unemployment measured in India?",
+        "q_hi": "भारत में बेरोज़गारी कैसे मापी जाती है?",
+        "a": "The government uses Periodic Labour Force Survey (PLFS) conducted by MoSPI. CMIE conducts independent household surveys with different methodology.",
+        "a_hi": "सरकार PLFS का उपयोग करती है। CMIE स्वतंत्र घरेलू सर्वेक्षण करता है।"
+      },
+      {
+        "q": "What is MGNREGA and how does it help?",
+        "q_hi": "MGNREGA क्या है?",
+        "a": "MGNREGA (Mahatma Gandhi National Rural Employment Guarantee Act) guarantees 100 days of unskilled work per year per rural household. It is a social safety net, not a solution to structural unemployment.",
+        "a_hi": "MGNREGA ग्रामीण परिवारों को 100 दिन रोज़गार की गारंटी देता है।"
+      }
+    ],
+    "related_issues": [
+      "iss_001",
+      "iss_004",
+      "iss_013"
+    ],
+    "keywords": [
+      "unemployment",
+      "jobs",
+      "youth",
+      "employment",
+      "CMIE",
+      "PLFS",
+      "MGNREGA",
+      "economy"
+    ]
+  },
+  {
+    "id": "iss_004",
+    "title": "Retail Inflation (CPI)",
+    "title_hi": "खुदरा मुद्रास्फीति (CPI)",
+    "category": "Economy",
+    "slug": "inflation",
+    "summary": "Consumer Price Index (CPI) based inflation measures the rise in retail prices of goods and services. India's CPI inflation peaked at 6.7% in FY2022 amid global commodity price shocks. It moderated to 5.4% in 2024, but food inflation — particularly vegetables and cereals — continues to impact household budgets.",
+    "summary_hi": "CPI आधारित मुद्रास्फीति वस्तुओं और सेवाओं की खुदरा कीमतों में वृद्धि को मापती है। भारत की CPI मुद्रास्फीति FY2022 में 6.7% पर पहुँच गई। 2024 में यह 5.4% पर आ गई, लेकिन खाद्य मुद्रास्फीति — विशेष रूप से सब्जियाँ और अनाज — परिवार के बजट को प्रभावित करती रहती है।",
+    "status": "Active",
+    "priority": "High",
+    "severity": "Medium",
+    "featured": false,
+    "trending": true,
+    "icon": "📈",
+    "color": "#c1272d",
+    "last_updated": "2024-06-01",
+    "timeline": [
+      {
+        "year": 2021,
+        "month": "May",
+        "event": "Post-COVID supply shock",
+        "description": "Supply chain disruptions and rising global commodity prices began pushing retail inflation above 5%.",
+        "reference": "RBI Monetary Policy Report"
+      },
+      {
+        "year": 2022,
+        "month": "Apr",
+        "event": "CPI peaks at 7.79%",
+        "description": "Russia-Ukraine war drove global energy and food prices. India's CPI hit 7.79% in April 2022 — highest in 8 years.",
+        "reference": "MoSPI CPI Data"
+      },
+      {
+        "year": 2022,
+        "month": "May",
+        "event": "RBI emergency rate hike",
+        "description": "RBI raised repo rate by 40 bps in off-cycle meeting — first emergency hike since 2020.",
+        "reference": "RBI Monetary Policy Statement"
+      },
+      {
+        "year": 2023,
+        "month": "Sep",
+        "event": "Tomato prices cross ₹200/kg",
+        "description": "Extreme vegetable price volatility — tomatoes hit ₹200–250/kg in many cities, driven by crop failures.",
+        "reference": "Price Monitoring Cell"
+      },
+      {
+        "year": 2024,
+        "month": "May",
+        "event": "CPI at 4.85%",
+        "description": "CPI moderated to 4.85% in April 2024 — within RBI's 2–6% tolerance band. Food inflation still elevated at 8%.",
+        "reference": "MoSPI Monthly CPI Release"
+      }
+    ],
+    "related_statistics": [
+      "ec003",
+      "ec001",
+      "ec002",
+      "fu001",
+      "fu002",
+      "fu003"
+    ],
+    "related_news": [
+      "n001",
+      "n019"
+    ],
+    "related_surveys": [
+      "s003",
+      "s016",
+      "s001"
+    ],
+    "related_stories": [
+      "st002",
+      "st008"
+    ],
+    "related_politicians": [
+      "pol_004",
+      "pol_001"
+    ],
+    "official_documents": [
+      {
+        "type": "Government Report",
+        "title": "CPI Monthly Data — MoSPI",
+        "url": "https://mospi.gov.in/consumer-price-indices",
+        "date": "2024-05"
+      },
+      {
+        "type": "Policy Document",
+        "title": "RBI Monetary Policy Committee Statement",
+        "url": "https://rbi.org.in/",
+        "date": "2024-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is CPI inflation?",
+        "q_hi": "CPI मुद्रास्फीति क्या है?",
+        "a": "CPI (Consumer Price Index) tracks changes in average prices of a basket of goods and services purchased by households. When CPI rises faster than incomes, purchasing power falls.",
+        "a_hi": "CPI घरेलू सामानों की औसत कीमतों में बदलाव को ट्रैक करता है।"
+      },
+      {
+        "q": "What is RBI's inflation target?",
+        "q_hi": "RBI का मुद्रास्फीति लक्ष्य क्या है?",
+        "a": "RBI's Monetary Policy Committee targets CPI inflation at 4%, with a tolerance band of +/- 2% (i.e., 2% to 6%).",
+        "a_hi": "RBI का लक्ष्य CPI मुद्रास्फीति 4% है, ±2% सहनशीलता के साथ।"
+      }
+    ],
+    "related_issues": [
+      "iss_005",
+      "iss_006",
+      "iss_007"
+    ],
+    "keywords": [
+      "inflation",
+      "cpi",
+      "prices",
+      "rbi",
+      "economy",
+      "food",
+      "vegetables",
+      "monetary policy"
+    ]
+  },
+  {
+    "id": "iss_005",
+    "title": "Petrol, Diesel & LPG Prices",
+    "title_hi": "पेट्रोल, डीज़ल और LPG की कीमतें",
+    "category": "Fuel",
+    "slug": "fuel-prices",
+    "summary": "India is heavily dependent on crude oil imports. Retail fuel prices are determined by international crude prices, exchange rates, and taxes (central + state excise). India levies among the highest fuel taxes globally. Delhi petrol price stood at ₹94.72/litre in 2024, after two rounds of cuts in 2022.",
+    "summary_hi": "भारत कच्चे तेल के आयात पर बहुत अधिक निर्भर है। खुदरा ईंधन मूल्य अंतर्राष्ट्रीय कच्चे तेल की कीमतों, विनिमय दरों और करों द्वारा निर्धारित होते हैं। 2024 में दिल्ली में पेट्रोल की कीमत ₹94.72/लीटर थी।",
+    "status": "Active",
+    "priority": "Medium",
+    "severity": "Medium",
+    "featured": false,
+    "trending": true,
+    "icon": "⛽",
+    "color": "#f59e0b",
+    "last_updated": "2024-06-10",
+    "timeline": [
+      {
+        "year": 2021,
+        "month": "May",
+        "event": "Petrol crosses ₹100 in some states",
+        "description": "Petrol prices crossed ₹100/litre in Rajasthan and Madhya Pradesh due to rising crude and state taxes.",
+        "reference": "PPAC Data"
+      },
+      {
+        "year": 2021,
+        "month": "Nov",
+        "event": "Central excise duty cut",
+        "description": "Central government cut excise duty on petrol (₹5/litre) and diesel (₹10/litre) to reduce retail prices.",
+        "reference": "Finance Ministry Notification"
+      },
+      {
+        "year": 2022,
+        "month": "May",
+        "event": "Further excise cut",
+        "description": "Another round of excise cuts — ₹8/litre on petrol, ₹6/litre on diesel — following Russia-Ukraine price spike.",
+        "reference": "Finance Ministry Notification"
+      },
+      {
+        "year": 2022,
+        "month": "Oct",
+        "event": "LPG subsidy reduced",
+        "description": "LPG prices for domestic cylinders raised multiple times; Ujjwala beneficiaries received additional subsidy.",
+        "reference": "Ministry of Petroleum"
+      },
+      {
+        "year": 2024,
+        "month": "Mar",
+        "event": "LPG price cut ₹100",
+        "description": "Government cut domestic LPG cylinder price by ₹100 ahead of General Elections.",
+        "reference": "IOC Press Release, March 2024"
+      }
+    ],
+    "related_statistics": [
+      "fu001",
+      "fu002",
+      "fu003",
+      "ec003"
+    ],
+    "related_news": [
+      "n019"
+    ],
+    "related_surveys": [
+      "s001",
+      "s003"
+    ],
+    "related_stories": [
+      "st002",
+      "st003"
+    ],
+    "related_politicians": [
+      "pol_001",
+      "pol_004"
+    ],
+    "official_documents": [
+      {
+        "type": "Government Report",
+        "title": "PPAC Weekly Fuel Price Report",
+        "url": "https://ppac.gov.in/",
+        "date": "2024-06"
+      },
+      {
+        "type": "Policy Document",
+        "title": "Indian Basket Crude Oil Price Data",
+        "url": "https://ppac.gov.in/",
+        "date": "2024-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "How is petrol price calculated in India?",
+        "q_hi": "भारत में पेट्रोल मूल्य कैसे तय होता है?",
+        "a": "Petrol price = crude cost + refinery processing + OMC margin + central excise + dealer commission + state VAT. Central and state taxes typically account for 45–55% of the retail price.",
+        "a_hi": "पेट्रोल मूल्य = कच्चे तेल की लागत + शोधन + OMC मार्जिन + केंद्रीय उत्पाद शुल्क + डीलर कमीशन + राज्य VAT।"
+      },
+      {
+        "q": "Why do fuel prices vary between states?",
+        "q_hi": "राज्यों में ईंधन की कीमतें अलग क्यों हैं?",
+        "a": "Each state government levies its own VAT and additional cess on fuel. This is why Mumbai petrol is more expensive than Delhi despite same central excise.",
+        "a_hi": "प्रत्येक राज्य सरकार अपना VAT और अतिरिक्त उपकर लगाती है।"
+      }
+    ],
+    "related_issues": [
+      "iss_004",
+      "iss_013",
+      "iss_017"
+    ],
+    "keywords": [
+      "petrol",
+      "diesel",
+      "lpg",
+      "fuel",
+      "price",
+      "ppac",
+      "crude",
+      "excise",
+      "tax",
+      "energy"
+    ]
+  },
+  {
+    "id": "iss_006",
+    "title": "Farmer Welfare & Agricultural Crisis",
+    "title_hi": "किसान कल्याण और कृषि संकट",
+    "category": "Agriculture",
+    "slug": "farmer-welfare",
+    "summary": "India's farmers face multiple systemic challenges: low and volatile incomes, crop damage, inadequate price realisation, debt burden, and limited access to formal credit. NCRB data shows 11,290 farmer suicides in 2022. Agriculture employs ~45% of India's workforce but contributes only 18% of GDP.",
+    "summary_hi": "भारत के किसान कई व्यवस्थागत चुनौतियों का सामना करते हैं: कम और अस्थिर आय, फसल नुकसान, अपर्याप्त मूल्य प्राप्ति, कर्ज का बोझ। NCRB डेटा के अनुसार 2022 में 11,290 किसान आत्महत्याएँ हुईं। कृषि ~45% कार्यबल को रोज़गार देती है लेकिन GDP में केवल 18% का योगदान है।",
+    "status": "Active",
+    "priority": "Critical",
+    "severity": "Critical",
+    "featured": true,
+    "trending": false,
+    "icon": "🌾",
+    "color": "#128807",
+    "last_updated": "2024-05-01",
+    "timeline": [
+      {
+        "year": 2019,
+        "month": "Feb",
+        "event": "PM-KISAN launched",
+        "description": "₹6,000/year direct income support scheme for eligible farmers launched. Now covers ~11 crore farmers.",
+        "reference": "Ministry of Agriculture Notification"
+      },
+      {
+        "year": 2020,
+        "month": "Sep",
+        "event": "Farm Bills 2020",
+        "description": "Three farm bills passed by Parliament, creating nationwide protests by farmer groups. Bills later repealed.",
+        "reference": "Lok Sabha Records"
+      },
+      {
+        "year": 2020,
+        "month": "Nov",
+        "event": "Farm protests begin",
+        "description": "Large-scale farmer protests at Delhi borders began, lasting over 12 months.",
+        "reference": "Media Reports"
+      },
+      {
+        "year": 2021,
+        "month": "Nov",
+        "event": "Farm bills repealed",
+        "description": "Government announced repeal of three farm laws amid ongoing protests.",
+        "reference": "PM Address to Nation, Nov 2021"
+      },
+      {
+        "year": 2023,
+        "month": "Dec",
+        "event": "NCRB 2022 data released",
+        "description": "11,290 farmer and agricultural labourer suicides recorded in 2022 — 4.1% increase from 2021.",
+        "reference": "NCRB Crime in India Report 2022"
+      },
+      {
+        "year": 2024,
+        "month": "Feb",
+        "event": "MSP guarantee demand",
+        "description": "New round of farmer protests demanding legal guarantee for MSP (Minimum Support Price) for all crops.",
+        "reference": "Farmers' Union Press Releases"
+      }
+    ],
+    "related_statistics": [
+      "ag001",
+      "ag002",
+      "ag003",
+      "ag004",
+      "ag005"
+    ],
+    "related_news": [
+      "n009"
+    ],
+    "related_surveys": [
+      "s018",
+      "s032"
+    ],
+    "related_stories": [
+      "st003"
+    ],
+    "related_politicians": [
+      "pol_001",
+      "pol_021"
+    ],
+    "official_documents": [
+      {
+        "type": "Government Report",
+        "title": "Agricultural Census 2015-16 (Latest Available)",
+        "url": "https://agcensus.gov.in/",
+        "date": "2018-09"
+      },
+      {
+        "type": "Government Report",
+        "title": "NCRB Crime in India 2022 — Accidental Deaths & Suicides",
+        "url": "https://ncrb.gov.in/",
+        "date": "2023-12"
+      },
+      {
+        "type": "Policy Document",
+        "title": "PM-KISAN Scheme Guidelines",
+        "url": "https://pmkisan.gov.in/",
+        "date": "2019-02"
+      },
+      {
+        "type": "Parliament Questions",
+        "title": "Lok Sabha Questions on MSP and Farmer Income",
+        "url": "https://sansad.in/",
+        "date": "2024-02"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is MSP?",
+        "q_hi": "MSP क्या है?",
+        "a": "Minimum Support Price (MSP) is a floor price announced by the government for agricultural commodities to protect farmers from market price crashes. It is advisory, not legally binding.",
+        "a_hi": "MSP एक न्यूनतम मूल्य है जो सरकार कृषि वस्तुओं के लिए घोषित करती है। यह सलाहकारी है, कानूनी रूप से बाध्यकारी नहीं।"
+      },
+      {
+        "q": "What is PM-KISAN?",
+        "q_hi": "PM-KISAN क्या है?",
+        "a": "Pradhan Mantri Kisan Samman Nidhi provides ₹6,000/year in three equal instalments directly to eligible farmer families' bank accounts.",
+        "a_hi": "PM-KISAN योजना पात्र किसान परिवारों को ₹6,000/वर्ष तीन किस्तों में देती है।"
+      },
+      {
+        "q": "Why do farmer suicides happen?",
+        "q_hi": "किसान आत्महत्याएँ क्यों होती हैं?",
+        "a": "NCRB data identifies primary causes as crop failure, debt, and family problems. This is a multi-factor crisis with economic, social, and psychological dimensions.",
+        "a_hi": "NCRB डेटा फसल विफलता, ऋण और पारिवारिक समस्याओं को प्राथमिक कारण बताता है।"
+      }
+    ],
+    "related_issues": [
+      "iss_004",
+      "iss_003",
+      "iss_016"
+    ],
+    "keywords": [
+      "farmer",
+      "agriculture",
+      "msp",
+      "pm-kisan",
+      "suicide",
+      "crop",
+      "income",
+      "rural",
+      "debt"
+    ]
+  },
+  {
+    "id": "iss_007",
+    "title": "Women's Safety & Gender-Based Violence",
+    "title_hi": "महिला सुरक्षा और लिंग-आधारित हिंसा",
+    "category": "Women's Safety",
+    "slug": "womens-safety",
+    "summary": "Crimes against women in India crossed 4.45 lakh in 2022 per NCRB data. Categories include domestic violence (IPC 498A), rape, dowry deaths, trafficking, and POCSO cases. The conviction rate for rape cases was 27.5% in 2022 — meaning a significant number of reported cases do not result in conviction.",
+    "summary_hi": "भारत में महिलाओं के खिलाफ अपराध 2022 में NCRB के अनुसार 4.45 लाख से अधिक हो गए। श्रेणियों में घरेलू हिंसा, बलात्कार, दहेज मृत्यु, तस्करी और POCSO मामले शामिल हैं।",
+    "status": "Active",
+    "priority": "Critical",
+    "severity": "Critical",
+    "featured": false,
+    "trending": false,
+    "icon": "👩",
+    "color": "#a855f7",
+    "last_updated": "2024-01-01",
+    "timeline": [
+      {
+        "year": 2012,
+        "month": "Dec",
+        "event": "Nirbhaya case",
+        "description": "A horrific gang rape case in Delhi shocked the nation and led to major criminal law reforms.",
+        "reference": "Supreme Court of India"
+      },
+      {
+        "year": 2013,
+        "month": "Apr",
+        "event": "Criminal Law Amendment Act 2013",
+        "description": "Landmark legislation broadened definition of sexual assault, introduced stricter penalties and fast-track courts.",
+        "reference": "Gazette of India"
+      },
+      {
+        "year": 2019,
+        "month": "Aug",
+        "event": "POCSO Amendment",
+        "description": "Protection of Children from Sexual Offences Act amended with death penalty provisions for aggravated cases.",
+        "reference": "Ministry of Law"
+      },
+      {
+        "year": 2022,
+        "month": "Jun",
+        "event": "Fast-track courts expanded",
+        "description": "1,023 fast-track special courts operational for POCSO and rape cases across India.",
+        "reference": "Ministry of Law and Justice"
+      },
+      {
+        "year": 2023,
+        "month": "Dec",
+        "event": "NCRB 2022 Report",
+        "description": "4,45,256 crimes against women in 2022 — 4% increase from 2021. Delhi NCR and UP reported highest numbers.",
+        "reference": "NCRB Crime in India 2022"
+      }
+    ],
+    "related_statistics": [
+      "ws001",
+      "ws002",
+      "ws003",
+      "cr002",
+      "cr005"
+    ],
+    "related_news": [
+      "n004"
+    ],
+    "related_surveys": [
+      "s017",
+      "s021",
+      "s033"
+    ],
+    "related_stories": [
+      "st007"
+    ],
+    "related_politicians": [
+      "pol_005",
+      "pol_027"
+    ],
+    "official_documents": [
+      {
+        "type": "Government Report",
+        "title": "NCRB Crime in India 2022 — Crimes Against Women",
+        "url": "https://ncrb.gov.in/",
+        "date": "2023-12"
+      },
+      {
+        "type": "Parliament Act",
+        "title": "Protection of Women from Domestic Violence Act, 2005",
+        "url": "https://legislative.gov.in/",
+        "date": "2005-09"
+      },
+      {
+        "type": "Parliament Act",
+        "title": "Criminal Law (Amendment) Act, 2013",
+        "url": "https://legislative.gov.in/",
+        "date": "2013-04"
+      },
+      {
+        "type": "Supreme Court",
+        "title": "Vishakha Guidelines (1997) on sexual harassment at workplace",
+        "url": "https://main.sci.gov.in/",
+        "date": "1997-08"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is POCSO?",
+        "q_hi": "POCSO क्या है?",
+        "a": "Protection of Children from Sexual Offences Act (2012) — a comprehensive law to protect children under 18 from sexual abuse, harassment and exploitation.",
+        "a_hi": "POCSO अधिनियम (2012) — 18 वर्ष से कम उम्र के बच्चों को यौन शोषण से बचाने के लिए व्यापक कानून।"
+      },
+      {
+        "q": "What is the conviction rate for rape in India?",
+        "q_hi": "भारत में बलात्कार में दोष सिद्धि दर क्या है?",
+        "a": "NCRB 2022 reports a 27.5% conviction rate in rape cases tried in courts. This does not mean other cases were false — court processes, delays and evidence issues affect outcomes.",
+        "a_hi": "NCRB 2022 के अनुसार 27.5% दोष सिद्धि दर है।"
+      }
+    ],
+    "related_issues": [
+      "iss_008",
+      "iss_010",
+      "iss_009"
+    ],
+    "keywords": [
+      "women",
+      "safety",
+      "rape",
+      "domestic violence",
+      "pocso",
+      "ncrb",
+      "gender",
+      "crime"
+    ]
+  },
+  {
+    "id": "iss_008",
+    "title": "Crime & Law Enforcement",
+    "title_hi": "अपराध और कानून प्रवर्तन",
+    "category": "Crime",
+    "slug": "crime-law-order",
+    "summary": "India's NCRB tracks cognizable crimes across IPC and Special & Local Laws. Major trends include cyber crime rising 24% in 2022, road accident deaths at 1.68 lakh, drug crime cases up 19%. Police-population ratio stands at 153 per lakh — below UN recommended 222.",
+    "summary_hi": "भारत में NCRB संज्ञेय अपराधों को ट्रैक करता है। प्रमुख रुझानों में 2022 में साइबर अपराध 24% बढ़ा, सड़क दुर्घटना मृत्यु 1.68 लाख, ड्रग अपराध 19% बढ़े।",
+    "status": "Active",
+    "priority": "High",
+    "severity": "High",
+    "featured": false,
+    "trending": false,
+    "icon": "⚠️",
+    "color": "#c1272d",
+    "last_updated": "2024-01-01",
+    "timeline": [
+      {
+        "year": 2019,
+        "month": "Dec",
+        "event": "NCRB 2019 Report",
+        "description": "Total cognizable IPC crimes: 32.2 lakh. Cyber crimes: 44,735.",
+        "reference": "NCRB Crime in India 2019"
+      },
+      {
+        "year": 2020,
+        "month": "Oct",
+        "event": "IT Act amendments proposed",
+        "description": "Government proposed amendments to IT Act to address rising cyber crime and social media misuse.",
+        "reference": "MeitY"
+      },
+      {
+        "year": 2022,
+        "month": "Aug",
+        "event": "BNS replaces IPC",
+        "description": "Bharatiya Nyaya Sanhita introduced to replace Indian Penal Code 1860, with updated provisions.",
+        "reference": "Parliament of India"
+      },
+      {
+        "year": 2023,
+        "month": "Dec",
+        "event": "NCRB 2022 data",
+        "description": "Cyber crimes at 65,893 — up 24.4%. Drug cases at 1.12 lakh. Road accidents: 4.61 lakh accidents, 1.68 lakh deaths.",
+        "reference": "NCRB Crime in India 2022"
+      }
+    ],
+    "related_statistics": [
+      "cr001",
+      "cr002",
+      "cr003",
+      "cr004",
+      "cr006",
+      "cr007",
+      "na002"
+    ],
+    "related_news": [
+      "n018"
+    ],
+    "related_surveys": [
+      "s004",
+      "s039",
+      "s048"
+    ],
+    "related_stories": [
+      "st006"
+    ],
+    "related_politicians": [
+      "pol_005"
+    ],
+    "official_documents": [
+      {
+        "type": "Government Report",
+        "title": "NCRB Crime in India 2022",
+        "url": "https://ncrb.gov.in/",
+        "date": "2023-12"
+      },
+      {
+        "type": "Parliament Act",
+        "title": "Bharatiya Nyaya Sanhita, 2023",
+        "url": "https://legislative.gov.in/",
+        "date": "2023-12"
+      },
+      {
+        "type": "Parliament Act",
+        "title": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+        "url": "https://legislative.gov.in/",
+        "date": "2023-12"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is NCRB?",
+        "q_hi": "NCRB क्या है?",
+        "a": "National Crime Records Bureau — a government body under MHA that compiles, coordinates and publishes comprehensive crime statistics of India annually.",
+        "a_hi": "राष्ट्रीय अपराध रिकॉर्ड ब्यूरो — MHA के तहत एक सरकारी निकाय जो वार्षिक अपराध आँकड़े प्रकाशित करता है।"
+      },
+      {
+        "q": "What is the police-population ratio in India?",
+        "q_hi": "भारत में पुलिस-जनसंख्या अनुपात क्या है?",
+        "a": "153 police officers per lakh population (2022) — below the UN recommended standard of 222 per lakh.",
+        "a_hi": "153 पुलिस अधिकारी प्रति लाख जनसंख्या — UN अनुशंसित 222 से कम।"
+      }
+    ],
+    "related_issues": [
+      "iss_007",
+      "iss_009",
+      "iss_021"
+    ],
+    "keywords": [
+      "crime",
+      "police",
+      "ncrb",
+      "cyber",
+      "law",
+      "order",
+      "ipc",
+      "bnss",
+      "enforcement"
+    ]
+  },
+  {
+    "id": "iss_009",
+    "title": "Corruption & Governance",
+    "title_hi": "भ्रष्टाचार और शासन",
+    "category": "Corruption",
+    "slug": "corruption-governance",
+    "summary": "Transparency International's Corruption Perceptions Index (CPI) 2023 ranks India at 93rd out of 180 countries with a score of 39/100. Corruption affects public service delivery, infrastructure, judiciary, and electoral processes. ADR data shows 251 MPs in 2024 Lok Sabha have declared pending criminal cases.",
+    "summary_hi": "ट्रांसपेरेंसी इंटरनेशनल का CPI 2023 भारत को 180 में से 93वें स्थान पर रखता है। भ्रष्टाचार सार्वजनिक सेवा, बुनियादी ढाँचे, न्यायपालिका और चुनावी प्रक्रियाओं को प्रभावित करता है।",
+    "status": "Active",
+    "priority": "High",
+    "severity": "High",
+    "featured": false,
+    "trending": false,
+    "icon": "⚖️",
+    "color": "#2255a4",
+    "last_updated": "2024-01-15",
+    "timeline": [
+      {
+        "year": 2011,
+        "month": "Aug",
+        "event": "Anna Hazare fast and Jan Lokpal movement",
+        "description": "Mass movement demanding strong anti-corruption ombudsman (Lokpal). Led to eventual Lokpal Act 2013.",
+        "reference": "Media Reports"
+      },
+      {
+        "year": 2013,
+        "month": "Dec",
+        "event": "Lokpal and Lokayuktas Act",
+        "description": "Parliament passed Lokpal Act establishing an independent anti-corruption ombudsman at the national level.",
+        "reference": "Gazette of India"
+      },
+      {
+        "year": 2019,
+        "month": "Mar",
+        "event": "First Lokpal appointed",
+        "description": "First Lokpal of India sworn in — more than 5 years after the Act was passed.",
+        "reference": "Gazette of India"
+      },
+      {
+        "year": 2023,
+        "month": "Jan",
+        "event": "CPI 2022 result",
+        "description": "India ranked 85th in CPI 2022 with 40/100 score.",
+        "reference": "Transparency International"
+      },
+      {
+        "year": 2024,
+        "month": "Jan",
+        "event": "CPI 2023 result",
+        "description": "India ranked 93rd with 39/100 — a decline from 85th. ADR data shows 251 MPs with declared criminal cases in new Lok Sabha.",
+        "reference": "Transparency International / ADR"
+      }
+    ],
+    "related_statistics": [
+      "po004",
+      "na005",
+      "cr007"
+    ],
+    "related_news": [
+      "n013"
+    ],
+    "related_surveys": [
+      "s009",
+      "s031",
+      "s043"
+    ],
+    "related_stories": [
+      "st002",
+      "st006"
+    ],
+    "related_politicians": [
+      "pol_001",
+      "pol_046"
+    ],
+    "official_documents": [
+      {
+        "type": "Government Report",
+        "title": "Transparency International CPI 2023",
+        "url": "https://www.transparency.org/",
+        "date": "2024-01"
+      },
+      {
+        "type": "Parliament Act",
+        "title": "Lokpal and Lokayuktas Act, 2013",
+        "url": "https://legislative.gov.in/",
+        "date": "2013-12"
+      },
+      {
+        "type": "Government Report",
+        "title": "ADR Analysis of Lok Sabha 2024 — Criminal Cases",
+        "url": "https://adrindia.org/",
+        "date": "2024-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is the Corruption Perceptions Index?",
+        "q_hi": "भ्रष्टाचार धारणा सूचकांक क्या है?",
+        "a": "CPI is published by Transparency International. It ranks countries based on perceived levels of public sector corruption, using expert assessments and business surveys. Scale is 0 (highly corrupt) to 100 (very clean).",
+        "a_hi": "CPI Transparency International द्वारा प्रकाशित होता है। यह सार्वजनिक क्षेत्र भ्रष्टाचार की माना हुई स्तर के आधार पर देशों को रैंक करता है।"
+      },
+      {
+        "q": "What is Lokpal?",
+        "q_hi": "लोकपाल क्या है?",
+        "a": "Lokpal is an independent anti-corruption ombudsman established under the Lokpal and Lokayuktas Act 2013. It investigates corruption allegations against public servants including the Prime Minister.",
+        "a_hi": "लोकपाल 2013 के अधिनियम के तहत स्थापित एक स्वतंत्र भ्रष्टाचार-विरोधी लोकायुक्त है।"
+      }
+    ],
+    "related_issues": [
+      "iss_008",
+      "iss_021",
+      "iss_001"
+    ],
+    "keywords": [
+      "corruption",
+      "lokpal",
+      "transparency",
+      "governance",
+      "cpi",
+      "bribery",
+      "police",
+      "bureaucracy"
+    ]
+  },
+  {
+    "id": "iss_010",
+    "title": "GST — Goods and Services Tax",
+    "title_hi": "GST — वस्तु और सेवा कर",
+    "category": "Tax",
+    "slug": "gst",
+    "summary": "GST replaced 17 central and state taxes in July 2017, creating a unified indirect tax system. GST collections hit ₹2.10 lakh crore in April 2024 — the highest ever. The system operates across 5 slabs (0%, 5%, 12%, 18%, 28%). Complex compliance, multiple rates, and inverted duty structures remain challenges.",
+    "summary_hi": "GST ने जुलाई 2017 में 17 केंद्रीय और राज्य करों को प्रतिस्थापित किया। GST संग्रह अप्रैल 2024 में ₹2.10 लाख करोड़ पर पहुँचा — सर्वोच्च।",
+    "status": "Active",
+    "priority": "Medium",
+    "severity": "Low",
+    "featured": false,
+    "trending": false,
+    "icon": "📋",
+    "color": "#2255a4",
+    "last_updated": "2024-05-01",
+    "timeline": [
+      {
+        "year": 2017,
+        "month": "Jul",
+        "event": "GST launched",
+        "description": "'One nation, one tax' — GST replaced the complex multi-layered indirect tax system.",
+        "reference": "Ministry of Finance"
+      },
+      {
+        "year": 2021,
+        "month": "Jun",
+        "event": "GST Council — fuel inclusion debate",
+        "description": "GST Council discussed but deferred inclusion of petrol/diesel under GST ambit.",
+        "reference": "GST Council Meeting"
+      },
+      {
+        "year": 2024,
+        "month": "May",
+        "event": "₹2.10 lakh crore — record",
+        "description": "April 2024 GST collection hit all-time high of ₹2.10 lakh crore, showing 12.4% YoY growth.",
+        "reference": "Ministry of Finance"
+      }
+    ],
+    "related_statistics": [
+      "tx002",
+      "tx001",
+      "tx003",
+      "tx004"
+    ],
+    "related_news": [
+      "n002",
+      "n011"
+    ],
+    "related_surveys": [
+      "s002",
+      "s008"
+    ],
+    "related_stories": [
+      "st002"
+    ],
+    "related_politicians": [
+      "pol_004",
+      "pol_001"
+    ],
+    "official_documents": [
+      {
+        "type": "Policy Document",
+        "title": "GST Council Decisions Archive",
+        "url": "https://gstcouncil.gov.in/",
+        "date": "2024-05"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is GST?",
+        "q_hi": "GST क्या है?",
+        "a": "Goods and Services Tax — a comprehensive indirect tax on supply of goods and services across India, combining many previous taxes into one.",
+        "a_hi": "GST वस्तुओं और सेवाओं की आपूर्ति पर एक व्यापक अप्रत्यक्ष कर है।"
+      }
+    ],
+    "related_issues": [
+      "iss_004",
+      "iss_011",
+      "iss_005"
+    ],
+    "keywords": [
+      "gst",
+      "tax",
+      "indirect",
+      "economy",
+      "council",
+      "compliance",
+      "invoice"
+    ]
+  },
+  {
+    "id": "iss_011",
+    "title": "Direct Tax & Income Tax System",
+    "title_hi": "प्रत्यक्ष कर और आयकर प्रणाली",
+    "category": "Tax",
+    "slug": "income-tax",
+    "summary": "India's direct tax collection reached ₹19.58 lakh crore in FY2024 — growing 17.7% YoY. ITR filers increased to 8.18 crore. The New Tax Regime (lower rates, no deductions) was introduced in 2020 and made default from FY2024. Tax-to-GDP ratio remains at ~12%, lower than developed economies.",
+    "summary_hi": "भारत का प्रत्यक्ष कर संग्रह FY2024 में ₹19.58 लाख करोड़ तक पहुँचा। ITR फाइलर बढ़कर 8.18 करोड़ हो गए।",
+    "status": "Active",
+    "priority": "Medium",
+    "severity": "Low",
+    "featured": false,
+    "trending": false,
+    "icon": "📑",
+    "color": "#128807",
+    "last_updated": "2024-07-01",
+    "timeline": [
+      {
+        "year": 2020,
+        "month": "Feb",
+        "event": "New Tax Regime introduced",
+        "description": "Optional lower tax rate regime without exemptions/deductions introduced in Budget 2020.",
+        "reference": "Finance Act 2020"
+      },
+      {
+        "year": 2023,
+        "month": "Apr",
+        "event": "New regime made default",
+        "description": "From FY2024, new tax regime became default. Taxpayers must explicitly opt for old regime.",
+        "reference": "Finance Act 2023"
+      },
+      {
+        "year": 2024,
+        "month": "Jul",
+        "event": "Record ITR filings",
+        "description": "8.18 crore ITRs filed for FY2024 — 7.5% increase from previous year.",
+        "reference": "CBDT Press Release"
+      }
+    ],
+    "related_statistics": [
+      "tx001",
+      "tx003",
+      "tx004",
+      "tx002"
+    ],
+    "related_news": [
+      "n011"
+    ],
+    "related_surveys": [
+      "s008",
+      "s034"
+    ],
+    "related_stories": [
+      "st002"
+    ],
+    "related_politicians": [
+      "pol_004",
+      "pol_001"
+    ],
+    "official_documents": [
+      {
+        "type": "Government Report",
+        "title": "CBDT Annual Report 2023-24",
+        "url": "https://incometaxindia.gov.in/",
+        "date": "2024-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Who must file income tax return?",
+        "q_hi": "आयकर रिटर्न कौन दाखिल करे?",
+        "a": "Anyone with income exceeding basic exemption limit (₹2.5 lakh under old regime, ₹3 lakh under new) must file ITR. Many others also file voluntarily.",
+        "a_hi": "बुनियादी छूट सीमा से अधिक आय वाले सभी को ITR दाखिल करना होगा।"
+      }
+    ],
+    "related_issues": [
+      "iss_010",
+      "iss_004",
+      "iss_013"
+    ],
+    "keywords": [
+      "income tax",
+      "direct tax",
+      "itr",
+      "cbdt",
+      "filing",
+      "exemption",
+      "deduction",
+      "new regime"
+    ]
+  },
+  {
+    "id": "iss_012",
+    "title": "Healthcare Access & Infrastructure",
+    "title_hi": "स्वास्थ्य सेवा पहुँच और बुनियादी ढाँचा",
+    "category": "Healthcare",
+    "slug": "healthcare-access",
+    "summary": "India has made significant progress in healthcare indicators — life expectancy rose to 70.19 years, infant mortality fell to 26.6 per 1000, and 706 medical colleges now operate. However, the doctor-population ratio, hospital bed shortage, and public health expenditure (2.1% of GDP) remain key concerns.",
+    "summary_hi": "भारत ने स्वास्थ्य संकेतकों में महत्वपूर्ण प्रगति की है — जीवन प्रत्याशा 70.19 वर्ष हो गई, शिशु मृत्यु दर 26.6 पर आई। लेकिन डॉक्टर-जनसंख्या अनुपात और सार्वजनिक स्वास्थ्य व्यय चुनौतियाँ हैं।",
+    "status": "Active",
+    "priority": "High",
+    "severity": "High",
+    "featured": false,
+    "trending": false,
+    "icon": "🏥",
+    "color": "#0d9488",
+    "last_updated": "2024-03-01",
+    "timeline": [
+      {
+        "year": 2018,
+        "month": "Sep",
+        "event": "Ayushman Bharat launched",
+        "description": "World's largest publicly funded health insurance scheme covering 55 crore beneficiaries for ₹5 lakh/year hospitalisation.",
+        "reference": "Ministry of Health"
+      },
+      {
+        "year": 2020,
+        "month": "Mar",
+        "event": "COVID-19 healthcare stress",
+        "description": "Pandemic exposed critical gaps in hospital infrastructure, oxygen supply, ICU capacity and healthcare workforce.",
+        "reference": "Ministry of Health Reports"
+      },
+      {
+        "year": 2023,
+        "month": "Jan",
+        "event": "AB-PMJAY reaches 5 crore",
+        "description": "5 crore hospitalisations covered under Ayushman Bharat scheme since launch.",
+        "reference": "NHA Annual Report"
+      },
+      {
+        "year": 2024,
+        "month": "Mar",
+        "event": "706 medical colleges",
+        "description": "India now has 706 NMC-approved medical colleges — 100% increase in 10 years.",
+        "reference": "NMC Report 2024"
+      }
+    ],
+    "related_statistics": [
+      "hc001",
+      "hc002",
+      "hc003",
+      "hc004",
+      "hc005",
+      "hc006",
+      "hc007"
+    ],
+    "related_news": [
+      "n016"
+    ],
+    "related_surveys": [
+      "s007",
+      "s015",
+      "s028",
+      "s042"
+    ],
+    "related_stories": [
+      "st010"
+    ],
+    "related_politicians": [
+      "pol_010",
+      "pol_001"
+    ],
+    "official_documents": [
+      {
+        "type": "Government Report",
+        "title": "National Health Profile 2023",
+        "url": "https://nhp.gov.in/",
+        "date": "2023-12"
+      },
+      {
+        "type": "Policy Document",
+        "title": "Ayushman Bharat-PM-JAY Scheme Guidelines",
+        "url": "https://pmjay.gov.in/",
+        "date": "2018-09"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is Ayushman Bharat?",
+        "q_hi": "आयुष्मान भारत क्या है?",
+        "a": "AB-PMJAY provides ₹5 lakh/year health coverage to approximately 55 crore poor/vulnerable citizens. Hospitalisation is cashless at empanelled public and private hospitals.",
+        "a_hi": "AB-PMJAY लगभग 55 करोड़ गरीब नागरिकों को ₹5 लाख/वर्ष स्वास्थ्य कवरेज प्रदान करता है।"
+      }
+    ],
+    "related_issues": [
+      "iss_002",
+      "iss_006",
+      "iss_014"
+    ],
+    "keywords": [
+      "healthcare",
+      "hospital",
+      "doctor",
+      "neet",
+      "ayushman",
+      "pmjay",
+      "medical",
+      "health",
+      "insurance"
+    ]
+  },
+  {
+    "id": "iss_013",
+    "title": "Digital India & Technology Growth",
+    "title_hi": "डिजिटल इंडिया और तकनीकी विकास",
+    "category": "Digital India",
+    "slug": "digital-india",
+    "summary": "India's digital economy has grown dramatically — 82 crore internet users, 14 billion UPI transactions/month, 28 crore DigiLocker users. India Stack (Aadhaar + UPI + DigiLocker) is internationally cited as a model for digital public infrastructure. Cyber crime (65,893 cases in 2022) is the flipside.",
+    "summary_hi": "भारत की डिजिटल अर्थव्यवस्था तेज़ी से बढ़ी है — 82 करोड़ इंटरनेट उपयोगकर्ता, 14 अरब UPI लेनदेन/माह। India Stack अंतरराष्ट्रीय स्तर पर एक मॉडल के रूप में उद्धृत है।",
+    "status": "Active",
+    "priority": "Medium",
+    "severity": "Low",
+    "featured": false,
+    "trending": true,
+    "icon": "📱",
+    "color": "#0d9488",
+    "last_updated": "2024-05-01",
+    "timeline": [
+      {
+        "year": 2015,
+        "month": "Jul",
+        "event": "Digital India launched",
+        "description": "Digital India programme launched with vision of transforming India into digitally empowered society.",
+        "reference": "Ministry of Electronics & IT"
+      },
+      {
+        "year": 2016,
+        "month": "Nov",
+        "event": "Demonetisation drives UPI",
+        "description": "November 2016 demonetisation dramatically accelerated digital payments adoption.",
+        "reference": "RBI"
+      },
+      {
+        "year": 2022,
+        "month": "Aug",
+        "event": "UPI crosses 6 billion/month",
+        "description": "UPI transactions exceeded 6 billion per month — fastest growing real-time payment system globally.",
+        "reference": "NPCI"
+      },
+      {
+        "year": 2024,
+        "month": "Apr",
+        "event": "UPI hits 14 billion",
+        "description": "14.04 billion UPI transactions in April 2024 — 49% YoY growth.",
+        "reference": "NPCI Press Release"
+      }
+    ],
+    "related_statistics": [
+      "tc001",
+      "tc002",
+      "tc003",
+      "tc004",
+      "cr003"
+    ],
+    "related_news": [
+      "n006",
+      "n015",
+      "n012"
+    ],
+    "related_surveys": [
+      "s022",
+      "s036",
+      "s047"
+    ],
+    "related_stories": [
+      "st009"
+    ],
+    "related_politicians": [
+      "pol_001",
+      "pol_008"
+    ],
+    "official_documents": [
+      {
+        "type": "Policy Document",
+        "title": "Digital India Programme Overview",
+        "url": "https://digitalindia.gov.in/",
+        "date": "2015-07"
+      },
+      {
+        "type": "Government Report",
+        "title": "NPCI Annual Report 2023-24",
+        "url": "https://www.npci.org.in/",
+        "date": "2024-06"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is India Stack?",
+        "q_hi": "India Stack क्या है?",
+        "a": "India Stack is a set of open APIs — Aadhaar (identity), UPI (payments), DigiLocker (documents) — that enables paperless, cashless and presenceless service delivery.",
+        "a_hi": "India Stack खुले API का एक सेट है जो कागज़ रहित, नकदी रहित सेवा प्रदान करता है।"
+      }
+    ],
+    "related_issues": [
+      "iss_018",
+      "iss_008",
+      "iss_004"
+    ],
+    "keywords": [
+      "digital india",
+      "upi",
+      "internet",
+      "5g",
+      "aadhaar",
+      "digilocker",
+      "npci",
+      "technology"
+    ]
+  },
+  {
+    "id": "iss_014",
+    "title": "Poverty & Social Welfare",
+    "title_hi": "गरीबी और सामाजिक कल्याण",
+    "category": "Poverty",
+    "slug": "poverty-welfare",
+    "summary": "India's multidimensional poverty rate fell from 29.7% (2013) to 11.9% (2022) per NITI Aayog. Around 13.5 crore people were lifted out of poverty between 2015–2021. Jan Dhan accounts have reached 53 crore. Yet inequality (Gini 0.345) and rural-urban gaps remain significant.",
+    "summary_hi": "भारत की बहुआयामी गरीबी दर 29.7% (2013) से घटकर 11.9% (2022) हो गई। लेकिन असमानता (Gini 0.345) और ग्रामीण-शहरी अंतर महत्वपूर्ण बने हुए हैं।",
+    "status": "Active",
+    "priority": "High",
+    "severity": "High",
+    "featured": false,
+    "trending": false,
+    "icon": "📉",
+    "color": "#c1272d",
+    "last_updated": "2023-09-01",
+    "timeline": [
+      {
+        "year": 2015,
+        "month": "Jan",
+        "event": "Jan Dhan scheme reaches 10 crore",
+        "description": "Pradhan Mantri Jan Dhan Yojana (PMJDY) crossed 10 crore bank accounts opened for financially excluded citizens.",
+        "reference": "Ministry of Finance"
+      },
+      {
+        "year": 2022,
+        "month": "Jul",
+        "event": "NITI Aayog MPI 2022",
+        "description": "Multidimensional Poverty Index 2022 showed poverty fell from 25% (2015-16) to 15% (2019-21). 13.5 crore escaped poverty.",
+        "reference": "NITI Aayog MPI Report"
+      },
+      {
+        "year": 2023,
+        "month": "Jul",
+        "event": "UNDP MPI confirms progress",
+        "description": "UNDP MPI 2023 confirmed India's poverty at 11.9% — significant decline, but income inequality widening.",
+        "reference": "UNDP Human Development Report"
+      },
+      {
+        "year": 2024,
+        "month": "Jun",
+        "event": "Jan Dhan crosses 53 crore accounts",
+        "description": "PMJDY accounts reached 53.13 crore with deposits of ₹2.30 lakh crore.",
+        "reference": "Ministry of Finance"
+      }
+    ],
+    "related_statistics": [
+      "ec006",
+      "ec008",
+      "em004",
+      "ch003"
+    ],
+    "related_news": [],
+    "related_surveys": [
+      "s041",
+      "s037"
+    ],
+    "related_stories": [
+      "st001",
+      "st003"
+    ],
+    "related_politicians": [
+      "pol_001"
+    ],
+    "official_documents": [
+      {
+        "type": "Government Report",
+        "title": "NITI Aayog National MPI 2023",
+        "url": "https://niti.gov.in/",
+        "date": "2023-07"
+      },
+      {
+        "type": "Policy Document",
+        "title": "PMJDY Scheme Guidelines",
+        "url": "https://pmjdy.gov.in/",
+        "date": "2014-08"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is MPI?",
+        "q_hi": "MPI क्या है?",
+        "a": "Multidimensional Poverty Index measures poverty not just by income but across 10 indicators covering education, health and standard of living.",
+        "a_hi": "MPI न केवल आय से बल्कि शिक्षा, स्वास्थ्य और जीवन स्तर के 10 संकेतकों से गरीबी मापता है।"
+      }
+    ],
+    "related_issues": [
+      "iss_006",
+      "iss_003",
+      "iss_012"
+    ],
+    "keywords": [
+      "poverty",
+      "jan dhan",
+      "mpi",
+      "welfare",
+      "social",
+      "pmjdy",
+      "inequality",
+      "gini"
+    ]
+  },
+  {
+    "id": "iss_015",
+    "title": "Pending Cases & Judicial Backlog",
+    "title_hi": "लंबित मामले और न्यायिक बैकलॉग",
+    "category": "Judiciary",
+    "slug": "judicial-backlog",
+    "summary": "India has 5.06 crore pending cases across all courts as of 2024 per NJDG. Of these, 2.25 lakh cases have been pending for over 20 years. India has 20,558 working judges against a sanctioned strength that is significantly higher. The judge-to-population ratio is approximately 21 per million.",
+    "summary_hi": "2024 में NJDG के अनुसार भारत के सभी न्यायालयों में 5.06 करोड़ मामले लंबित हैं। इनमें से 2.25 लाख मामले 20 वर्षों से अधिक समय से लंबित हैं।",
+    "status": "Active",
+    "priority": "High",
+    "severity": "High",
+    "featured": false,
+    "trending": false,
+    "icon": "⚖️",
+    "color": "#2255a4",
+    "last_updated": "2024-06-01",
+    "timeline": [
+      {
+        "year": 2014,
+        "month": "Apr",
+        "event": "NJDG launched",
+        "description": "National Judicial Data Grid created for real-time tracking of pending cases across High Courts and District Courts.",
+        "reference": "e-Courts Project"
+      },
+      {
+        "year": 2021,
+        "month": "Jul",
+        "event": "4.2 crore cases pending",
+        "description": "Pandemic court closures accelerated backlog growth. Cases pending crossed 4.2 crore.",
+        "reference": "NJDG"
+      },
+      {
+        "year": 2022,
+        "month": "Dec",
+        "event": "Fast-track courts expanded",
+        "description": "1,023 Fast Track Special Courts operational across 28 states/UTs for sensitive cases.",
+        "reference": "Ministry of Law and Justice"
+      },
+      {
+        "year": 2024,
+        "month": "Jun",
+        "event": "5 crore cases milestone",
+        "description": "Total pending cases crossed 5 crore. SC Chief Justice called it a 'crisis' requiring judicial infrastructure expansion.",
+        "reference": "NJDG / Supreme Court"
+      }
+    ],
+    "related_statistics": [
+      "jd001",
+      "jd002",
+      "jd003",
+      "jd004"
+    ],
+    "related_news": [
+      "n007"
+    ],
+    "related_surveys": [
+      "s009",
+      "s039"
+    ],
+    "related_stories": [
+      "st002"
+    ],
+    "related_politicians": [
+      "pol_005",
+      "pol_001"
+    ],
+    "official_documents": [
+      {
+        "type": "Government Report",
+        "title": "National Judicial Data Grid (NJDG) Live Data",
+        "url": "https://njdg.ecourts.gov.in/",
+        "date": "2024-06"
+      },
+      {
+        "type": "Parliament Questions",
+        "title": "Rajya Sabha Questions on Judicial Vacancies",
+        "url": "https://rajyasabha.nic.in/",
+        "date": "2024-03"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is NJDG?",
+        "q_hi": "NJDG क्या है?",
+        "a": "National Judicial Data Grid — a real-time public platform showing pending cases in all District Courts and High Courts across India.",
+        "a_hi": "NJDG एक रीयल-टाइम सार्वजनिक प्लेटफॉर्म है जो भारत के सभी जिला और उच्च न्यायालयों में लंबित मामले दिखाता है।"
+      }
+    ],
+    "related_issues": [
+      "iss_009",
+      "iss_008",
+      "iss_016"
+    ],
+    "keywords": [
+      "judiciary",
+      "pending cases",
+      "njdg",
+      "courts",
+      "judges",
+      "backlog",
+      "justice",
+      "rera"
+    ]
+  },
+  {
+    "id": "iss_016",
+    "title": "Road Infrastructure & Accidents",
+    "title_hi": "सड़क बुनियादी ढाँचा और दुर्घटनाएँ",
+    "category": "Infrastructure",
+    "slug": "road-infrastructure",
+    "summary": "India has the world's 2nd largest road network at 1,46,195 km of national highways. However, 1,68,491 people died in road accidents in 2022 — one of the highest globally. Road safety remains a critical public health concern.",
+    "summary_hi": "भारत का राष्ट्रीय राजमार्ग नेटवर्क 1,46,195 किमी है — दुनिया में दूसरा सबसे बड़ा। लेकिन 2022 में 1,68,491 लोग सड़क दुर्घटनाओं में मारे गए।",
+    "status": "Active",
+    "priority": "High",
+    "severity": "High",
+    "featured": false,
+    "trending": false,
+    "icon": "🛣️",
+    "color": "#2255a4",
+    "last_updated": "2024-03-01",
+    "timeline": [],
+    "related_statistics": [
+      "if001",
+      "if002",
+      "if003",
+      "if004",
+      "if007"
+    ],
+    "related_news": [
+      "n014"
+    ],
+    "related_surveys": [
+      "s010",
+      "s025"
+    ],
+    "related_stories": [
+      "st001"
+    ],
+    "related_politicians": [
+      "pol_009"
+    ],
+    "official_documents": [],
+    "faq": [],
+    "related_issues": [
+      "iss_005",
+      "iss_013",
+      "iss_020"
+    ],
+    "keywords": [
+      "road",
+      "highway",
+      "nhai",
+      "accident",
+      "safety",
+      "infrastructure",
+      "pmgsy"
+    ]
+  },
+  {
+    "id": "iss_017",
+    "title": "Environmental Pollution & Climate",
+    "title_hi": "पर्यावरण प्रदूषण और जलवायु",
+    "category": "Environment",
+    "slug": "pollution-climate",
+    "summary": "Delhi's annual PM2.5 average was 96.4 µg/m³ in 2023 — 19 times WHO's recommended level. India is the 3rd largest CO2 emitter globally at 2.88 GT. However, renewable energy capacity reached 194 GW in 2024, on track for 500 GW by 2030.",
+    "summary_hi": "दिल्ली का वार्षिक PM2.5 2023 में 96.4 µg/m³ था — WHO स्तर से 19 गुना अधिक। भारत 194 GW नवीकरणीय ऊर्जा क्षमता के साथ 2030 तक 500 GW लक्ष्य पर काम कर रहा है।",
+    "status": "Active",
+    "priority": "High",
+    "severity": "High",
+    "featured": false,
+    "trending": false,
+    "icon": "🌳",
+    "color": "#128807",
+    "last_updated": "2024-03-01",
+    "timeline": [],
+    "related_statistics": [
+      "en001",
+      "en002",
+      "en003",
+      "en004",
+      "en005"
+    ],
+    "related_news": [
+      "n005",
+      "n017"
+    ],
+    "related_surveys": [
+      "s023",
+      "s030"
+    ],
+    "related_stories": [
+      "st003"
+    ],
+    "related_politicians": [
+      "pol_001"
+    ],
+    "official_documents": [],
+    "faq": [],
+    "related_issues": [
+      "iss_006",
+      "iss_013",
+      "iss_016"
+    ],
+    "keywords": [
+      "pollution",
+      "air",
+      "water",
+      "climate",
+      "renewable",
+      "solar",
+      "carbon",
+      "cpcb"
+    ]
+  },
+  {
+    "id": "iss_018",
+    "title": "Cyber Crime & Digital Safety",
+    "title_hi": "साइबर अपराध और डिजिटल सुरक्षा",
+    "category": "Cyber Crime",
+    "slug": "cyber-crime",
+    "summary": "Cyber crimes in India rose 24.4% to 65,893 cases in 2022 (NCRB). Financial fraud accounts for the largest share. India's I4C (Indian Cyber Crime Coordination Centre) and the 1930 helpline provide reporting mechanisms.",
+    "summary_hi": "भारत में साइबर अपराध 2022 में 24.4% बढ़कर 65,893 मामले हो गए। वित्तीय धोखाधड़ी सबसे बड़ा हिस्सा है।",
+    "status": "Active",
+    "priority": "High",
+    "severity": "High",
+    "featured": false,
+    "trending": true,
+    "icon": "💻",
+    "color": "#2255a4",
+    "last_updated": "2024-04-01",
+    "timeline": [],
+    "related_statistics": [
+      "cr003",
+      "tc001",
+      "tc002",
+      "cr008"
+    ],
+    "related_news": [
+      "n018"
+    ],
+    "related_surveys": [
+      "s022",
+      "s047"
+    ],
+    "related_stories": [
+      "st009"
+    ],
+    "related_politicians": [
+      "pol_001",
+      "pol_005"
+    ],
+    "official_documents": [],
+    "faq": [],
+    "related_issues": [
+      "iss_013",
+      "iss_008",
+      "iss_009"
+    ],
+    "keywords": [
+      "cyber",
+      "fraud",
+      "online",
+      "scam",
+      "i4c",
+      "digital",
+      "internet",
+      "helpline"
+    ]
+  },
+  {
+    "id": "iss_019",
+    "title": "Railway Safety & Infrastructure",
+    "title_hi": "रेलवे सुरक्षा और बुनियादी ढाँचा",
+    "category": "Railways",
+    "slug": "railway-safety",
+    "summary": "India has the world's 4th largest railway network at 68,584 km. Railway accidents fell from 59 in 2019 to 30 in 2023. The Kavach automatic train protection system is being deployed. Electrification has crossed 90%.",
+    "summary_hi": "भारत में 68,584 किमी का रेलवे नेटवर्क है — विश्व में चौथा सबसे बड़ा। रेल दुर्घटनाएँ 2019 के 59 से घटकर 2023 में 30 हो गईं।",
+    "status": "Active",
+    "priority": "Medium",
+    "severity": "Medium",
+    "featured": false,
+    "trending": false,
+    "icon": "🚂",
+    "color": "#c1272d",
+    "last_updated": "2024-03-01",
+    "timeline": [],
+    "related_statistics": [
+      "if002",
+      "if003"
+    ],
+    "related_news": [
+      "n014"
+    ],
+    "related_surveys": [
+      "s025"
+    ],
+    "related_stories": [
+      "st001"
+    ],
+    "related_politicians": [
+      "pol_009",
+      "pol_001"
+    ],
+    "official_documents": [],
+    "faq": [],
+    "related_issues": [
+      "iss_016",
+      "iss_013"
+    ],
+    "keywords": [
+      "railway",
+      "train",
+      "accident",
+      "kavach",
+      "electrification",
+      "infrastructure",
+      "safety"
+    ]
+  },
+  {
+    "id": "iss_020",
+    "title": "Internal Migration",
+    "title_hi": "आंतरिक प्रवासन",
+    "category": "Migration",
+    "slug": "internal-migration",
+    "summary": "India has 45.36 crore internal migrants per NSSO data. Most migrate for employment — from rural Bihar, UP, Bengal, Odisha to industrial hubs in Maharashtra, Delhi, Gujarat, Tamil Nadu. COVID-19 reverse migration in 2020 exposed the precariousness of migrant worker status.",
+    "summary_hi": "भारत में 45.36 करोड़ आंतरिक प्रवासी हैं। COVID-19 के दौरान 2020 में रिवर्स माइग्रेशन ने प्रवासी मज़दूरों की स्थिति की नाजुकता उजागर की।",
+    "status": "Active",
+    "priority": "Medium",
+    "severity": "Medium",
+    "featured": false,
+    "trending": false,
+    "icon": "🚶",
+    "color": "#0d9488",
+    "last_updated": "2024-01-01",
+    "timeline": [],
+    "related_statistics": [
+      "mi001",
+      "mi002",
+      "mi003"
+    ],
+    "related_news": [
+      "n020"
+    ],
+    "related_surveys": [
+      "s024",
+      "s044"
+    ],
+    "related_stories": [
+      "st001"
+    ],
+    "related_politicians": [
+      "pol_001"
+    ],
+    "official_documents": [],
+    "faq": [],
+    "related_issues": [
+      "iss_003",
+      "iss_006",
+      "iss_014"
+    ],
+    "keywords": [
+      "migration",
+      "migrant",
+      "labour",
+      "urban",
+      "rural",
+      "covid",
+      "remittance"
+    ]
+  },
+  {
+    "id": "iss_021",
+    "title": "Police Reforms",
+    "title_hi": "पुलिस सुधार",
+    "category": "Police",
+    "slug": "police-reforms",
+    "summary": "India has 22.26 lakh police personnel — 153 per lakh population, below the UN recommended 222. 5.28 lakh sanctioned posts remain vacant. Supreme Court issued landmark directions in 2006 (Prakash Singh case) for police reforms, many of which remain partially implemented.",
+    "summary_hi": "भारत में 22.26 लाख पुलिसकर्मी हैं — 153 प्रति लाख जनसंख्या। 5.28 लाख स्वीकृत पद रिक्त हैं।",
+    "status": "Active",
+    "priority": "High",
+    "severity": "Medium",
+    "featured": false,
+    "trending": false,
+    "icon": "👮",
+    "color": "#2255a4",
+    "last_updated": "2024-01-01",
+    "timeline": [],
+    "related_statistics": [
+      "na002",
+      "cr009",
+      "cr001"
+    ],
+    "related_news": [
+      "n018"
+    ],
+    "related_surveys": [
+      "s039",
+      "s048"
+    ],
+    "related_stories": [
+      "st006"
+    ],
+    "related_politicians": [
+      "pol_005",
+      "pol_001"
+    ],
+    "official_documents": [],
+    "faq": [],
+    "related_issues": [
+      "iss_008",
+      "iss_009",
+      "iss_015"
+    ],
+    "keywords": [
+      "police",
+      "reform",
+      "vakancy",
+      "bpr",
+      "crime",
+      "law",
+      "order"
+    ]
+  },
+  {
+    "id": "iss_022",
+    "title": "Child Welfare & Malnutrition",
+    "title_hi": "बाल कल्याण और कुपोषण",
+    "category": "Children",
+    "slug": "child-welfare",
+    "summary": "India has 35.5% child stunting rate (NFHS-5) and 33.8 lakh estimated child labourers. However, child immunization has risen to 93.3% and Anganwadi coverage expanded to 13.53 lakh centres. Child malnutrition remains concentrated in UP, Bihar, Rajasthan and Madhya Pradesh.",
+    "summary_hi": "भारत में 35.5% बाल ठिगनापन दर है और 33.8 लाख अनुमानित बाल श्रमिक हैं। टीकाकरण 93.3% पर पहुँचा और आँगनवाड़ी 13.53 लाख केंद्रों तक बढ़ी।",
+    "status": "Active",
+    "priority": "High",
+    "severity": "High",
+    "featured": false,
+    "trending": false,
+    "icon": "👶",
+    "color": "#f59e0b",
+    "last_updated": "2023-12-01",
+    "timeline": [],
+    "related_statistics": [
+      "ch001",
+      "ch002",
+      "ch003",
+      "ch004"
+    ],
+    "related_news": [
+      "n016"
+    ],
+    "related_surveys": [
+      "s006",
+      "s007"
+    ],
+    "related_stories": [
+      "st005",
+      "st010"
+    ],
+    "related_politicians": [
+      "pol_001",
+      "pol_010"
+    ],
+    "official_documents": [],
+    "faq": [],
+    "related_issues": [
+      "iss_012",
+      "iss_014",
+      "iss_007"
+    ],
+    "keywords": [
+      "child",
+      "nutrition",
+      "stunting",
+      "labour",
+      "anganwadi",
+      "nfhs",
+      "malnutrition"
+    ]
+  },
+  {
+    "id": "iss_023",
+    "title": "Renewable Energy & Climate Goals",
+    "title_hi": "नवीकरणीय ऊर्जा और जलवायु लक्ष्य",
+    "category": "Environment",
+    "slug": "renewable-energy",
+    "summary": "India's renewable energy capacity reached 194 GW in 2024 — one of the fastest growing globally. The 2030 target is 500 GW from non-fossil fuel sources. Solar capacity led growth. India committed to net zero by 2070 at COP26.",
+    "summary_hi": "भारत की नवीकरणीय ऊर्जा क्षमता 2024 में 194 GW पर पहुँची। 2030 का लक्ष्य 500 GW है। COP26 में 2070 तक नेट शून्य का वादा।",
+    "status": "Active",
+    "priority": "Medium",
+    "severity": "Low",
+    "featured": false,
+    "trending": false,
+    "icon": "☀️",
+    "color": "#128807",
+    "last_updated": "2024-06-01",
+    "timeline": [],
+    "related_statistics": [
+      "en003",
+      "en002",
+      "en004"
+    ],
+    "related_news": [
+      "n005"
+    ],
+    "related_surveys": [
+      "s030",
+      "s023"
+    ],
+    "related_stories": [
+      "st003"
+    ],
+    "related_politicians": [
+      "pol_001"
+    ],
+    "official_documents": [],
+    "faq": [],
+    "related_issues": [
+      "iss_017",
+      "iss_005",
+      "iss_013"
+    ],
+    "keywords": [
+      "renewable",
+      "solar",
+      "wind",
+      "net zero",
+      "cop26",
+      "energy",
+      "climate"
+    ]
+  },
+  {
+    "id": "iss_024",
+    "title": "Election System & Democracy",
+    "title_hi": "चुनाव प्रणाली और लोकतंत्र",
+    "category": "Politics",
+    "slug": "election-democracy",
+    "summary": "Lok Sabha 2024 had 96.8 crore registered voters — largest electorate globally. Voter turnout was 65.79%. EVM (Electronic Voting Machine) security, campaign finance transparency, and model code of conduct enforcement are ongoing areas of public interest.",
+    "summary_hi": "लोकसभा 2024 में 96.8 करोड़ पंजीकृत मतदाता थे — विश्व में सबसे बड़े। मतदान 65.79% था। EVM सुरक्षा और चुनाव वित्त पारदर्शिता सार्वजनिक रुचि के क्षेत्र हैं।",
+    "status": "Active",
+    "priority": "High",
+    "severity": "Medium",
+    "featured": false,
+    "trending": false,
+    "icon": "🗳️",
+    "color": "#2255a4",
+    "last_updated": "2024-06-15",
+    "timeline": [],
+    "related_statistics": [
+      "po001",
+      "po002",
+      "po003",
+      "po004",
+      "cr007"
+    ],
+    "related_news": [
+      "n010",
+      "n013"
+    ],
+    "related_surveys": [
+      "s013",
+      "s031"
+    ],
+    "related_stories": [
+      "st006"
+    ],
+    "related_politicians": [
+      "pol_001",
+      "pol_046"
+    ],
+    "official_documents": [],
+    "faq": [],
+    "related_issues": [
+      "iss_009",
+      "iss_008",
+      "iss_021"
+    ],
+    "keywords": [
+      "election",
+      "evm",
+      "eci",
+      "voter",
+      "democracy",
+      "model code",
+      "turnout"
+    ]
+  },
+  {
+    "id": "iss_025",
+    "title": "Education Access & Literacy",
+    "title_hi": "शिक्षा पहुँच और साक्षरता",
+    "category": "Education",
+    "slug": "education-access",
+    "summary": "India's literacy rate is 77.7% (NSF 2023). Primary enrollment reached 98.4% but secondary dropout rate remains at 14.9%. Higher education GER is 28.4%. 1.48 lakh schools operate in India. The National Education Policy 2020 has introduced significant structural changes.",
+    "summary_hi": "भारत की साक्षरता दर 77.7% है। प्राथमिक नामांकन 98.4% तक पहुँचा लेकिन माध्यमिक ड्रॉपआउट दर 14.9% है। राष्ट्रीय शिक्षा नीति 2020 ने महत्वपूर्ण बदलाव किए।",
+    "status": "Active",
+    "priority": "High",
+    "severity": "Medium",
+    "featured": false,
+    "trending": false,
+    "icon": "📚",
+    "color": "#ff9933",
+    "last_updated": "2024-01-01",
+    "timeline": [],
+    "related_statistics": [
+      "ed001",
+      "ed002",
+      "ed003",
+      "ed005",
+      "ed006",
+      "ed007"
+    ],
+    "related_news": [
+      "n003"
+    ],
+    "related_surveys": [
+      "s006",
+      "s019"
+    ],
+    "related_stories": [
+      "st004",
+      "st005"
+    ],
+    "related_politicians": [
+      "pol_001",
+      "pol_010"
+    ],
+    "official_documents": [],
+    "faq": [],
+    "related_issues": [
+      "iss_001",
+      "iss_002",
+      "iss_022"
+    ],
+    "keywords": [
+      "education",
+      "literacy",
+      "nep",
+      "enrollment",
+      "dropout",
+      "school",
+      "university",
+      "udise"
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "min_finance",
+    "name": "Ministry of Finance",
+    "name_hi": "वित्त मंत्रालय",
+    "minister_id": "pol_004"
+  },
+  {
+    "id": "min_home",
+    "name": "Ministry of Home Affairs",
+    "name_hi": "गृह मंत्रालय",
+    "minister_id": "pol_005"
+  }
+]

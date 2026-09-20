@@ -1,0 +1,785 @@
+[
+  {
+    "id": "st001",
+    "title": "सपनों का शहर",
+    "title_en": "City of Dreams",
+    "subtitle": "एक युवा के संघर्ष की कहानी",
+    "subtitle_en": "A Young Man's Story of Struggle",
+    "author": "जंगल राज लेखक समूह",
+    "category": "Migration",
+    "language": "hi",
+    "readingTime": 8,
+    "featured": true,
+    "trending": true,
+    "coverColor": "#c1272d",
+    "coverEmoji": "🏙️",
+    "tags": [
+      "migration",
+      "youth",
+      "dreams"
+    ],
+    "active": true,
+    "pages": [
+      {
+        "id": "p1",
+        "title": "विदाई",
+        "illustration": "🌅",
+        "text": "अर्जुन की माँ ने उसका माथा चूमा और एक पुरानी रुमाल उसकी मुट्ठी में थमा दी। उस रुमाल पर उसकी दादी ने फूल काढ़े थे। \"शहर जाना है, तो अपना गाँव मत भूलना,\" माँ की आँखों में आँसू थे पर होंठों पर मुस्कान थी। अर्जुन 22 साल का था। उसके जेब में था — एक टिकट, 800 रुपये, और एक सपना।\n\nगाँव के चौराहे पर बाकी लोग जमा थे। कुछ शुभकामनाएँ देने, कुछ जलन छुपाने। \"देखो, ये भी जाएगा, छह महीने में वापस आएगा,\" बुजुर्ग रमेशदादा ने बीड़ी फूँकते हुए कहा। अर्जुन ने कुछ नहीं कहा। उसने बस झुककर उनके पैर छुए और बस की तरफ चल दिया।",
+        "text_en": "Arjun's mother kissed his forehead and pressed an old handkerchief into his fist — his grandmother had embroidered flowers on it. 'You're going to the city, but don't forget your village,' she said, tears in her eyes but a smile on her lips. Arjun was 22. In his pocket: a ticket, 800 rupees, and a dream.\n\nAt the village crossroads, others had gathered — some to wish him well, some hiding envy. 'Watch, this one will go and come back in six months,' said old Ramesh-dada, puffing on a bidi. Arjun said nothing. He touched the elder's feet and walked toward the bus."
+      },
+      {
+        "id": "p2",
+        "title": "पहला दिन",
+        "illustration": "🚉",
+        "text": "मुंबई के बांद्रा स्टेशन पर उतरते ही अर्जुन का सिर चकरा गया। लाखों लोग, हज़ारों आवाज़ें, और एक अजीब सी गंध — पसीने, खाने और सीमेंट की। वह दो घंटे प्लेटफॉर्म पर खड़ा रहा।\n\nफिर एक आदमी आया — संजय। वो भी उसी गाँव का था, पाँच साल पहले गया था। \"चल, मेरे साथ। धारावी में एक कमरा है, चार लोग रहते हैं, पाँचवें के लिए जगह निकालेंगे।\" अर्जुन ने राहत की साँस ली।",
+        "text_en": "Stepping off at Bandra station, Arjun's head spun. Millions of people, thousands of voices, a strange smell — sweat, food and cement. He stood on the platform for two hours.\n\nThen a man appeared — Sanjay, from the same village, gone five years ago. 'Come with me. There's a room in Dharavi, four people share it, we'll make space for a fifth.' Arjun breathed a sigh of relief."
+      },
+      {
+        "id": "p3",
+        "title": "छोटा सा कमरा",
+        "illustration": "🏚️",
+        "text": "कमरा 10 फुट गुणा 8 फुट था। पाँच बिस्तर, एक साझा बाथरूम, और एक छोटी सी खिड़की जिससे अगले मकान की दीवार दिखती थी।\n\nअर्जुन के पास BA का डिप्लोमा था। उसने सोचा था शहर में कोई अच्छी नौकरी मिलेगी। पर पहले हफ्ते में उसे एक गैरेज में काम मिला — 200 रुपये रोज़। डिप्लोमा की कॉपी उसने बैग की तह में रख दी।",
+        "text_en": "The room was 10 by 8 feet. Five beds, a shared bathroom, a small window showing the next building's wall.\n\nArjun had a BA diploma. He'd thought he'd find a good job in the city. But in the first week, he found work at a garage — 200 rupees a day. He tucked the diploma to the bottom of his bag."
+      },
+      {
+        "id": "p4",
+        "title": "पहला पत्र",
+        "illustration": "✉️",
+        "text": "\"माँ, मैं ठीक हूँ। काम मिल गया है। जल्द ही पैसे भेजूँगा।\" अर्जुन ने पत्र लिखा। उसने यह नहीं लिखा कि वो रात को रो लेता है। उसने यह नहीं लिखा कि खाना कभी-कभी भात और नमक होता है।\n\nमाँ का जवाब आया दो हफ्ते बाद — एक पोस्टकार्ड: \"बेटा, याद रहे — जो बीज बोते हैं वो फल तुरंत नहीं देते। पर एक दिन ज़रूर देते हैं।\" अर्जुन ने वो पोस्टकार्ड अपने बिस्तर के ऊपर टाँग दिया।",
+        "text_en": "'Maa, I am fine. I have found work. I will send money soon.' Arjun wrote the letter — not that he cries at night, not that dinner is sometimes just rice and salt.\n\nHis mother's reply came two weeks later on a postcard: 'Son, seeds sown do not give fruit immediately. But they do, one day.' Arjun pinned that postcard above his bed."
+      },
+      {
+        "id": "p5",
+        "title": "एक मौका",
+        "illustration": "🚗",
+        "text": "छह महीने बाद गैरेज के बाहर एक फैंसी कार रुकी। मालिक बाहर आए। \"अर्जुन, ये साहब कंपनी के लिए ड्राइवर ढूँढ रहे हैं। तुम्हारी तारीफ की मैंने।\"\n\nइंटरव्यू में साहब ने पूछा: \"पढ़ाई?\" \"BA।\" \"क्यों ड्राइवर बनना है?\" \"साहब, अभी यही काम आया। पर मैं सीखना चाहता हूँ।\" साहब ने कहा — \"कल से आओ।\"",
+        "text_en": "Six months later a fancy car stopped outside the garage. The owner came out. 'Arjun, these people need a driver for their company. I recommended you.'\n\nIn the interview: 'Education?' 'BA.' 'Why do you want to be a driver?' 'Sir, this is the work that came. But I want to learn.' The man said — 'Come from tomorrow.'"
+      },
+      {
+        "id": "p6",
+        "title": "धीरे-धीरे",
+        "illustration": "💻",
+        "text": "अर्जुन ड्राइवर था पर उसने देखा — सोचा — सीखा। मालिक के बेटे नितिन ने एक दिन उसे कंप्यूटर पर काम करते देखा — एक्सेल की शीट में हिसाब लगाते। \"यह तुमने खुद से सीखा?\" \"हाँ साहब, यूट्यूब से।\"\n\nनितिन ने उसे ऑफिस में एक छोटी जगह दी — डेटा एंट्री के लिए। तनख्वाह वही रही पर दरवाज़ा खुल गया।",
+        "text_en": "Arjun was a driver but he watched, thought, and learned. The owner's son Nitin one day saw him working on a computer — calculating in Excel. 'You learned this yourself?' 'Yes sir, from YouTube.'\n\nNitin gave him a small place in the office for data entry. The salary stayed the same but a door had opened."
+      },
+      {
+        "id": "p7",
+        "title": "घर की याद",
+        "illustration": "🏡",
+        "text": "दो साल हो गए थे। अर्जुन ने घर पैसे भेजे — छोटी बहन की पढ़ाई के लिए, माँ की दवाई के लिए। गाँव के कुछ लोगों ने कहा — \"देखो, अर्जुन तो निकल गया।\"\n\nपर अर्जुन जब भी गाँव लौटता, उसे लगता — यहाँ की मिट्टी की खुशबू शहर में नहीं मिलती। माँ के हाथ की रोटी का स्वाद किसी होटल में नहीं। वो शहर में था, पर उसका दिल आधा गाँव में ही रहा।",
+        "text_en": "Two years had passed. Arjun had sent money home — for his sister's education, his mother's medicine. Village people said — 'Look, Arjun has made it.'\n\nBut whenever Arjun returned, he felt — the scent of this soil can't be found in the city. His mother's flatbread can't be matched in any restaurant. He was in the city, but his heart remained half in the village."
+      },
+      {
+        "id": "p8",
+        "title": "सपना पूरा होता है",
+        "illustration": "🌊",
+        "text": "तीन साल बाद, अर्जुन कंपनी का असिस्टेंट मैनेजर था। उसकी माँ आई शहर — पहली बार। उसने उन्हें समुद्र दिखाया। माँ ने आँखें बंद कर, लहरों की आवाज़ सुनी।\n\n\"बेटा, सपनों का शहर तो था यह। पर सपना तुमने खुद पूरा किया।\"\n\nअर्जुन के पास अब एक छोटा-सा फ्लैट था, अच्छी नौकरी थी। पर वो रुमाल — जिस पर दादी ने फूल काढ़े थे — वो आज भी उसकी जेब में था।",
+        "text_en": "Three years later Arjun was assistant manager. His mother came to the city — for the first time. He showed her the sea. She closed her eyes and listened to the waves.\n\n'Son, this was the city of dreams. But you fulfilled the dream yourself.'\n\nArjun now had a small flat, a good job. But that handkerchief — grandmother's embroidered flowers — it was still in his pocket."
+      }
+    ]
+  },
+  {
+    "id": "st002",
+    "title": "ईमानदार करदाता",
+    "title_en": "The Honest Taxpayer",
+    "subtitle": "एक आम आदमी की असाधारण कहानी",
+    "subtitle_en": "An Ordinary Man's Extraordinary Story",
+    "author": "जंगल राज लेखक समूह",
+    "category": "Tax",
+    "language": "hi",
+    "readingTime": 7,
+    "featured": false,
+    "trending": true,
+    "coverColor": "#2255a4",
+    "coverEmoji": "📋",
+    "tags": [
+      "tax",
+      "honesty",
+      "middle-class"
+    ],
+    "active": true,
+    "pages": [
+      {
+        "id": "p1",
+        "title": "रमेश का हिसाब",
+        "illustration": "📊",
+        "text": "रमेश गुप्ता हर साल मार्च में एक काम ज़रूर करते थे — वो अपनी पूरी आय का हिसाब लगाते, हर पाई का। उनकी पत्नी कहती, \"और लोग छुपाते हैं, तुम क्यों नहीं?\" रमेश हँसते और कहते, \"जो सड़क पर चलते हैं, जो अस्पताल जाते हैं — वो सब मेरे टैक्स से बनते हैं।\"\n\nवो एक छोटे शहर में कपड़े की दुकान चलाते थे। बस ईमानदार।",
+        "text_en": "Every March Ramesh Gupta did one thing — calculated his complete income, every paisa. His wife said, 'Others hide income, why don't you?' He would laugh: 'The roads we walk, the hospitals we visit — they're built from my tax.'\n\nHe ran a small cloth shop. Just honest."
+      },
+      {
+        "id": "p2",
+        "title": "वो नोटिस",
+        "illustration": "📬",
+        "text": "एक दिन डाकिये ने एक नीला लिफाफा दिया। रमेश के हाथ थोड़े काँपे — आयकर विभाग का नोटिस। उन्होंने पढ़ा: \"आपकी आय में अनियमितता पाई गई है।\" रमेश हैरान थे। उन्होंने तो हर साल पूरी ईमानदारी से फाइल की थी।\n\nपड़ोसी मनोहर ने सलाह दी: \"एक CA को 5,000 रुपये दो, सब ठीक हो जाएगा।\" रमेश ने मना कर दिया। \"मैंने गलत नहीं किया तो डरूँगा क्यों?\"",
+        "text_en": "One day a blue envelope arrived. Ramesh's hands trembled — an income tax notice. 'Irregularities found in your income.' He was confused: he had filed honestly every year.\n\nNeighbour Manohar advised: 'Give a CA 5,000 rupees and it'll be sorted.' Ramesh refused. 'I haven't done wrong, so why should I be afraid?'"
+      },
+      {
+        "id": "p3",
+        "title": "दफ्तर का चक्कर",
+        "illustration": "🏛️",
+        "text": "आयकर दफ्तर में रमेश तीन दिन लगातार गए। हर दिन एक नई लाइन, एक नया काउंटर, एक नया कागज़। पहले दिन — फॉर्म 26AS। दूसरे दिन — बैंक स्टेटमेंट। तीसरे दिन — \"साहब बाहर गए हैं।\"\n\nरमेश रोज़ घर लौटते — थके, निराश, पर डटे हुए। बेटी दिव्या पूछती, \"पापा, क्या आपने कुछ गलत किया?\" \"नहीं बेटा। इसीलिए मैं लड़ रहा हूँ।\"",
+        "text_en": "Ramesh went to the income tax office three days in a row. Each day a new queue, a new counter, a new document. Day one — Form 26AS. Day two — bank statement. Day three — 'Sir is out.'\n\nHe returned each day tired but resolute. His daughter Divya asked, 'Papa, did you do something wrong?' 'No, child. That's exactly why I'm fighting.'"
+      },
+      {
+        "id": "p4",
+        "title": "वो अफसर",
+        "illustration": "👩‍💼",
+        "text": "चौथे दिन एक युवा अफसर मिली — मिस पाटिल। उन्होंने रमेश की पूरी फाइल देखी, शांति से। आधे घंटे बाद बोलीं — \"इसमें आपकी कोई गलती नहीं। बैंक ने गलत TDS दर्ज किया है। हम सुधार करेंगे।\"\n\nरमेश की आँखें भर आईं। \"मैडम, आपने पहले दिन यह क्यों नहीं देखा?\" मिस पाटिल थोड़ा झेंपीं — \"माफ कीजिए। सिस्टम में देरी है।\"",
+        "text_en": "On the fourth day he met a young officer — Miss Patil. She reviewed the entire file calmly. Half an hour later: 'You haven't made any mistake. The bank recorded TDS incorrectly. We will correct it.'\n\nRamesh's eyes filled. 'Madam, why didn't you see this on day one?' Miss Patil looked embarrassed — 'I'm sorry. There are delays in the system.'"
+      },
+      {
+        "id": "p5",
+        "title": "वापसी",
+        "illustration": "🛣️",
+        "text": "दो महीने बाद, रमेश के खाते में पैसे वापस आए। ब्याज सहित। वो खड़े हुए — अपनी दुकान के सामने — और उन्हें पहली बार शहर की सड़क अलग तरह से दिखी। उस सड़क पर उनका भी थोड़ा-सा हिस्सा था।\n\nमनोहर पड़ोसी ने फिर कहा — \"तुम पागल हो, इतना झेला।\" रमेश ने कहा — \"पागल नहीं। नागरिक।\"",
+        "text_en": "Two months later money returned to his account — with interest. He stood before his shop and saw the city road differently. On that road was a small part of him too.\n\nNeighbour Manohar said — 'You're crazy, you went through all that.' Ramesh said — 'Not crazy. A citizen.'"
+      },
+      {
+        "id": "p6",
+        "title": "दिव्या का सवाल",
+        "illustration": "📝",
+        "text": "उस रात दिव्या ने पूछा — \"पापा, अगर आप हार जाते तो?\" रमेश कुछ देर चुप रहे। फिर बोले — \"तो भी मैं वही करता जो मैंने किया। बेटा, ईमानदारी का नतीजा हमेशा नहीं दिखता, पर बेईमानी का नतीजा हमेशा अंदर से दिखता है।\"\n\nदिव्या ने नोटबुक में लिख लिया। साल बाद जब वो निबंध लिखेगी — \"मेरे हीरो\" — उसमें पापा का नाम होगा।",
+        "text_en": "That night Divya asked — 'Papa, what if you had lost?' Ramesh was quiet, then: 'Even then I would have done the same. Child, the result of honesty isn't always visible, but the result of dishonesty is always visible from within.'\n\nDivya wrote it in her notebook. When she writes 'My Hero' next year, her father's name will be in it."
+      },
+      {
+        "id": "p7",
+        "title": "एक आदत",
+        "illustration": "🏪",
+        "text": "उसके बाद से रमेश ने एक काम और शुरू किया — वो हर साल अपनी दुकान के ग्राहकों को पक्का बिल देते। कुछ नाराज़ हुए — \"GST लगेगा।\" रमेश ने समझाया — \"यही GST हमारे बच्चों के स्कूल बनाती है।\"\n\nधीरे-धीरे, उनकी दुकान के कुछ ग्राहक पक्के हो गए — वो जो ईमानदार व्यापार को मानते थे।",
+        "text_en": "After that Ramesh started giving every customer a proper receipt. Some were annoyed — 'GST will apply.' Ramesh explained — 'This same GST builds schools for our children.'\n\nGradually some customers became regulars — those who believed in honest trade. A small revolution in a small shop."
+      },
+      {
+        "id": "p8",
+        "title": "असली टैक्स",
+        "illustration": "🌟",
+        "text": "रमेश गुप्ता अब 60 साल के हैं। उन्होंने 35 साल टैक्स भरा — हमेशा ईमानदारी से। उनकी दुकान बड़ी नहीं हुई। वो करोड़पति नहीं बने। पर उनके मोहल्ले में एक नई सड़क बनी — उसमें उनका टैक्स लगा था।\n\nरमेश जब उस सड़क से गुज़रते, तो उन्हें गर्व होता। \"यह मेरी भी सड़क है। मैंने भी बनाई है।\"",
+        "text_en": "Ramesh Gupta is now 60. He paid taxes for 35 years — always honestly. His shop didn't grow large. But a new road was built in his neighbourhood — his tax had gone into it. A government school was built — his money was there too.\n\nWhen he walks past that road, he feels pride. 'This is my road too. I helped build it.'"
+      }
+    ]
+  },
+  {
+    "id": "st003",
+    "title": "एक किसान की आशा",
+    "title_en": "A Farmer's Hope",
+    "subtitle": "मिट्टी से जुड़ी एक माँ की कहानी",
+    "subtitle_en": "A Mother's Story Rooted in Soil",
+    "author": "जंगल राज लेखक समूह",
+    "category": "Agriculture",
+    "language": "hi",
+    "readingTime": 9,
+    "featured": false,
+    "trending": false,
+    "coverColor": "#128807",
+    "coverEmoji": "🌾",
+    "tags": [
+      "farmer",
+      "agriculture",
+      "hope"
+    ],
+    "active": true,
+    "pages": [
+      {
+        "id": "p1",
+        "title": "कमला की ज़मीन",
+        "illustration": "🌱",
+        "text": "कमला देवी के पास तीन बीघा ज़मीन थी — उसके पति की विरासत। पति गए तो बेटे शहर चले गए। कमला अकेली रही — अपनी ज़मीन के साथ। गाँव के लोग कहते थे, \"अकेली औरत क्या करेगी खेती? बेच दो।\" कमला ने मुस्कुराकर कहा — \"यह ज़मीन मेरे पति की अमानत है।\"",
+        "text_en": "Kamla Devi had three bighas of land — her husband's legacy. When he passed, her sons went to the city. The village said, 'What will a lone woman do with farming? Sell it.' Kamla smiled: 'This land is my husband's trust. I will not sell it.'"
+      },
+      {
+        "id": "p2",
+        "title": "अकेली खेती",
+        "illustration": "🌾",
+        "text": "सुबह चार बजे कमला उठती — ओस में भीगी घास से होकर अपने खेत तक। बैल नहीं थे, मज़दूरों के पैसे नहीं थे। उसने पड़ोस के लड़कों से मदद माँगी। कभी-कभी मिली, कभी-कभी नहीं।\n\nपर कमला झुकी नहीं। उसके हाथों की लकीरें मिट्टी से भर गई थीं — जैसे ज़मीन ने उसे अपना लिया हो।",
+        "text_en": "Kamla woke at four, walking through dew-soaked grass to her field. No oxen, no money for labourers. She asked neighbouring boys for help — sometimes they came, sometimes not.\n\nBut Kamla didn't bend. The lines of her palms filled with soil — as if the land had accepted her as its own."
+      },
+      {
+        "id": "p3",
+        "title": "सूखे का मौसम",
+        "illustration": "☀️",
+        "text": "उस साल मानसून देर से आया। खेत में दरारें पड़ गईं। कमला की फसल पीली पड़ने लगी। उसने तालाब से पानी ढोया — घड़े से, सिर पर।\n\nएक सरकारी कर्मचारी सूखा सर्वे करने आया। \"कितना नुकसान?\" कमला ने सोचा — 40%। उसने लिख दिया — 40%। सच बोला।",
+        "text_en": "That year the monsoon came late. Cracks appeared in the field. Kamla carried water from the pond — in a clay pot, on her head.\n\nA government worker came for drought survey. 'How much loss?' Kamla thought — 40%. She said — 40%. She told the truth."
+      },
+      {
+        "id": "p4",
+        "title": "मुआवज़ा",
+        "illustration": "💰",
+        "text": "तीन महीने बाद, कमला के खाते में 4,200 रुपये आए। बेटे ने फोन किया, \"माँ, कितने मिले?\" \"4,200।\" \"बस? और लोगों ने 50-60 हज़ार लिए।\" कमला ने कहा — \"बेटा, झूठे नुकसान के पैसे लेने से मिट्टी को क्या मिलता है?\"\n\nउसने वो पैसे बीज खरीदने में लगाए।",
+        "text_en": "Three months later 4,200 rupees arrived. Her son called: 'How much did you get?' '4,200.' 'That's all? Others took 50-60 thousand.' Kamla said: 'Son, what does the soil gain from taking money for false losses?'\n\nShe put that money into seeds for the next crop."
+      },
+      {
+        "id": "p5",
+        "title": "नई फसल",
+        "illustration": "🍅",
+        "text": "अगली बार कमला ने सब्जियाँ आज़माईं। आधी ज़मीन में गेहूँ, आधे में टमाटर और प्याज़। टमाटर खूब हुए। पहली बार कमला खुद मंडी गई — सिर पर टोकरी। बिचौलिया कम दाम देने लगा। कमला ने ठान लिया — सीधे बेचूँगी। और बेची — एक होटल मालिक को।",
+        "text_en": "Next time Kamla tried vegetables — wheat in half the land, tomatoes and onions in the other. The tomatoes grew abundantly. For the first time she went to the market herself, basket on her head. The middleman gave low prices. Kamla decided — I'll sell directly. And she did — to a hotel owner."
+      },
+      {
+        "id": "p6",
+        "title": "अनुभव",
+        "illustration": "👩‍🌾",
+        "text": "पाँच साल में कमला ने दस महिला किसानों को इकट्ठा किया। उन्होंने एक सब्जी उत्पादक समूह बनाया — साथ में खरीदना, साथ में बेचना।\n\nएक ज़िला अफसर आए: \"हम आपको ट्रेनिंग दे सकते हैं।\" कमला ने कहा — \"पहले बाज़ार तक पहुँचने का रास्ता ठीक करिए।\" अफसर चौंके।",
+        "text_en": "In five years Kamla gathered ten women farmers, forming a Vegetable Producer Group — buy together, sell together.\n\nA district officer came: 'We can give you training.' Kamla said — 'First fix the road to the market.' The officer was taken aback."
+      },
+      {
+        "id": "p7",
+        "title": "माँ की प्रार्थना",
+        "illustration": "🙏",
+        "text": "हर सुबह कमला अपने खेत की मेड़ पर खड़ी होकर आकाश देखती। यह उसकी प्रार्थना थी — बिना मंदिर के, बिना पंडित के।\n\n\"बस यही माँगती हूँ — कि जो मेहनत करूँ, उसका फल मिले।\" उसकी आँखों में न आँसू थे, न शिकायत। बस एक शांत उम्मीद।",
+        "text_en": "Every morning Kamla stood on the bund and looked at the sky. This was her prayer — without a temple, without a priest.\n\n'I only ask — that my work bears fruit. That's all.' In her eyes: no tears, no complaints. Just a quiet hope."
+      },
+      {
+        "id": "p8",
+        "title": "ज़मीन की आवाज़",
+        "illustration": "🌿",
+        "text": "कमला का बड़ा बेटा शहर से लौटा। उसने माँ का खेत देखा — साफ, हरा-भरा। उसने पूछा — \"माँ, मुझे भी सिखाओगी?\" कमला हँसी — पहली बार इतना।\n\nवो तीन बीघा ज़मीन — जो \"बेचने वाली\" थी — आज उस परिवार की पहचान थी। मिट्टी कभी झूठ नहीं बोलती।",
+        "text_en": "Kamla's elder son returned from the city. He saw the field — clean, green. He asked — 'Maa, will you teach me too?' Kamla laughed — more heartily than ever before.\n\nThose three bighas — which were 'meant to be sold' — were today the family's identity. The soil never lies."
+      }
+    ]
+  },
+  {
+    "id": "st004",
+    "title": "माँ की दुआ",
+    "title_en": "A Mother's Prayer",
+    "subtitle": "एक बेटे की परीक्षा",
+    "subtitle_en": "A Son's Exam, A Mother's Strength",
+    "author": "जंगल राज लेखक समूह",
+    "category": "Education",
+    "language": "hi",
+    "readingTime": 7,
+    "featured": false,
+    "trending": true,
+    "coverColor": "#ff9933",
+    "coverEmoji": "📚",
+    "tags": [
+      "education",
+      "exam",
+      "family"
+    ],
+    "active": true,
+    "pages": [
+      {
+        "id": "p1",
+        "title": "आखिरी रात",
+        "illustration": "🌙",
+        "text": "रात के दो बज रहे थे। सुमित की किताबें मेज़ पर बिखरी थीं। कल UPSC का प्रीलिम्स था। माँ — सावित्री — रसोई में थी। चाय बना रही थी। पाँचवीं बार।\n\n\"माँ, सो जाओ।\" \"जब तू सोएगा, तब सोऊँगी।\" सावित्री के हाथ खुरदरे थे — साल भर घर में काम, घर के बाहर सिलाई, बेटे की किताबें खरीदना। उन्होंने कभी हिसाब नहीं लगाया।",
+        "text_en": "It was two in the morning. Books scattered on the table. Tomorrow: UPSC Prelims. Maa — Savitri — was in the kitchen making tea. For the fifth time.\n\n'Maa, sleep.' 'When you sleep, I'll sleep.' Her hands were rough — household work, tailoring, buying books. She had never counted the cost."
+      },
+      {
+        "id": "p2",
+        "title": "तीन साल",
+        "illustration": "📖",
+        "text": "सुमित तीन साल से तैयारी कर रहा था। पहले साल — उत्साह। दूसरे साल — शक। तीसरे साल — थकान। हर बार परीक्षा हॉल से निकलते वक्त लगता — इस बार हो जाएगा। हर बार थोड़ा पीछे।\n\nसावित्री ने पति को समझाया — \"बेटा मेहनत कर रहा है। बस एक और मौका।\"",
+        "text_en": "Three years of preparation. Year one — enthusiasm. Year two — doubt. Year three — exhaustion. Every time coming out of the hall: this time it will happen. Every time, falling just short.\n\nSavitri told her husband — 'Our son is working hard. Just one more chance.'"
+      },
+      {
+        "id": "p3",
+        "title": "परीक्षा का दिन",
+        "illustration": "✏️",
+        "text": "सुबह छह बजे सावित्री ने सुमित के माथे पर टीका लगाया। उसके हाथ में एक छोटी मूर्ति थी — उनकी माँ ने दी थी। सुमित को इश्वर में विश्वास था या नहीं, वो खुद नहीं जानता था। पर माँ का भरोसा — वो काफी था।\n\nपरीक्षा हॉल में 300 परीक्षार्थी थे। सुमित ने पेपर देखा — सवाल परिचित लगे।",
+        "text_en": "At six in the morning Savitri put a tilak on Sumit's forehead and gave him a small idol — her own mother's. Whether Sumit believed in God or not, he didn't know. But his mother's faith — that was enough.\n\nIn the hall: 300 examinees. Sumit looked at the paper — the questions felt familiar."
+      },
+      {
+        "id": "p4",
+        "title": "इंतज़ार",
+        "illustration": "⏳",
+        "text": "परीक्षा के बाद दो महीने का इंतज़ार। सावित्री रोज़ पूजा करती — ज़्यादा देर तक। उन्होंने उपवास रखे। कोई नहीं जानता था। यह उनका और भगवान का काम था।\n\nसुमित जानता था — यह प्रार्थना उसके लिए नहीं, माँ की अपनी ताकत के लिए थी।",
+        "text_en": "Two months of waiting. Savitri prayed longer every day. She kept fasts. No one knew — this was between her and God.\n\nSumit understood — this prayer was not for him, it was for his mother's own strength."
+      },
+      {
+        "id": "p5",
+        "title": "परिणाम",
+        "illustration": "🏆",
+        "text": "रिजल्ट आया — ऑनलाइन। \"Qualified for Mains.\"\n\nसुमित उठा — रसोई में गया। सावित्री सब्जी काट रही थी। उसने माँ की पीठ से लगकर बाँहें डाल दीं। कुछ नहीं बोला। सावित्री ने चाकू रखा। माँ को पता चल गया।",
+        "text_en": "The result came — online. 'Qualified for Mains.'\n\nSumit went to the kitchen. Savitri was chopping vegetables. He wrapped his arms around her from behind. Said nothing. She put down the knife. A mother always knows."
+      },
+      {
+        "id": "p6",
+        "title": "कंगन",
+        "illustration": "💛",
+        "text": "मेन्स के लिए पैसों की दिक्कत आई। सावित्री ने अपना सोने का कंगन बेचा। सुमित को नहीं बताया।\n\nजब पता चला — पड़ोसन के ज़रिए — वो रो पड़ा। \"माँ, तुमने क्यों?\" \"क्योंकि तू मेरा सोना है।\" इस एक वाक्य में जो था — उसे कोई शब्द नहीं माप सकता।",
+        "text_en": "For Mains, money became a problem. Savitri sold her gold bangle without telling Sumit.\n\nWhen he found out through a neighbour — he cried. 'Maa, why?' 'Because you are my gold.' In those words was something no language can measure."
+      },
+      {
+        "id": "p7",
+        "title": "इंटरव्यू",
+        "illustration": "🎯",
+        "text": "सुमित ने मेन्स पास किया। इंटरव्यू के दिन सावित्री ने वही दाल-चावल बनाया जो बचपन में बनाती थीं।\n\nइंटरव्यू बोर्ड में एक बड़े अफसर ने पूछा — \"आपकी प्रेरणा क्या है?\" सुमित ने सोचा — \"कंगन।\" पर बोला — \"मेरी माँ।\"",
+        "text_en": "Sumit passed Mains. On interview day Savitri cooked the same dal-rice from his childhood.\n\nThe interview board's senior officer asked — 'What is your inspiration?' Sumit thought — 'The bangle.' But said — 'My mother.'"
+      },
+      {
+        "id": "p8",
+        "title": "वो दिन",
+        "illustration": "✨",
+        "text": "Final merit list में सुमित का नाम था। सावित्री ने सुना — बेटी ने पढ़कर सुनाया — और वो चुप हो गईं। एक लंबी चुप्पी। फिर — \"भगवान ने सुनी।\"\n\nसुमित जानता था — भगवान ने नहीं, माँ ने बनाया। उसकी मेहनत और माँ की दुआ — दोनों मिलकर एक दिन।",
+        "text_en": "Sumit's name was on the final merit list. Savitri heard her daughter read it — and went quiet. A long silence. Then — 'God listened.'\n\nSumit knew — it wasn't God, it was his mother who made it happen. Hard work and a mother's prayer — together they made one day."
+      }
+    ]
+  },
+  {
+    "id": "st005",
+    "title": "भूला हुआ गाँव",
+    "title_en": "The Forgotten Village",
+    "subtitle": "एक शिक्षिका की लड़ाई",
+    "subtitle_en": "A Teacher's Fight",
+    "author": "जंगल राज लेखक समूह",
+    "category": "Education",
+    "language": "hi",
+    "readingTime": 8,
+    "featured": false,
+    "trending": false,
+    "coverColor": "#7a1a1f",
+    "coverEmoji": "🏫",
+    "tags": [
+      "village",
+      "education",
+      "teacher"
+    ],
+    "active": true,
+    "pages": [
+      {
+        "id": "p1",
+        "title": "नियुक्ति",
+        "illustration": "🗺️",
+        "text": "प्रिया शर्मा की पोस्टिंग हुई — ढेकुली गाँव, जिला बस्ती। पहुँचने के लिए बस, फिर ट्रैक्टर, फिर पैदल। तीन घंटे बाद एक टूटा-फूटा स्कूल दिखा।\n\n\"यही है?\" उसने पूछा। \"हाँ मैडम। पहले वाले मास्टर जी नौ महीने में चले गए।\" प्रिया ने बैग रखा। \"मैं नहीं जाऊँगी।\"",
+        "text_en": "Priya Sharma was posted to Dhekuli village, district Basti. To reach it: bus, tractor, then walk. Three hours later: a dilapidated school.\n\n'This is it?' 'Yes Madam. The previous teacher left in nine months.' Priya put her bag down. 'I won't leave.'"
+      },
+      {
+        "id": "p2",
+        "title": "पहली कक्षा",
+        "illustration": "👧",
+        "text": "पहले दिन 12 बच्चे आए — उम्र 6 से 14। एक कमरा, छत में छेद, किताबें पुरानी। प्रिया ने पूछा — \"तुम्हें क्या बनना है?\" एक लड़की बोली — \"डॉक्टर।\" \"तुम्हारा नाम?\" \"रानी।\" \"रानी, तुम ज़रूर डॉक्टर बनोगी।\"",
+        "text_en": "First day: 12 children, aged 6 to 14. One room, hole in the roof, old books. Priya asked — 'What do you want to become?' One girl said — 'Doctor.' 'Your name?' 'Rani.' 'Rani, you will definitely become a doctor.'"
+      },
+      {
+        "id": "p3",
+        "title": "मरम्मत",
+        "illustration": "🔨",
+        "text": "पहले महीने प्रिया ने अपनी तनख्वाह से छत की मरम्मत कराई। पुरानी किताबें जुटाईं। एक NGO ने थोड़ी मदद की।\n\nगाँव वाले बोले — \"सरकार को करना चाहिए।\" प्रिया ने कहा — \"ज़रूर। पर अभी बारिश आएगी और बच्चे बाहर नहीं बैठ सकते।\"",
+        "text_en": "In the first month Priya repaired the roof from her own salary, gathered old books, got help from an NGO.\n\nVillagers said — 'The government should do this.' Priya said — 'Of course. But the rains will come and the children can't sit outside.'"
+      },
+      {
+        "id": "p4",
+        "title": "विरोध",
+        "illustration": "🚶‍♀️",
+        "text": "तीन महीने में उपस्थिति 12 से 28। पर कुछ माँ-बाप ने बच्चियाँ भेजना बंद किया। प्रिया घर-घर गई। एक माँ ने कहा — \"पढ़ाई से क्या?\" प्रिया ने कहा — \"आपकी बेटी की शादी होगी। पर शादी के बाद भी खुद के लिए कुछ कर सके — यह पढ़ाई के लिए है।\"",
+        "text_en": "Attendance went from 12 to 28. But some parents stopped sending girls. Priya went house to house. A mother asked — 'What's the use of education?' Priya said — 'Your daughter will get married. But if she can do something for herself after marriage too — that's what education is for.'"
+      },
+      {
+        "id": "p5",
+        "title": "रानी",
+        "illustration": "🥇",
+        "text": "रानी 11 साल की थी पर गणित में 14 साल के बच्चों जितनी तेज़। प्रिया ने उसे जिले की विज्ञान प्रतियोगिता में भेजा।\n\nरानी ने पहला पुरस्कार जीता। जिले से अखबार आया। फोटो खींची। ढेकुली गाँव पहली बार किसी अखबार में था।",
+        "text_en": "Rani was 11 but as sharp in maths as children three years older. Priya sent her to the district science competition.\n\nRani won first prize. A newspaper reporter came. Photos were taken. Dhekuli village was for the first time in any newspaper."
+      },
+      {
+        "id": "p6",
+        "title": "ट्रांसफर",
+        "illustration": "📄",
+        "text": "पाँचवें साल प्रिया को ट्रांसफर का नोटिस — शहर के बड़े स्कूल में। उसने रद्द करने का आवेदन दिया।\n\nज़िला शिक्षा अधिकारी हैरान — \"तुम शहर से वापस जाना चाहती हो?\" \"हाँ सर। वहाँ 10 शिक्षक हैं। यहाँ सिर्फ मैं हूँ।\"",
+        "text_en": "Fifth year: transfer notice to a city school. Priya applied to cancel it.\n\nThe education officer was surprised — 'You want to go back from the city?' 'Yes sir. There they have 10 teachers. Here there is only me.'"
+      },
+      {
+        "id": "p7",
+        "title": "दस साल",
+        "illustration": "📚",
+        "text": "दस साल बाद ढेकुली में 120 बच्चे थे, दो और शिक्षक, एक छोटी लाइब्रेरी। रानी मेडिकल कॉलेज में थी — गाँव की पहली डॉक्टर बनने वाली।\n\nप्रिया की माँ ने पूछा — \"बेटा, तुमने शहर की नौकरी छोड़ दी?\" \"माँ, शहर में नौकरी है। यहाँ काम है।\"",
+        "text_en": "Ten years later: 120 children, two more teachers, a small library. Rani was in medical college — the first doctor-to-be from the village.\n\nPriya's mother asked — 'You gave up the city job?' 'Maa, in the city there is a job. Here there is work.'"
+      },
+      {
+        "id": "p8",
+        "title": "मैडम का सबक",
+        "illustration": "👩‍⚕️",
+        "text": "रानी पहली बार घर आई — MBBS के बाद। उसने प्रिया मैडम के पैर छुए।\n\n\"मैडम, आपने कहा था मैं डॉक्टर बनूँगी।\" \"मैंने वो नहीं कहा था — वो तो तुम्हारे अंदर था।\" यही था प्रिया शर्मा का काम — सिखाना नहीं, दिखाना कि क्या संभव है।",
+        "text_en": "Rani came home after MBBS and touched Priya Madam's feet.\n\n'Madam, you said I would become a doctor.' 'I didn't say that — it was already inside you.' That was Priya Sharma's work — not to teach, but to show what is possible."
+      }
+    ]
+  },
+  {
+    "id": "st006",
+    "title": "पेपर लीक",
+    "title_en": "Paper Leak",
+    "subtitle": "एक मेहनती लड़की की कसौटी",
+    "subtitle_en": "An Honest Girl's True Test",
+    "author": "जंगल राज लेखक समूह",
+    "category": "Education",
+    "language": "hi",
+    "readingTime": 9,
+    "featured": false,
+    "trending": true,
+    "coverColor": "#2255a4",
+    "coverEmoji": "📝",
+    "tags": [
+      "exam",
+      "corruption",
+      "justice"
+    ],
+    "active": true,
+    "pages": [
+      {
+        "id": "p1",
+        "title": "चार साल की मेहनत",
+        "illustration": "⏰",
+        "text": "नेहा राजपूत ने चार साल लगाए — राज्य पुलिस SI परीक्षा की तैयारी में। सुबह पाँच बजे उठना, रात बारह बजे सोना। पिताजी किसान थे। फीस के लिए उन्होंने एक बीघा ज़मीन बेची।\n\nनेहा को पता था — यह उसके लिए नहीं, पूरे परिवार की उम्मीद के लिए है।",
+        "text_en": "Neha Rajput spent four years preparing for the state Police SI exam. Wake at five, sleep at midnight. Her father sold one bigha of land for her fees.\n\nNeha knew — this was not for her alone, but for the hope of the whole family."
+      },
+      {
+        "id": "p2",
+        "title": "परीक्षा का दिन",
+        "illustration": "🖊️",
+        "text": "परीक्षा के दिन माँ ने माथे पर टीका लगाया। पिताजी ने कहा — \"बेटा, हमने जो कर सकते थे किया।\"\n\nपरीक्षा हॉल में नेहा ने पेपर देखा। प्रश्न परिचित थे — बहुत परिचित। उसने लिखा, सोचा, और आश्वस्त हुई।",
+        "text_en": "On exam day her mother put a tilak on her forehead. Her father said — 'Child, we did what we could.'\n\nIn the hall Neha looked at the paper. The questions felt familiar — very familiar. She wrote and felt assured."
+      },
+      {
+        "id": "p3",
+        "title": "खबर",
+        "illustration": "📰",
+        "text": "परीक्षा के दो दिन बाद अखबार में — \"SI परीक्षा का पेपर लीक।\" नेहा ने पढ़ा। उसके हाथ से अखबार गिर गया।\n\nजाँच शुरू हुई। परीक्षा रद्द होने की बात आने लगी। चार साल, एक बीघा ज़मीन, और अब यह।",
+        "text_en": "Two days after the exam — 'SI exam paper leaked.' Neha read it. The newspaper fell from her hands.\n\nAn investigation started. The exam might be cancelled. Four years, one bigha of land, and now this."
+      },
+      {
+        "id": "p4",
+        "title": "परीक्षा रद्द",
+        "illustration": "😤",
+        "text": "परीक्षा आयोग ने घोषणा की — परीक्षा निरस्त। नई परीक्षा छह महीने बाद। नेहा के गाँव में कोई रो रहा था, कोई गुस्से में था।\n\nनेहा ने रोया नहीं। उसने अगले दिन से फिर पढ़ना शुरू किया।",
+        "text_en": "The commission announced — exam cancelled. New exam in six months. Some were crying, some were angry.\n\nNeha did not cry. From the next day she started studying again."
+      },
+      {
+        "id": "p5",
+        "title": "गुस्सा सही जगह",
+        "illustration": "✊",
+        "text": "प्रदर्शन में नेहा भी गई — पर उसने एक साइन बोर्ड उठाया: \"जिसने पेपर लीक किया, उसे सज़ा दो। हम निर्दोष हैं।\"\n\nएक पत्रकार ने पूछा — \"आप क्या चाहती हैं?\" \"न्याय। पर जल्दी वाला न्याय नहीं — सही न्याय।\"",
+        "text_en": "At the protest Neha held a sign: 'Punish those who leaked the paper. We are innocent.'\n\nA journalist asked — 'What do you want?' 'Justice. But not hasty justice — correct justice.'"
+      },
+      {
+        "id": "p6",
+        "title": "छह महीने",
+        "illustration": "📚",
+        "text": "छह महीने में नेहा ने पहले से ज़्यादा गहराई से तैयारी की। इस बार ट्यूशन पढ़ाकर खुद फीस दी।\n\nनई परीक्षा का दिन आया। इस बार कड़ी सुरक्षा थी। नेहा हॉल में बैठी — वही शांति, वही ध्यान।",
+        "text_en": "In six months Neha prepared more deeply than before, paying fees herself by giving tuitions.\n\nThe new exam came. This time strict security. Neha sat in the hall — the same calm, the same focus."
+      },
+      {
+        "id": "p7",
+        "title": "परिणाम",
+        "illustration": "👮‍♀️",
+        "text": "रिजल्ट आया। नेहा — 3rd Rank। SI बनी।\n\nजब नेहा वर्दी में पहली बार निकली — पिताजी ने देखा और चुप हो गए। माँ ने चाय बनाई। गाँव वाले मिठाई लेकर आए।",
+        "text_en": "The result: Neha — 3rd Rank. She became an SI.\n\nWhen she came out in uniform for the first time, her father looked and went quiet. Her mother made tea. The village came with sweets."
+      },
+      {
+        "id": "p8",
+        "title": "पाठ",
+        "illustration": "⚖️",
+        "text": "नेहा अब उसी ज़िले में पोस्टेड है जहाँ पेपर लीक हुआ था। उसके जूनियर ने पूछा — \"मैडम, इन मामलों पर इतना ध्यान क्यों?\" नेहा ने कहा — \"क्योंकि मैं उनकी जगह हो सकती थी — अगर उस दिन मैंने गलत रास्ता चुना होता।\"",
+        "text_en": "Neha is now posted in the same district where the paper leaked. Her junior asked — 'Madam, why so much attention on these cases?' Neha said — 'Because I could have been in their place — if that day I had chosen the wrong path.'"
+      }
+    ]
+  },
+  {
+    "id": "st007",
+    "title": "बेटी का सपना",
+    "title_en": "A Daughter's Dream",
+    "subtitle": "एक पीढ़ी का बदलाव",
+    "subtitle_en": "A Generational Change",
+    "author": "जंगल राज लेखक समूह",
+    "category": "Women's Safety",
+    "language": "hi",
+    "readingTime": 7,
+    "featured": false,
+    "trending": false,
+    "coverColor": "#a855f7",
+    "coverEmoji": "🌺",
+    "tags": [
+      "women",
+      "dreams",
+      "change"
+    ],
+    "active": true,
+    "pages": [
+      {
+        "id": "p1",
+        "title": "दो पीढ़ियाँ",
+        "illustration": "👩‍👧",
+        "text": "सरिता की माँ ने कभी स्कूल नहीं देखा। उनकी शादी 16 में, बच्चे 18 में। उन्होंने कभी शिकायत नहीं की। पर जब सरिता पैदा हुई, उन्होंने एक वादा किया — \"यह पढ़ेगी।\"\n\nउस वादे को पूरा करने में 20 साल लगे।",
+        "text_en": "Sarita's mother never saw a school. Married at 16, children at 18. She never complained. But when Sarita was born she made a promise — 'She will study.'\n\nFulfilling that promise took 20 years."
+      },
+      {
+        "id": "p2",
+        "title": "पापा का डर",
+        "illustration": "👨‍👧",
+        "text": "पिता अच्छे आदमी थे — पर डरे हुए। \"लड़की बाहर जाएगी तो क्या सोचेंगे लोग?\" माँ ने कहा — \"लड़की घर में रहेगी तो क्या बनेगी?\"\n\nएक दिन पिताजी ने कहा — \"ठीक है। पढ़ने जाओ। पर पास होना।\" यह पिता का अपने डर से जीतना था।",
+        "text_en": "Her father was a good man — but afraid. 'If the girl goes out, what will people think?' Her mother said — 'If she stays home, what will she become?'\n\nOne day her father said — 'Fine. Go to study. But pass.' This was a father winning over his own fear."
+      },
+      {
+        "id": "p3",
+        "title": "कॉलेज",
+        "illustration": "🎨",
+        "text": "सरिता जब कॉलेज गई — पहली बार अपने गाँव से बाहर। पहले हफ्ते रोई। दूसरे हफ्ते दोस्त बने। तीसरे हफ्ते लाइब्रेरी ढूँढ ली।\n\nकमर्शियल आर्ट की पढ़ाई। उसे ड्राइंग पसंद थी — बचपन से। पर कभी किसी ने नहीं कहा था — यह भी करियर हो सकता है।",
+        "text_en": "When Sarita went to college — for the first time outside her village. First week she cried. Second week: friends. Third week: she found the library.\n\nShe studied commercial art. She had liked drawing since childhood. But no one had ever said — this too can be a career."
+      },
+      {
+        "id": "p4",
+        "title": "पहला काम",
+        "illustration": "💵",
+        "text": "तीसरे साल एक NGO ने पोस्टर की ज़रूरत बताई। सरिता का काम चुना गया। पाँच सौ रुपये मिले — पहली कमाई।\n\nसरिता ने वो पाँच सौ रुपये घर भेजे। माँ ने हाथ में लेकर देखा — बेटी की पहली कमाई।",
+        "text_en": "Third year: an NGO needed poster designs. Sarita's work was selected. Five hundred rupees — her first earnings.\n\nSarita sent that money home. Her mother held it in her hands — her daughter's first earnings."
+      },
+      {
+        "id": "p5",
+        "title": "विवाह का दबाव",
+        "illustration": "💼",
+        "text": "डिग्री के बाद रिश्ते आने शुरू हुए। एक रिश्तेदार ने कहा — \"इतनी पढ़ाई से क्या हुआ? आखिर घर ही सँभालना है।\" सरिता ने शांति से कहा — \"घर सँभालना भी करूँगी, काम भी करूँगी।\"",
+        "text_en": "After the degree, marriage proposals started. A relative said — 'What came of all this education? Ultimately the home has to be managed.' Sarita said calmly — 'I'll manage the home too, and I'll work too.'"
+      },
+      {
+        "id": "p6",
+        "title": "स्टूडियो",
+        "illustration": "🖥️",
+        "text": "नौकरी मिली — एक छोटे विज्ञापन स्टूडियो में। दो साल में अपना नाम बनाया। फ्रीलांस काम आने लगा।\n\nएक बड़े ब्रांड से पहला बड़ा प्रोजेक्ट मिला। उसने माँ को बताया — माँ पूरी तरह नहीं समझीं, पर हँसीं — \"मेरी बेटी काम कर रही है।\"",
+        "text_en": "A job came at a small advertising studio. She made her name in two years. Freelance work started coming.\n\nFirst big project from a big brand. She told her mother — who didn't fully understand but smiled — 'My daughter is working.'"
+      },
+      {
+        "id": "p7",
+        "title": "माँ का घर",
+        "illustration": "🏠",
+        "text": "तीन साल बाद सरिता ने माँ को शहर बुलाया। माँ ने सब देखा — कंप्यूटर, डिज़ाइन बोर्ड, किताबें।\n\n\"यह तू बनाती है?\" माँ ने एक पोस्टर उठाया। \"हाँ माँ।\" माँ ने आँसू पोंछे। \"मुझे डर लगता है कि मैंने सपना देखा है।\"",
+        "text_en": "Three years later Sarita called her mother to the city. She saw everything — computer, design board, books.\n\n'You make all this?' picking up a poster. 'Yes, Maa.' Her mother wiped tears. 'I'm afraid this is a dream I'm dreaming.'"
+      },
+      {
+        "id": "p8",
+        "title": "बदलाव",
+        "illustration": "🌸",
+        "text": "सरिता की शादी हुई — उसकी मर्ज़ी से, उसके समय पर। उसका पति भी समझता था — दो लोग, दो सपने।\n\nजब उनकी बेटी हुई, सरिता ने नाम रखा — \"आकांक्षा।\" माँ ने पूछा — \"यह नाम क्यों?\" \"क्योंकि माँ, हमारी अकांक्षाएँ ही हमें आगे ले जाती हैं।\"",
+        "text_en": "Sarita got married — by her own choice, on her own timeline. Her husband understood — two people, two dreams.\n\nWhen their daughter was born, Sarita named her — 'Aakanksha' (Aspiration). Her mother asked — 'Why this name?' 'Because Maa, our aspirations take us forward.'"
+      }
+    ]
+  },
+  {
+    "id": "st008",
+    "title": "छोटी दुकान, बड़ा दिल",
+    "title_en": "Small Shop, Big Heart",
+    "subtitle": "एक दुकानदार की मानवता",
+    "subtitle_en": "A Shopkeeper's Humanity",
+    "author": "जंगल राज लेखक समूह",
+    "category": "Economy",
+    "language": "hi",
+    "readingTime": 6,
+    "featured": false,
+    "trending": false,
+    "coverColor": "#f59e0b",
+    "coverEmoji": "🏪",
+    "tags": [
+      "economy",
+      "community",
+      "humanity"
+    ],
+    "active": true,
+    "pages": [
+      {
+        "id": "p1",
+        "title": "मोहल्ले की दुकान",
+        "illustration": "🏪",
+        "text": "शाहपुर बाज़ार में रफीक भाई की किराना दुकान थी — 40 साल से। दुकान छोटी थी, पर उसमें एक कुर्सी थी — ग्राहक के लिए।\n\n\"ग्राहक थका आता है, बैठे,\" रफीक भाई कहते। इसी एक बात ने उन्हें मोहल्ले का दिल बना दिया।",
+        "text_en": "Rafiq Bhai's grocery shop in Shahpur Bazar — for 40 years. Small shop, but there was a chair — for the customer.\n\n'The customer comes tired, let them sit,' he would say. This one thing made him the heart of the neighbourhood."
+      },
+      {
+        "id": "p2",
+        "title": "उधारी",
+        "illustration": "📒",
+        "text": "रफीक भाई की एक पुरानी कॉपी थी — उसमें उधारी के नाम। मोहल्ले के आधे लोगों का नाम था। पर उन्होंने कभी किसी को शर्मिंदा नहीं किया।\n\nकोविड के समय उन्होंने सारी उधारी माफ कर दी। बस इस एक खबर ने पूरे मोहल्ले को रुलाया।",
+        "text_en": "An old notebook with names of those who owed him money. Half the neighbourhood. But he never embarrassed anyone.\n\nDuring Covid he forgave all the credit in that notebook. Just this one thing made the whole neighbourhood cry."
+      },
+      {
+        "id": "p3",
+        "title": "बड़ी दुकान",
+        "illustration": "🏬",
+        "text": "पास में एक बड़ी चेन की दुकान खुली — AC, बिलिंग मशीन। कुछ लोग वहाँ जाने लगे। रफीक भाई ने देखा, पर कुछ नहीं कहा।\n\nतीन महीने बाद वो दुकान बंद हो गई। लोग वापस आए। \"क्या हुआ?\" रफीक भाई हँसे — \"दुकान नहीं, रिश्ता चाहिए।\"",
+        "text_en": "A big chain store opened nearby — AC, billing machines. Some people went there. Rafiq Bhai said nothing.\n\nThree months later the big store closed. People came back. 'What happened?' Rafiq Bhai smiled — 'People need a relationship, not just a shop.'"
+      },
+      {
+        "id": "p4",
+        "title": "रात की दुकान",
+        "illustration": "🌙",
+        "text": "रात 11 बजे एक 10 साल का लड़का आया — रोते हुए। \"माँ को बुखार है, दवाई नहीं है।\" रफीक भाई की दुकान बंद थी। उन्होंने किवाड़ खोले, दवाई दी, पैसे नहीं लिए।\n\n\"अल्लाह देख रहा है,\" उन्होंने कहा।",
+        "text_en": "At 11 pm a 10-year-old boy came crying. 'Mother has fever, no medicine at home.' The shop was closed. Rafiq Bhai opened the door, gave medicine, took no money.\n\n'Allah is watching,' he said."
+      },
+      {
+        "id": "p5",
+        "title": "बेटे की नाराज़गी",
+        "illustration": "👨‍👦",
+        "text": "बेटे इरफान ने एक दिन कहा — \"अब्बा, उधारी माफ, दवाई मुफ्त — यह काम नहीं चलेगा।\" रफीक भाई बोले — \"बेटा, हम गरीब नहीं हैं। जानता है क्यों? क्योंकि इस मोहल्ले के लोग हमारी असली पूँजी हैं।\"",
+        "text_en": "Son Irfan said one day — 'Abba, forgiving credit, medicine for free — this business won't work.' Rafiq Bhai said — 'Son, we are not poor. Do you know why? Because the people in this neighbourhood are our real capital.'"
+      },
+      {
+        "id": "p6",
+        "title": "40 साल",
+        "illustration": "🎉",
+        "text": "जब दुकान की 40वीं वर्षगाँठ आई, मोहल्ले ने जश्न मनाया। बच्चों ने गाना गाया, औरतों ने खाना बनाया। रफीक भाई बीच में बैठे थे — रोते हुए।\n\n\"इतनी इज़्ज़त?\" बेटे ने पूछा। \"यह इज़्ज़त मैंने नहीं, इन लोगों ने बनाई।\"",
+        "text_en": "On the shop's 40th anniversary the neighbourhood celebrated. Children sang, women cooked. Rafiq Bhai sat in the middle — crying.\n\n'So much respect?' his son asked. 'I didn't create this respect, these people did.'"
+      },
+      {
+        "id": "p7",
+        "title": "विरासत",
+        "illustration": "👴",
+        "text": "रफीक भाई अब 72 साल के हैं। इरफान दुकान चलाता है। उसने वो पुरानी कुर्सी नहीं हटाई। नई कॉपी रखी — उधारी के लिए। पुराना रेडियो रखा।\n\nरफीक भाई कभी-कभी बैठते हैं — बस देखने के लिए। \"बेटे ने सीखा,\" वो मुस्कुराते हैं।",
+        "text_en": "Rafiq Bhai is now 72. Irfan runs the shop. He didn't remove the old chair. Kept a new notebook for credit. Kept the old radio.\n\nRafiq Bhai sometimes sits — just to watch. 'My son has learned,' he smiles."
+      }
+    ]
+  },
+  {
+    "id": "st009",
+    "title": "युवा इंजीनियर",
+    "title_en": "The Young Graduate",
+    "subtitle": "नौकरी नहीं, काम ढूँढो",
+    "subtitle_en": "Don't Look for a Job, Find the Work",
+    "author": "जंगल राज लेखक समूह",
+    "category": "Employment",
+    "language": "hi",
+    "readingTime": 8,
+    "featured": false,
+    "trending": true,
+    "coverColor": "#0891b2",
+    "coverEmoji": "🎓",
+    "tags": [
+      "employment",
+      "startup",
+      "youth"
+    ],
+    "active": true,
+    "pages": [
+      {
+        "id": "p1",
+        "title": "डिग्री मिली",
+        "illustration": "🎓",
+        "text": "विक्रम पाटिल ने B.Tech किया — कंप्यूटर साइंस में। सब खत्म होने के बाद वो अपने कमरे में बैठा और सोचा: \"अब?\"\n\nउसने 200 जगह अर्जी दी। 6 महीने में 3 इंटरव्यू। तीनों में वही सवाल — \"Experience कितना है?\" \"फ्रेशर हूँ।\" \"हम experience वाला ढूँढ रहे हैं।\"",
+        "text_en": "Vikram Patil completed B.Tech in Computer Science. After celebrations ended, he sat in his room and thought: 'Now what?'\n\nHe applied to 200 places. 3 interviews in 6 months. Each one: 'How much experience?' 'I'm a fresher.' 'We're looking for someone with experience.'"
+      },
+      {
+        "id": "p2",
+        "title": "छोटी कंपनी",
+        "illustration": "💻",
+        "text": "एक छोटी IT कंपनी ने रखा — 12,000 रुपये महीने। विक्रम को उम्मीद थी 30,000 की। पर वो गया।\n\nकंपनी में 8 लोग थे। कम वेतन, बहुत काम, पर सीखने की कोई सीमा नहीं। एक साल में विक्रम ने वो सीखा जो 3 साल की कोचिंग में नहीं सीखा।",
+        "text_en": "A small IT company hired him — 12,000 rupees a month. He had hoped for 30,000. But he went.\n\n8 people. Low salary, lots of work, no limit to learning. In one year he learned what 3 years of coaching hadn't taught."
+      },
+      {
+        "id": "p3",
+        "title": "किसान का ऐप",
+        "illustration": "📱",
+        "text": "उसी साल विक्रम गाँव गया। खेत में बैठकर उसने देखा — पिताजी मंडी भाव जानने के लिए शहर में फोन करते हैं।\n\nविक्रम ने सोचा — \"यह ऐप से हो सकता है।\" उसने 3 महीने में एक ऐप बनाया — किसानों के लिए। लाइव मंडी भाव, मौसम, सलाह।",
+        "text_en": "That year Vikram went to the village. In the field he saw his father calling the city to get market prices.\n\nVikram thought — 'This can be done with an app.' In 3 months he built a simple app for farmers: live market prices, weather, advice."
+      },
+      {
+        "id": "p4",
+        "title": "पहले यूज़र",
+        "illustration": "🌾",
+        "text": "पहले यूज़र — उसके पिताजी और उनके दोस्त। 12 किसान। फिर खबर फैली — गाँव से गाँव। तीन महीने में 800 यूज़र।\n\nएक कृषि संस्थान ने संपर्क किया — \"हम इसे स्केल करना चाहते हैं।\" विक्रम ने उस रात नींद नहीं ली।",
+        "text_en": "First users — his father and friends. 12 farmers. Then the news spread. In three months: 800 users.\n\nAn agricultural institute contacted him — 'We want to scale this.' Vikram didn't sleep that night."
+      },
+      {
+        "id": "p5",
+        "title": "नौकरी छोड़ी",
+        "illustration": "🚀",
+        "text": "विक्रम ने 12,000 की नौकरी छोड़ी। माँ ने कहा — \"पागल हो।\" पिताजी चुप रहे।\n\n6 महीने बहुत मुश्किल। बचत खत्म। एक दोस्त ने मदद की। ऐप बेहतर हुआ।",
+        "text_en": "Vikram quit the 12,000 job. His mother said — 'You're crazy.' His father stayed quiet.\n\n6 months were very hard. Savings ran out. A friend helped. The app got better."
+      },
+      {
+        "id": "p6",
+        "title": "इनवेस्टर",
+        "illustration": "💰",
+        "text": "एक startup सम्मेलन में विक्रम ने अपना ऐप दिखाया। 5 मिनट में एक इनवेस्टर ने रुचि दिखाई। तीन हफ्ते की बात, फिर — पहली फंडिंग।\n\nविक्रम ने सबसे पहले माँ को फोन किया। \"माँ, ऑफिस किराए पर लिया।\" लंबी चुप्पी। \"भगवान रखे।\"",
+        "text_en": "At a startup conference, an investor showed interest in 5 minutes. Three weeks of talks, then — first funding.\n\nVikram called his mother first. 'Maa, I've rented an office.' Long silence. 'May God keep you safe.'"
+      },
+      {
+        "id": "p7",
+        "title": "50,000 किसान",
+        "illustration": "👥",
+        "text": "दो साल में ऐप पर 50,000 किसान। विक्रम की टीम में 12 लोग — 8 उसी जैसे। Freshers, भटके हुए।\n\nएक पत्रकार ने पूछा — \"आपने नौकरी क्यों नहीं की?\" विक्रम ने कहा — \"मैंने नौकरी की। पर फिर काम मिल गया।\"",
+        "text_en": "Two years: 50,000 farmers on the app. Team of 12 — eight of them just like him, freshers who were lost.\n\nA journalist asked — 'Why didn't you take a job?' Vikram said — 'I did. But then I found work.'"
+      },
+      {
+        "id": "p8",
+        "title": "वापसी",
+        "illustration": "🌅",
+        "text": "तीसरे साल विक्रम गाँव गया — कंपनी की गाड़ी में। पिताजी खेत में थे।\n\nशाम को उन्होंने कहा — \"बेटा, तुमने जो किया, वो मैं नहीं समझता। पर तुम्हारी माँ को अब पूछना नहीं पड़ता — \"बेटे का क्या हो रहा है?\" अब वो खुद बताती है।\"",
+        "text_en": "Third year: Vikram went to the village in the company car. His father was in the field.\n\nIn the evening he said — 'Son, I don't understand what you've done. But your mother doesn't have to be asked anymore — 'What's happening with our son?' Now she tells others herself.'"
+      }
+    ]
+  },
+  {
+    "id": "st010",
+    "title": "स्वास्थ्य का अधिकार",
+    "title_en": "The Right to Health",
+    "subtitle": "एक नर्स की निस्वार्थ सेवा",
+    "subtitle_en": "A Nurse's Selfless Service",
+    "author": "जंगल राज लेखक समूह",
+    "category": "Healthcare",
+    "language": "hi",
+    "readingTime": 7,
+    "featured": true,
+    "trending": false,
+    "coverColor": "#0d9488",
+    "coverEmoji": "🏥",
+    "tags": [
+      "healthcare",
+      "service",
+      "rural"
+    ],
+    "active": true,
+    "pages": [
+      {
+        "id": "p1",
+        "title": "ANM मीरा",
+        "illustration": "🚲",
+        "text": "मीरा यादव ANM थी। उसका काम था 14 गाँवों में घूम-घूमकर स्वास्थ्य देखभाल करना। इसके लिए उसके पास एक साइकिल थी — और 12 साल का अनुभव।\n\nकभी-कभी सड़क नहीं होती। कभी-कभी बारिश में भी जाना पड़ता है। मीरा को कोई शिकायत नहीं थी।",
+        "text_en": "Meera Yadav was an ANM. Her work: travel through 14 villages providing healthcare. She had a bicycle — and 12 years of experience.\n\nSometimes no road. Sometimes going in the rain. Meera had no complaints."
+      },
+      {
+        "id": "p2",
+        "title": "पाँचवाँ महीना",
+        "illustration": "👶",
+        "text": "सुनीता — 22 साल — पाँचवें महीने में थी। ससुराल में कहा गया — \"डॉक्टर की क्या ज़रूरत?\" मीरा को जब पता चला, वो खुद सुनीता के घर गई।\n\nउसने जाँच की। कुछ जटिलताएँ थीं। उसने सास-ससुर को समझाया — \"जिला अस्पताल में एक बार दिखा लो।\"",
+        "text_en": "Sunita — 22 — was in her fifth month. At her in-laws: 'What need for a doctor?' When Meera found out she went herself.\n\nShe examined her. Some complications — not major, but there. She told the in-laws: 'Get her checked once at the district hospital.'"
+      },
+      {
+        "id": "p3",
+        "title": "अस्पताल",
+        "illustration": "🏥",
+        "text": "मीरा खुद साथ गई — ट्रैक्टर में। घंटे का इंतज़ार। डॉक्टर ने कहा — \"ब्लड प्रेशर थोड़ा हाई है। नियमित जाँच ज़रूरी है।\" मीरा ने डायरी में नोट किया।\n\nवापसी में सुनीता ने कहा — \"मीरा दीदी, आपने क्यों इतना किया?\" \"यही मेरा काम है।\"",
+        "text_en": "Meera went along herself — by tractor. An hour's wait. Doctor: 'Blood pressure slightly high. Regular check-up needed.' Meera noted it.\n\nOn the way back Sunita said — 'Meera Didi, why did you do so much?' 'This is my work.'"
+      },
+      {
+        "id": "p4",
+        "title": "रात की आवाज़",
+        "illustration": "🌙",
+        "text": "नौवें महीने में — रात 2 बजे — दरवाज़े पर दस्तक। सुनीता का देवर था। \"भाभी की तबियत बिगड़ी।\" मीरा ने आँखें खोलीं। किट उठाई। चल दी।\n\nउस रात मीरा ने घर पर, अंधेरे में, एक स्वस्थ बच्चे को दुनिया में लाने में मदद की।",
+        "text_en": "Ninth month — 2 AM — a knock on the door. Sunita's brother-in-law. 'Bhabhi's condition has worsened.' Meera picked up her kit and went.\n\nThat night Meera helped bring a healthy child into the world — at home, in the dark."
+      },
+      {
+        "id": "p5",
+        "title": "सुनीता का बेटा",
+        "illustration": "👶",
+        "text": "सुबह होते-होते — नई, ताज़ी ज़िंदगी की आवाज़। एक बेटा।\n\nपरिवार ने पैसे देने चाहे। मीरा ने मना किया। \"बस इतना करो — जब वो बड़ा हो, उसे स्कूल भेजना।\"",
+        "text_en": "As morning came — the sound of new, fresh life. A son.\n\nThe family wanted to give money. Meera refused. 'Just do this — when he grows up, send him to school.'"
+      },
+      {
+        "id": "p6",
+        "title": "नई साइकिल नहीं",
+        "illustration": "🔧",
+        "text": "12 साल में मीरा की साइकिल पुरानी हो गई। उसने ऊपर से नई माँगी। कागज़ लगे। महीने गुज़रे। साइकिल नहीं आई।\n\nमीरा ने पुरानी साइकिल खुद ठीक कराई — पल्ले से। गाँव वालों ने कुछ पैसे दिए। काम चलता रहा।",
+        "text_en": "In 12 years Meera's bicycle had grown old. She applied for a new one. Paperwork. Months passed. No bicycle came.\n\nMeera repaired the old one herself — from her own pocket. Villagers contributed some money. The work continued."
+      },
+      {
+        "id": "p7",
+        "title": "सम्मान",
+        "illustration": "🏆",
+        "text": "जिला स्वास्थ्य विभाग ने मीरा को \"उत्कृष्ट कार्यकर्ता\" पुरस्कार दिया। समारोह में कहा गया — \"मीरा यादव ने 12 साल में हज़ारों जीवन को छुआ है।\"\n\nमीरा ने माइक लिया — \"धन्यवाद। पर एक काम और होना चाहिए — ANMs को साइकिल मिले। समय पर।\"",
+        "text_en": "The district health department gave Meera an 'Outstanding Worker' award. 'Meera Yadav has touched thousands of lives in 12 years.'\n\nMeera took the mic — 'Thank you. But one more thing — ANMs should get bicycles. On time.'"
+      },
+      {
+        "id": "p8",
+        "title": "अगली पीढ़ी",
+        "illustration": "✨",
+        "text": "सुनीता का बेटा — वो जो रात में पैदा हुआ था — अब 10 साल का है। स्कूल जाता है। उसका नाम है — \"मीरा\"।\n\nमीरा दीदी को जब पता चला, वो बोली — \"नाम मत रखो मेरे नाम पर, काम करो।\"",
+        "text_en": "Sunita's son — born that night — is now 10 and goes to school. His name is — 'Meera.'\n\nWhen Meera Didi found out she said — 'Don't name after me, do the work.'"
+      }
+    ]
+  }
+]

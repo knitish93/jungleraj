@@ -1,0 +1,754 @@
+[
+  {
+    "id": "s001",
+    "type": "yesno",
+    "category": "Fuel",
+    "title": "क्या पेट्रोल की कीमतें कम होनी चाहिए?",
+    "title_en": "Should petrol prices be reduced?",
+    "description": "वर्तमान में पेट्रोल की बढ़ती कीमतें आम नागरिकों के जीवन को प्रभावित कर रही हैं।",
+    "description_en": "Rising petrol prices are impacting the daily lives of ordinary citizens.",
+    "status": "active",
+    "closingDate": "2025-12-31",
+    "options": [
+      { "id": "s001_yes", "label": "हाँ", "label_en": "Yes", "votes": 4821 },
+      { "id": "s001_no",  "label": "नहीं", "label_en": "No",  "votes": 912 }
+    ]
+  },
+  {
+    "id": "s002",
+    "type": "yesno",
+    "category": "Tax",
+    "title": "क्या GST प्रणाली को सरल बनाया जाना चाहिए?",
+    "title_en": "Should the GST system be simplified?",
+    "description": "जीएसटी के कई स्लैब छोटे व्यापारियों के लिए जटिलता पैदा करते हैं।",
+    "description_en": "Multiple GST slabs create complexity for small businesses.",
+    "status": "active",
+    "options": [
+      { "id": "s002_yes", "label": "हाँ", "label_en": "Yes", "votes": 3940 },
+      { "id": "s002_no",  "label": "नहीं", "label_en": "No",  "votes": 620 }
+    ]
+  },
+  {
+    "id": "s003",
+    "type": "yesno",
+    "category": "Economy",
+    "title": "क्या महंगाई आपके परिवार को प्रभावित कर रही है?",
+    "title_en": "Is inflation affecting your family?",
+    "description": "खाद्य, ईंधन और दैनिक वस्तुओं की बढ़ती कीमतों का परिवारों पर असर।",
+    "description_en": "Rising prices of food, fuel and daily goods affect families.",
+    "status": "active",
+    "options": [
+      { "id": "s003_yes", "label": "हाँ", "label_en": "Yes", "votes": 7210 },
+      { "id": "s003_no",  "label": "नहीं", "label_en": "No",  "votes": 1050 }
+    ]
+  },
+  {
+    "id": "s004",
+    "type": "yesno",
+    "category": "Law & Order",
+    "title": "क्या आप अपने शहर में सुरक्षित महसूस करते हैं?",
+    "title_en": "Do you feel safe in your city?",
+    "description": "नागरिकों की सुरक्षा की अनुभूति के बारे में जनमत।",
+    "description_en": "Public opinion on citizens' sense of personal safety.",
+    "status": "active",
+    "options": [
+      { "id": "s004_yes", "label": "हाँ", "label_en": "Yes", "votes": 2304 },
+      { "id": "s004_no",  "label": "नहीं", "label_en": "No",  "votes": 4115 }
+    ]
+  },
+  {
+    "id": "s005",
+    "type": "yesno",
+    "category": "Education",
+    "title": "क्या पेपर लीक मामलों में कड़ी सजा होनी चाहिए?",
+    "title_en": "Should paper leak cases receive stricter punishment?",
+    "description": "प्रतियोगी परीक्षाओं में पेपर लीक के बढ़ते मामले और उनके निवारण।",
+    "description_en": "Growing paper leak cases in competitive exams and their deterrents.",
+    "status": "active",
+    "options": [
+      { "id": "s005_yes", "label": "हाँ", "label_en": "Yes", "votes": 8901 },
+      { "id": "s005_no",  "label": "नहीं", "label_en": "No",  "votes": 201 }
+    ]
+  },
+  {
+    "id": "s006",
+    "type": "yesno",
+    "category": "Education",
+    "title": "क्या सरकारी स्कूलों में सुधार होना चाहिए?",
+    "title_en": "Should government schools be improved?",
+    "description": "बुनियादी ढांचे, शिक्षकों की गुणवत्ता और शिक्षण सामग्री के संदर्भ में।",
+    "description_en": "In terms of infrastructure, teacher quality and learning materials.",
+    "status": "active",
+    "options": [
+      { "id": "s006_yes", "label": "हाँ", "label_en": "Yes", "votes": 9230 },
+      { "id": "s006_no",  "label": "नहीं", "label_en": "No",  "votes": 315 }
+    ]
+  },
+  {
+    "id": "s007",
+    "type": "yesno",
+    "category": "Healthcare",
+    "title": "क्या सरकारी स्वास्थ्य सेवा पर खर्च बढ़ाया जाना चाहिए?",
+    "title_en": "Should government healthcare spending increase?",
+    "description": "सार्वजनिक अस्पतालों और प्राथमिक स्वास्थ्य केंद्रों में संसाधन।",
+    "description_en": "Resources in public hospitals and primary health centres.",
+    "status": "active",
+    "options": [
+      { "id": "s007_yes", "label": "हाँ", "label_en": "Yes", "votes": 8100 },
+      { "id": "s007_no",  "label": "नहीं", "label_en": "No",  "votes": 490 }
+    ]
+  },
+  {
+    "id": "s008",
+    "type": "yesno",
+    "category": "Tax",
+    "title": "क्या आयकर स्लैब में संशोधन होना चाहिए?",
+    "title_en": "Should income tax slabs be revised?",
+    "description": "मध्यम वर्ग और वेतनभोगी कर्मचारियों के लिए टैक्स राहत पर जनमत।",
+    "description_en": "Public opinion on tax relief for the middle class and salaried workers.",
+    "status": "active",
+    "options": [
+      { "id": "s008_yes", "label": "हाँ", "label_en": "Yes", "votes": 6720 },
+      { "id": "s008_no",  "label": "नहीं", "label_en": "No",  "votes": 890 }
+    ]
+  },
+  {
+    "id": "s009",
+    "type": "yesno",
+    "category": "Corruption",
+    "title": "क्या भ्रष्टाचार के मामलों का तेज़ निपटारा होना चाहिए?",
+    "title_en": "Should corruption cases be resolved faster?",
+    "description": "लंबित भ्रष्टाचार मामलों और न्याय में देरी पर नागरिकों की राय।",
+    "description_en": "Citizens' views on pending corruption cases and delayed justice.",
+    "status": "active",
+    "options": [
+      { "id": "s009_yes", "label": "हाँ", "label_en": "Yes", "votes": 9510 },
+      { "id": "s009_no",  "label": "नहीं", "label_en": "No",  "votes": 180 }
+    ]
+  },
+  {
+    "id": "s010",
+    "type": "yesno",
+    "category": "Infrastructure",
+    "title": "क्या आपके जिले में सड़कों की स्थिति में सुधार होना चाहिए?",
+    "title_en": "Should roads improve in your district?",
+    "description": "सड़क अवसंरचना की गुणवत्ता और रखरखाव पर जनमत।",
+    "description_en": "Public opinion on road infrastructure quality and maintenance.",
+    "status": "active",
+    "options": [
+      { "id": "s010_yes", "label": "हाँ", "label_en": "Yes", "votes": 8802 },
+      { "id": "s010_no",  "label": "नहीं", "label_en": "No",  "votes": 340 }
+    ]
+  },
+  {
+    "id": "s011",
+    "type": "yesno",
+    "category": "Employment",
+    "title": "क्या आपको लगता है कि बेरोज़गारी बढ़ रही है?",
+    "title_en": "Do you think unemployment is increasing?",
+    "description": "देश में रोज़गार के अवसरों और बेरोज़गारी की स्थिति पर जनमत।",
+    "description_en": "Public opinion on employment opportunities and unemployment in the country.",
+    "status": "active",
+    "options": [
+      { "id": "s011_yes", "label": "हाँ", "label_en": "Yes", "votes": 7450 },
+      { "id": "s011_no",  "label": "नहीं", "label_en": "No",  "votes": 1200 }
+    ]
+  },
+  {
+    "id": "s012",
+    "type": "multiple",
+    "category": "Politics",
+    "title": "आपकी राय में भारत की सबसे बड़ी समस्या क्या है?",
+    "title_en": "In your opinion, what is India's biggest problem?",
+    "description": "एक विकल्प चुनें जो आपको सबसे प्रमुख समस्या लगती है।",
+    "description_en": "Choose the option you consider the most critical issue.",
+    "status": "active",
+    "options": [
+      { "id": "s012_1", "label": "बेरोज़गारी", "label_en": "Unemployment", "votes": 3200 },
+      { "id": "s012_2", "label": "महंगाई", "label_en": "Inflation", "votes": 2800 },
+      { "id": "s012_3", "label": "भ्रष्टाचार", "label_en": "Corruption", "votes": 3100 },
+      { "id": "s012_4", "label": "शिक्षा की गुणवत्ता", "label_en": "Education quality", "votes": 1900 },
+      { "id": "s012_5", "label": "महिला सुरक्षा", "label_en": "Women's safety", "votes": 2400 }
+    ]
+  },
+  {
+    "id": "s013",
+    "type": "multiple",
+    "category": "Central Government",
+    "title": "अगले प्रधानमंत्री के रूप में आप किसे उचित मानते हैं?",
+    "title_en": "Who do you consider suitable as the next Prime Minister?",
+    "description": "यह एक जनमत सर्वेक्षण है। सभी विकल्प प्रतीकात्मक हैं।",
+    "description_en": "This is a public opinion poll. All options are illustrative.",
+    "status": "active",
+    "options": [
+      { "id": "s013_1", "label": "राजनीतिक नेता क", "label_en": "Political Leader A", "votes": 2900 },
+      { "id": "s013_2", "label": "राजनीतिक नेता ख", "label_en": "Political Leader B", "votes": 2300 },
+      { "id": "s013_3", "label": "राजनीतिक नेता ग", "label_en": "Political Leader C", "votes": 1800 },
+      { "id": "s013_4", "label": "कोई नहीं / नया विकल्प", "label_en": "None / New option", "votes": 2100 }
+    ]
+  },
+  {
+    "id": "s014",
+    "type": "rating",
+    "category": "State Government",
+    "title": "अपने राज्य सरकार के प्रदर्शन को 1-5 में रेटिंग दें",
+    "title_en": "Rate your state government's performance from 1 to 5",
+    "description": "पिछले एक साल में राज्य सरकार के कार्यों का आकलन।",
+    "description_en": "Assessment of state government's work over the past year.",
+    "status": "active",
+    "options": [
+      { "id": "s014_1", "label": "1 – बहुत खराब", "label_en": "1 – Very Poor", "votes": 1820 },
+      { "id": "s014_2", "label": "2 – खराब",       "label_en": "2 – Poor",      "votes": 1340 },
+      { "id": "s014_3", "label": "3 – ठीक-ठाक",   "label_en": "3 – Average",   "votes": 2100 },
+      { "id": "s014_4", "label": "4 – अच्छा",      "label_en": "4 – Good",      "votes": 1500 },
+      { "id": "s014_5", "label": "5 – बहुत अच्छा","label_en": "5 – Excellent", "votes": 890 }
+    ]
+  },
+  {
+    "id": "s015",
+    "type": "rating",
+    "category": "Healthcare",
+    "title": "अपने क्षेत्र की स्वास्थ्य सेवाओं को रेटिंग दें",
+    "title_en": "Rate the healthcare services in your area",
+    "description": "सरकारी अस्पताल, PHC और स्वास्थ्य केंद्रों की गुणवत्ता।",
+    "description_en": "Quality of government hospitals, PHCs and health centres.",
+    "status": "active",
+    "options": [
+      { "id": "s015_1", "label": "1 – बहुत खराब", "label_en": "1 – Very Poor", "votes": 2300 },
+      { "id": "s015_2", "label": "2 – खराब",       "label_en": "2 – Poor",      "votes": 2100 },
+      { "id": "s015_3", "label": "3 – ठीक-ठाक",   "label_en": "3 – Average",   "votes": 1800 },
+      { "id": "s015_4", "label": "4 – अच्छा",      "label_en": "4 – Good",      "votes": 900 },
+      { "id": "s015_5", "label": "5 – बहुत अच्छा","label_en": "5 – Excellent", "votes": 400 }
+    ]
+  },
+  {
+    "id": "s016",
+    "type": "emoji",
+    "category": "Economy",
+    "title": "वर्तमान आर्थिक स्थिति के बारे में आप कैसा महसूस करते हैं?",
+    "title_en": "How do you feel about the current economic situation?",
+    "description": "देश की अर्थव्यवस्था की दिशा पर आपकी भावनात्मक प्रतिक्रिया।",
+    "description_en": "Your emotional response to the direction of the country's economy.",
+    "status": "active",
+    "options": [
+      { "id": "s016_1", "label": "😍 बहुत खुश",    "label_en": "😍 Very Happy",    "votes": 410 },
+      { "id": "s016_2", "label": "😀 खुश",          "label_en": "😀 Happy",          "votes": 820 },
+      { "id": "s016_3", "label": "😐 तटस्थ",        "label_en": "😐 Neutral",        "votes": 1600 },
+      { "id": "s016_4", "label": "☹️ निराश",         "label_en": "☹️ Unhappy",        "votes": 2900 },
+      { "id": "s016_5", "label": "😡 बहुत निराश",   "label_en": "😡 Very Unhappy",   "votes": 3800 }
+    ]
+  },
+  {
+    "id": "s017",
+    "type": "emoji",
+    "category": "Law & Order",
+    "title": "महिला सुरक्षा की स्थिति के बारे में आप कैसा महसूस करते हैं?",
+    "title_en": "How do you feel about the state of women's safety?",
+    "description": "सार्वजनिक स्थानों और घरों में महिलाओं की सुरक्षा की भावना।",
+    "description_en": "The sense of safety for women in public spaces and homes.",
+    "status": "active",
+    "options": [
+      { "id": "s017_1", "label": "😍 बहुत सुरक्षित", "label_en": "😍 Very Safe",    "votes": 310 },
+      { "id": "s017_2", "label": "😀 सुरक्षित",       "label_en": "😀 Safe",          "votes": 640 },
+      { "id": "s017_3", "label": "😐 अनिश्चित",       "label_en": "😐 Uncertain",     "votes": 1200 },
+      { "id": "s017_4", "label": "☹️ असुरक्षित",      "label_en": "☹️ Unsafe",        "votes": 3200 },
+      { "id": "s017_5", "label": "😡 बहुत असुरक्षित","label_en": "😡 Very Unsafe",   "votes": 4800 }
+    ]
+  },
+  {
+    "id": "s018",
+    "type": "poll",
+    "category": "Agriculture",
+    "title": "किसानों की सबसे बड़ी समस्या क्या है?",
+    "title_en": "What is the biggest problem facing farmers?",
+    "description": "कृषि क्षेत्र की प्रमुख चुनौतियों पर जनमत।",
+    "description_en": "Public opinion on the major challenges in the agricultural sector.",
+    "status": "active",
+    "options": [
+      { "id": "s018_1", "label": "MSP की कमी",              "label_en": "Lack of MSP",              "votes": 2800 },
+      { "id": "s018_2", "label": "सिंचाई सुविधाओं की कमी", "label_en": "Lack of irrigation",        "votes": 2100 },
+      { "id": "s018_3", "label": "कर्ज़ का बोझ",             "label_en": "Debt burden",               "votes": 3200 },
+      { "id": "s018_4", "label": "बाज़ार तक पहुँच नहीं",    "label_en": "Lack of market access",     "votes": 1900 },
+      { "id": "s018_5", "label": "खराब मौसम / सूखा",        "label_en": "Bad weather / drought",     "votes": 1500 }
+    ]
+  },
+  {
+    "id": "s019",
+    "type": "poll",
+    "category": "Education",
+    "title": "उच्च शिक्षा की सबसे बड़ी बाधा क्या है?",
+    "title_en": "What is the biggest barrier to higher education?",
+    "description": "भारत में उच्च शिक्षा की पहुँच को सीमित करने वाले कारक।",
+    "description_en": "Factors limiting access to higher education in India.",
+    "status": "active",
+    "options": [
+      { "id": "s019_1", "label": "अधिक फीस",              "label_en": "High fees",                 "votes": 4100 },
+      { "id": "s019_2", "label": "सीटों की कमी",           "label_en": "Lack of seats",             "votes": 2800 },
+      { "id": "s019_3", "label": "गुणवत्ता का अभाव",       "label_en": "Lack of quality",           "votes": 2200 },
+      { "id": "s019_4", "label": "स्थान की दूरी",          "label_en": "Distance from institutions", "votes": 1900 }
+    ]
+  },
+  {
+    "id": "s020",
+    "type": "text",
+    "category": "Politics",
+    "title": "आप सरकार को एक सुझाव देना चाहते हैं तो क्या होगा?",
+    "title_en": "If you could give the government one suggestion, what would it be?",
+    "description": "500 अक्षरों में अपना सुझाव लिखें। सभी उत्तर गुमनाम हैं।",
+    "description_en": "Write your suggestion in up to 500 characters. All responses are anonymous.",
+    "status": "active",
+    "options": []
+  },
+  {
+    "id": "s021",
+    "type": "yesno",
+    "category": "Women's Safety",
+    "title": "क्या महिलाओं के लिए सार्वजनिक परिवहन सुरक्षित बनाया जाना चाहिए?",
+    "title_en": "Should public transport be made safer for women?",
+    "description": "बसों, मेट्रो और रिक्शा में महिलाओं की सुरक्षा उपायों पर जनमत।",
+    "description_en": "Public opinion on safety measures for women in buses, metro and autos.",
+    "status": "active",
+    "options": [
+      { "id": "s021_yes", "label": "हाँ", "label_en": "Yes", "votes": 9100 },
+      { "id": "s021_no",  "label": "नहीं", "label_en": "No",  "votes": 210 }
+    ]
+  },
+  {
+    "id": "s022",
+    "type": "yesno",
+    "category": "Technology",
+    "title": "क्या डिजिटल इंडिया योजना प्रभावी रही है?",
+    "title_en": "Has the Digital India initiative been effective?",
+    "description": "सरकारी ई-सेवाओं और डिजिटल पहुँच पर जनमत।",
+    "description_en": "Public opinion on government e-services and digital access.",
+    "status": "active",
+    "options": [
+      { "id": "s022_yes", "label": "हाँ", "label_en": "Yes", "votes": 3400 },
+      { "id": "s022_no",  "label": "नहीं", "label_en": "No",  "votes": 2800 }
+    ]
+  },
+  {
+    "id": "s023",
+    "type": "yesno",
+    "category": "Environment",
+    "title": "क्या प्रदूषण नियंत्रण के लिए कड़े कानून बनाए जाने चाहिए?",
+    "title_en": "Should stricter laws be made for pollution control?",
+    "description": "वायु, जल और भूमि प्रदूषण रोकने के लिए कानूनी उपायों पर जनमत।",
+    "description_en": "Public opinion on legal measures to prevent air, water and land pollution.",
+    "status": "active",
+    "options": [
+      { "id": "s023_yes", "label": "हाँ", "label_en": "Yes", "votes": 8200 },
+      { "id": "s023_no",  "label": "नहीं", "label_en": "No",  "votes": 560 }
+    ]
+  },
+  {
+    "id": "s024",
+    "type": "yesno",
+    "category": "Migration",
+    "title": "क्या रोज़गार की तलाश में शहरों की ओर पलायन एक बड़ी समस्या है?",
+    "title_en": "Is migration to cities in search of employment a major problem?",
+    "description": "ग्रामीण-शहरी पलायन और इससे उत्पन्न चुनौतियाँ।",
+    "description_en": "Rural-urban migration and the challenges it creates.",
+    "status": "active",
+    "options": [
+      { "id": "s024_yes", "label": "हाँ", "label_en": "Yes", "votes": 6100 },
+      { "id": "s024_no",  "label": "नहीं", "label_en": "No",  "votes": 1400 }
+    ]
+  },
+  {
+    "id": "s025",
+    "type": "multiple",
+    "category": "Infrastructure",
+    "title": "भारत के किस क्षेत्र में सबसे ज़्यादा सुधार की जरूरत है?",
+    "title_en": "Which sector needs the most improvement in India?",
+    "description": "देश के बुनियादी ढांचे की प्राथमिकताओं पर जनमत।",
+    "description_en": "Public opinion on infrastructure priorities in the country.",
+    "status": "active",
+    "options": [
+      { "id": "s025_1", "label": "सड़क और राजमार्ग",  "label_en": "Roads & Highways",       "votes": 2600 },
+      { "id": "s025_2", "label": "रेलवे",              "label_en": "Railways",                "votes": 2100 },
+      { "id": "s025_3", "label": "हवाई अड्डे",         "label_en": "Airports",                "votes": 900 },
+      { "id": "s025_4", "label": "जल आपूर्ति",         "label_en": "Water supply",            "votes": 3400 },
+      { "id": "s025_5", "label": "बिजली",               "label_en": "Electricity",             "votes": 2800 }
+    ]
+  },
+  {
+    "id": "s026",
+    "type": "rating",
+    "category": "Central Government",
+    "title": "केंद्र सरकार के पिछले 5 वर्षों के प्रदर्शन को रेटिंग दें",
+    "title_en": "Rate the central government's performance over the last 5 years",
+    "description": "विकास, शासन और जन कल्याण के आधार पर मूल्यांकन।",
+    "description_en": "Assessment based on development, governance and public welfare.",
+    "status": "active",
+    "options": [
+      { "id": "s026_1", "label": "1 – बहुत खराब", "label_en": "1 – Very Poor", "votes": 2100 },
+      { "id": "s026_2", "label": "2 – खराब",       "label_en": "2 – Poor",      "votes": 1800 },
+      { "id": "s026_3", "label": "3 – ठीक-ठाक",   "label_en": "3 – Average",   "votes": 2400 },
+      { "id": "s026_4", "label": "4 – अच्छा",      "label_en": "4 – Good",      "votes": 2000 },
+      { "id": "s026_5", "label": "5 – बहुत अच्छा","label_en": "5 – Excellent", "votes": 1200 }
+    ]
+  },
+  {
+    "id": "s027",
+    "type": "yesno",
+    "category": "Employment",
+    "title": "क्या सरकारी नौकरियों में भर्ती प्रक्रिया पारदर्शी है?",
+    "title_en": "Is the government job recruitment process transparent?",
+    "description": "सरकारी भर्ती परीक्षाओं और नियुक्तियों की पारदर्शिता पर जनमत।",
+    "description_en": "Public opinion on transparency in government recruitment exams and appointments.",
+    "status": "active",
+    "options": [
+      { "id": "s027_yes", "label": "हाँ", "label_en": "Yes", "votes": 1200 },
+      { "id": "s027_no",  "label": "नहीं", "label_en": "No",  "votes": 6800 }
+    ]
+  },
+  {
+    "id": "s028",
+    "type": "yesno",
+    "category": "Healthcare",
+    "title": "क्या आयुष्मान भारत योजना का लाभ सभी को मिल रहा है?",
+    "title_en": "Is the Ayushman Bharat scheme benefiting everyone?",
+    "description": "सरकारी स्वास्थ्य बीमा योजना की पहुँच और प्रभाव पर जनमत।",
+    "description_en": "Public opinion on the reach and impact of the government health insurance scheme.",
+    "status": "active",
+    "options": [
+      { "id": "s028_yes", "label": "हाँ", "label_en": "Yes", "votes": 2300 },
+      { "id": "s028_no",  "label": "नहीं", "label_en": "No",  "votes": 4100 }
+    ]
+  },
+  {
+    "id": "s029",
+    "type": "emoji",
+    "category": "Education",
+    "title": "सरकारी शिक्षा व्यवस्था के प्रति आप कैसा महसूस करते हैं?",
+    "title_en": "How do you feel about the government education system?",
+    "description": "प्राथमिक से उच्च शिक्षा तक की समग्र गुणवत्ता पर आपकी प्रतिक्रिया।",
+    "description_en": "Your response to the overall quality from primary to higher education.",
+    "status": "active",
+    "options": [
+      { "id": "s029_1", "label": "😍 बेहतरीन", "label_en": "😍 Excellent", "votes": 320 },
+      { "id": "s029_2", "label": "😀 अच्छी",   "label_en": "😀 Good",      "votes": 910 },
+      { "id": "s029_3", "label": "😐 औसत",     "label_en": "😐 Average",   "votes": 2400 },
+      { "id": "s029_4", "label": "☹️ खराब",    "label_en": "☹️ Poor",      "votes": 3600 },
+      { "id": "s029_5", "label": "😡 बहुत खराब","label_en": "😡 Very Poor","votes": 4200 }
+    ]
+  },
+  {
+    "id": "s030",
+    "type": "poll",
+    "category": "Environment",
+    "title": "जलवायु परिवर्तन से निपटने के लिए क्या सबसे जरूरी है?",
+    "title_en": "What is most needed to tackle climate change?",
+    "description": "पर्यावरण संरक्षण की प्राथमिकताओं पर जनमत।",
+    "description_en": "Public opinion on environmental protection priorities.",
+    "status": "active",
+    "options": [
+      { "id": "s030_1", "label": "सौर ऊर्जा का विस्तार",       "label_en": "Expand solar energy",        "votes": 3800 },
+      { "id": "s030_2", "label": "वृक्षारोपण अभियान",           "label_en": "Tree planting drives",       "votes": 3100 },
+      { "id": "s030_3", "label": "उद्योगों पर कड़े नियम",        "label_en": "Strict rules on industry",   "votes": 2900 },
+      { "id": "s030_4", "label": "इलेक्ट्रिक वाहनों को बढ़ावा", "label_en": "Promote electric vehicles",  "votes": 2200 }
+    ]
+  },
+  {
+    "id": "s031",
+    "type": "yesno",
+    "category": "Corruption",
+    "title": "क्या चुनाव प्रक्रिया में काले धन का उपयोग होता है?",
+    "title_en": "Is black money used in the election process?",
+    "description": "चुनावी वित्त पोषण और अघोषित धन के उपयोग पर जनमत।",
+    "description_en": "Public opinion on election financing and use of undeclared money.",
+    "status": "active",
+    "options": [
+      { "id": "s031_yes", "label": "हाँ", "label_en": "Yes", "votes": 8700 },
+      { "id": "s031_no",  "label": "नहीं", "label_en": "No",  "votes": 620 }
+    ]
+  },
+  {
+    "id": "s032",
+    "type": "yesno",
+    "category": "Agriculture",
+    "title": "क्या किसानों के लिए फसल बीमा योजना प्रभावी है?",
+    "title_en": "Is the crop insurance scheme effective for farmers?",
+    "description": "प्रधानमंत्री फसल बीमा योजना के क्रियान्वयन और लाभ पर जनमत।",
+    "description_en": "Public opinion on the implementation and benefits of PMFBY.",
+    "status": "active",
+    "options": [
+      { "id": "s032_yes", "label": "हाँ", "label_en": "Yes", "votes": 1900 },
+      { "id": "s032_no",  "label": "नहीं", "label_en": "No",  "votes": 4200 }
+    ]
+  },
+  {
+    "id": "s033",
+    "type": "multiple",
+    "category": "Women's Safety",
+    "title": "महिला सुरक्षा के लिए कौन सा कदम सबसे जरूरी है?",
+    "title_en": "Which step is most necessary for women's safety?",
+    "description": "महिलाओं की सुरक्षा सुनिश्चित करने के उपायों पर जनमत।",
+    "description_en": "Public opinion on measures to ensure women's safety.",
+    "status": "active",
+    "options": [
+      { "id": "s033_1", "label": "पुलिस गश्त बढ़ाना",          "label_en": "Increase police patrol",        "votes": 3200 },
+      { "id": "s033_2", "label": "सीसीटीवी कैमरे",              "label_en": "CCTV cameras",                   "votes": 2800 },
+      { "id": "s033_3", "label": "कड़ी सजा",                    "label_en": "Stricter punishment",            "votes": 4100 },
+      { "id": "s033_4", "label": "जागरूकता अभियान",             "label_en": "Awareness campaigns",            "votes": 1900 },
+      { "id": "s033_5", "label": "हेल्पलाइन नंबर की उपलब्धता", "label_en": "Availability of helpline",       "votes": 1600 }
+    ]
+  },
+  {
+    "id": "s034",
+    "type": "yesno",
+    "category": "Tax",
+    "title": "क्या इनहेरिटेंस टैक्स (विरासत कर) लागू होना चाहिए?",
+    "title_en": "Should inheritance tax be introduced?",
+    "description": "धन के असमान वितरण और उत्तराधिकार कर की संभावना पर जनमत।",
+    "description_en": "Public opinion on wealth inequality and the possibility of inheritance tax.",
+    "status": "active",
+    "options": [
+      { "id": "s034_yes", "label": "हाँ", "label_en": "Yes", "votes": 2100 },
+      { "id": "s034_no",  "label": "नहीं", "label_en": "No",  "votes": 3800 }
+    ]
+  },
+  {
+    "id": "s035",
+    "type": "emoji",
+    "category": "Infrastructure",
+    "title": "आपके क्षेत्र में बिजली आपूर्ति की स्थिति कैसी है?",
+    "title_en": "How is the electricity supply situation in your area?",
+    "description": "बिजली कटौती, वोल्टेज और आपूर्ति की नियमितता पर आपकी प्रतिक्रिया।",
+    "description_en": "Your response on power cuts, voltage and regularity of electricity supply.",
+    "status": "active",
+    "options": [
+      { "id": "s035_1", "label": "😍 बेहतरीन",     "label_en": "😍 Excellent",  "votes": 1200 },
+      { "id": "s035_2", "label": "😀 अच्छी",        "label_en": "😀 Good",       "votes": 2100 },
+      { "id": "s035_3", "label": "😐 ठीक-ठाक",      "label_en": "😐 Average",    "votes": 2800 },
+      { "id": "s035_4", "label": "☹️ खराब",          "label_en": "☹️ Poor",       "votes": 3100 },
+      { "id": "s035_5", "label": "😡 बहुत खराब",    "label_en": "😡 Very Poor",  "votes": 2400 }
+    ]
+  },
+  {
+    "id": "s036",
+    "type": "yesno",
+    "category": "Technology",
+    "title": "क्या आर्टिफिशियल इंटेलिजेंस भारत में रोज़गार को प्रभावित करेगी?",
+    "title_en": "Will artificial intelligence affect employment in India?",
+    "description": "AI तकनीक और भविष्य के रोज़गार परिदृश्य पर जनमत।",
+    "description_en": "Public opinion on AI technology and the future employment landscape.",
+    "status": "active",
+    "options": [
+      { "id": "s036_yes", "label": "हाँ", "label_en": "Yes", "votes": 5800 },
+      { "id": "s036_no",  "label": "नहीं", "label_en": "No",  "votes": 1900 }
+    ]
+  },
+  {
+    "id": "s037",
+    "type": "poll",
+    "category": "Employment",
+    "title": "युवाओं के लिए रोज़गार बढ़ाने का सबसे अच्छा तरीका क्या है?",
+    "title_en": "What is the best way to increase employment for youth?",
+    "description": "भारत में युवा बेरोज़गारी से निपटने के उपायों पर जनमत।",
+    "description_en": "Public opinion on measures to tackle youth unemployment in India.",
+    "status": "active",
+    "options": [
+      { "id": "s037_1", "label": "स्टार्टअप को बढ़ावा",         "label_en": "Promote startups",            "votes": 3100 },
+      { "id": "s037_2", "label": "कौशल विकास कार्यक्रम",         "label_en": "Skill development programs",   "votes": 3800 },
+      { "id": "s037_3", "label": "सरकारी भर्ती बढ़ाना",          "label_en": "Increase govt hiring",         "votes": 4200 },
+      { "id": "s037_4", "label": "विदेशी निवेश आकर्षित करना",   "label_en": "Attract foreign investment",   "votes": 2100 }
+    ]
+  },
+  {
+    "id": "s038",
+    "type": "yesno",
+    "category": "State Government",
+    "title": "क्या आप अपने राज्य को दूसरों को अनुशंसित करेंगे?",
+    "title_en": "Would you recommend your state to others?",
+    "description": "राज्य में जीवन गुणवत्ता, सुविधाएँ और शासन पर समग्र मूल्यांकन।",
+    "description_en": "Overall assessment of quality of life, amenities and governance in your state.",
+    "status": "active",
+    "options": [
+      { "id": "s038_yes", "label": "हाँ", "label_en": "Yes", "votes": 3200 },
+      { "id": "s038_no",  "label": "नहीं", "label_en": "No",  "votes": 2900 }
+    ]
+  },
+  {
+    "id": "s039",
+    "type": "yesno",
+    "category": "Law & Order",
+    "title": "क्या न्यायिक प्रणाली में सुधार की आवश्यकता है?",
+    "title_en": "Is there a need for reform in the judicial system?",
+    "description": "न्याय की गति, लागत और पहुँच पर जनमत।",
+    "description_en": "Public opinion on the speed, cost and accessibility of justice.",
+    "status": "active",
+    "options": [
+      { "id": "s039_yes", "label": "हाँ", "label_en": "Yes", "votes": 8900 },
+      { "id": "s039_no",  "label": "नहीं", "label_en": "No",  "votes": 410 }
+    ]
+  },
+  {
+    "id": "s040",
+    "type": "rating",
+    "category": "Infrastructure",
+    "title": "सार्वजनिक परिवहन व्यवस्था को रेटिंग दें",
+    "title_en": "Rate the public transport system",
+    "description": "बस, मेट्रो, ट्रेन और अन्य सार्वजनिक परिवहन की समग्र गुणवत्ता।",
+    "description_en": "Overall quality of bus, metro, train and other public transport.",
+    "status": "active",
+    "options": [
+      { "id": "s040_1", "label": "1 – बहुत खराब", "label_en": "1 – Very Poor", "votes": 1800 },
+      { "id": "s040_2", "label": "2 – खराब",       "label_en": "2 – Poor",      "votes": 2100 },
+      { "id": "s040_3", "label": "3 – ठीक-ठाक",   "label_en": "3 – Average",   "votes": 2800 },
+      { "id": "s040_4", "label": "4 – अच्छा",      "label_en": "4 – Good",      "votes": 1900 },
+      { "id": "s040_5", "label": "5 – बहुत अच्छा","label_en": "5 – Excellent", "votes": 800 }
+    ]
+  },
+  {
+    "id": "s041",
+    "type": "yesno",
+    "category": "Economy",
+    "title": "क्या भारत में आर्थिक असमानता बढ़ रही है?",
+    "title_en": "Is economic inequality increasing in India?",
+    "description": "अमीर और गरीब के बीच बढ़ती खाई पर जनमत।",
+    "description_en": "Public opinion on the growing gap between the rich and the poor.",
+    "status": "active",
+    "options": [
+      { "id": "s041_yes", "label": "हाँ", "label_en": "Yes", "votes": 7800 },
+      { "id": "s041_no",  "label": "नहीं", "label_en": "No",  "votes": 1100 }
+    ]
+  },
+  {
+    "id": "s042",
+    "type": "multiple",
+    "category": "Healthcare",
+    "title": "स्वास्थ्य सेवाओं में सुधार के लिए क्या सबसे जरूरी है?",
+    "title_en": "What is most needed to improve healthcare services?",
+    "description": "स्वास्थ्य क्षेत्र की प्राथमिकताओं पर जनमत।",
+    "description_en": "Public opinion on healthcare sector priorities.",
+    "status": "active",
+    "options": [
+      { "id": "s042_1", "label": "डॉक्टरों की संख्या बढ़ाना",   "label_en": "Increase number of doctors",  "votes": 3200 },
+      { "id": "s042_2", "label": "दवाएँ सस्ती करना",             "label_en": "Make medicines cheaper",      "votes": 4100 },
+      { "id": "s042_3", "label": "अस्पताल बुनियादी ढाँचा",       "label_en": "Hospital infrastructure",     "votes": 2800 },
+      { "id": "s042_4", "label": "ग्रामीण स्वास्थ्य केंद्र",    "label_en": "Rural health centres",       "votes": 3500 }
+    ]
+  },
+  {
+    "id": "s043",
+    "type": "yesno",
+    "category": "Corruption",
+    "title": "क्या आपने कभी सरकारी काम के लिए रिश्वत दी है?",
+    "title_en": "Have you ever paid a bribe for a government task?",
+    "description": "भ्रष्टाचार के व्यक्तिगत अनुभव पर गुमनाम सर्वेक्षण।",
+    "description_en": "Anonymous survey on personal experience of corruption.",
+    "status": "active",
+    "options": [
+      { "id": "s043_yes", "label": "हाँ", "label_en": "Yes", "votes": 4900 },
+      { "id": "s043_no",  "label": "नहीं", "label_en": "No",  "votes": 3100 }
+    ]
+  },
+  {
+    "id": "s044",
+    "type": "poll",
+    "category": "Migration",
+    "title": "आपके गाँव से शहरों में पलायन का मुख्य कारण क्या है?",
+    "title_en": "What is the main reason for migration from villages to cities?",
+    "description": "ग्रामीण-शहरी पलायन के प्रमुख कारणों पर जनमत।",
+    "description_en": "Public opinion on the main causes of rural-urban migration.",
+    "status": "active",
+    "options": [
+      { "id": "s044_1", "label": "रोज़गार नहीं",          "label_en": "No employment",           "votes": 4800 },
+      { "id": "s044_2", "label": "बेहतर शिक्षा",          "label_en": "Better education",         "votes": 2100 },
+      { "id": "s044_3", "label": "स्वास्थ्य सुविधाएँ",   "label_en": "Healthcare facilities",    "votes": 1800 },
+      { "id": "s044_4", "label": "खेती में नुकसान",       "label_en": "Farming losses",           "votes": 2900 }
+    ]
+  },
+  {
+    "id": "s045",
+    "type": "yesno",
+    "category": "Education",
+    "title": "क्या मातृभाषा में शिक्षा अनिवार्य होनी चाहिए?",
+    "title_en": "Should education in the mother tongue be made compulsory?",
+    "description": "राष्ट्रीय शिक्षा नीति और मातृभाषा माध्यम पर जनमत।",
+    "description_en": "Public opinion on NEP and mother tongue medium of instruction.",
+    "status": "active",
+    "options": [
+      { "id": "s045_yes", "label": "हाँ", "label_en": "Yes", "votes": 4200 },
+      { "id": "s045_no",  "label": "नहीं", "label_en": "No",  "votes": 3100 }
+    ]
+  },
+  {
+    "id": "s046",
+    "type": "emoji",
+    "category": "Corruption",
+    "title": "सरकारी दफ्तरों में सेवाओं की गुणवत्ता के बारे में आप कैसा महसूस करते हैं?",
+    "title_en": "How do you feel about the quality of services at government offices?",
+    "description": "सरकारी कार्यालयों में अनुभव और सेवा गुणवत्ता पर आपकी प्रतिक्रिया।",
+    "description_en": "Your response on experience and service quality at government offices.",
+    "status": "active",
+    "options": [
+      { "id": "s046_1", "label": "😍 बेहतरीन", "label_en": "😍 Excellent", "votes": 290 },
+      { "id": "s046_2", "label": "😀 अच्छी",   "label_en": "😀 Good",      "votes": 710 },
+      { "id": "s046_3", "label": "😐 औसत",     "label_en": "😐 Average",   "votes": 2100 },
+      { "id": "s046_4", "label": "☹️ खराब",    "label_en": "☹️ Poor",      "votes": 4200 },
+      { "id": "s046_5", "label": "😡 बहुत खराब","label_en": "😡 Very Poor","votes": 5800 }
+    ]
+  },
+  {
+    "id": "s047",
+    "type": "yesno",
+    "category": "Technology",
+    "title": "क्या ग्रामीण क्षेत्रों में इंटरनेट पहुँच बेहतर होनी चाहिए?",
+    "title_en": "Should internet access in rural areas be improved?",
+    "description": "डिजिटल विभाजन और ग्रामीण इंटरनेट कनेक्टिविटी पर जनमत।",
+    "description_en": "Public opinion on digital divide and rural internet connectivity.",
+    "status": "active",
+    "options": [
+      { "id": "s047_yes", "label": "हाँ", "label_en": "Yes", "votes": 9300 },
+      { "id": "s047_no",  "label": "नहीं", "label_en": "No",  "votes": 180 }
+    ]
+  },
+  {
+    "id": "s048",
+    "type": "rating",
+    "category": "Law & Order",
+    "title": "पुलिस के व्यवहार और कार्यकुशलता को रेटिंग दें",
+    "title_en": "Rate the behaviour and efficiency of the police",
+    "description": "कानून व्यवस्था और पुलिस सेवा की गुणवत्ता पर जनमत।",
+    "description_en": "Public opinion on law enforcement and quality of police service.",
+    "status": "active",
+    "options": [
+      { "id": "s048_1", "label": "1 – बहुत खराब", "label_en": "1 – Very Poor", "votes": 3100 },
+      { "id": "s048_2", "label": "2 – खराब",       "label_en": "2 – Poor",      "votes": 2800 },
+      { "id": "s048_3", "label": "3 – ठीक-ठाक",   "label_en": "3 – Average",   "votes": 2200 },
+      { "id": "s048_4", "label": "4 – अच्छा",      "label_en": "4 – Good",      "votes": 1100 },
+      { "id": "s048_5", "label": "5 – बहुत अच्छा","label_en": "5 – Excellent", "votes": 400 }
+    ]
+  },
+  {
+    "id": "s049",
+    "type": "text",
+    "category": "State Government",
+    "title": "आपके राज्य में कौन सी समस्या सबसे पहले हल होनी चाहिए?",
+    "title_en": "Which problem in your state should be solved first?",
+    "description": "500 अक्षरों में अपने राज्य की सबसे बड़ी चुनौती बताएँ।",
+    "description_en": "Describe the biggest challenge in your state in up to 500 characters.",
+    "status": "active",
+    "options": []
+  },
+  {
+    "id": "s050",
+    "type": "multiple",
+    "category": "Economy",
+    "title": "भारत की अर्थव्यवस्था को मजबूत करने के लिए क्या जरूरी है?",
+    "title_en": "What is necessary to strengthen India's economy?",
+    "description": "आर्थिक विकास और समृद्धि के लिए प्राथमिकताओं पर जनमत।",
+    "description_en": "Public opinion on priorities for economic growth and prosperity.",
+    "status": "active",
+    "options": [
+      { "id": "s050_1", "label": "विनिर्माण को बढ़ावा",        "label_en": "Boost manufacturing",         "votes": 3400 },
+      { "id": "s050_2", "label": "कृषि आधुनिकीकरण",            "label_en": "Modernise agriculture",        "votes": 2900 },
+      { "id": "s050_3", "label": "निर्यात बढ़ाना",             "label_en": "Increase exports",             "votes": 2100 },
+      { "id": "s050_4", "label": "विदेशी निवेश",               "label_en": "Foreign investment",           "votes": 1800 },
+      { "id": "s050_5", "label": "घरेलू उद्योग का समर्थन",    "label_en": "Support domestic industry",    "votes": 3200 }
+    ]
+  }
+]

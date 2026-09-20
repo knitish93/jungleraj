@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sed -i '' 's#storybook\\\\.js?v=20250831-langfix#storybook.js?v=20250831-readerfix#' pages/storybook.html)",
+      "Bash(md5 data/stories.json)",
+      "WebSearch"
+    ]
+  }
+}

@@ -1,0 +1,409 @@
+/* =========================================================
+   ISSUES MODULE — Phase 7 complete styles
+   Issues list page · Issue details page · Timeline ·
+   Connected sections · FAQ accordion · Related cards
+   ========================================================= */
+
+/* ═══════════════════════════════════════════════════════
+   ISSUES LIST PAGE
+═══════════════════════════════════════════════════════ */
+
+/* ── Hero ────────────────────────────────────────────── */
+.issues-hero {
+  background: var(--gradient-hero);
+  border-bottom: 1px solid var(--color-surface-border);
+  padding: var(--sp-8) 0 var(--sp-6);
+  position: relative;
+  overflow: hidden;
+}
+.issues-hero-metrics {
+  display: flex; gap: var(--sp-8); flex-wrap: wrap; margin-top: var(--sp-6);
+}
+.issues-hero-metric .hm-value {
+  display: block; font-family: var(--font-mono); font-size: var(--fs-3xl);
+  background: var(--gradient-red); -webkit-background-clip: text;
+  background-clip: text; color: transparent;
+}
+.issues-hero-metric .hm-label {
+  font-size: var(--fs-xs); color: var(--color-text-dim);
+  text-transform: uppercase; letter-spacing: .07em;
+}
+
+/* ── Toolbar ─────────────────────────────────────────── */
+.issues-toolbar {
+  display: flex; gap: var(--sp-4); align-items: center;
+  flex-wrap: wrap; margin-bottom: var(--sp-5);
+}
+.issues-toolbar .search-bar { flex: 1; min-width: 240px; max-width: 480px; }
+.issues-toolbar select {
+  background: var(--color-bg-elevated);
+  border: 1px solid var(--color-surface-border-strong);
+  border-radius: var(--radius-pill);
+  padding: var(--sp-3) var(--sp-5);
+  color: var(--color-text); font-size: var(--fs-sm); cursor: pointer;
+}
+
+/* ── Category strip ──────────────────────────────────── */
+.issues-cat-strip {
+  display: flex; gap: var(--sp-2); overflow-x: auto;
+  padding-bottom: var(--sp-2); margin-bottom: var(--sp-6);
+  scrollbar-width: thin;
+}
+
+/* ── Issue card (list page) ──────────────────────────── */
+.issues-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: var(--sp-5);
+}
+.issue-card {
+  cursor: pointer; display: flex; flex-direction: column;
+  position: relative; overflow: hidden;
+  transition: transform var(--dur-base) var(--ease-out),
+              box-shadow var(--dur-base), border-color var(--dur-base);
+}
+.issue-card::before {
+  content: "";
+  position: absolute; top: 0; left: 0; right: 0; height: 3px;
+  background: var(--issue-color, var(--color-red)); opacity: .8;
+}
+.issue-card:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--shadow-lg), 0 0 0 1px var(--issue-color, var(--color-red));
+}
+.issue-card-top { display: flex; gap: var(--sp-4); align-items: flex-start; margin-bottom: var(--sp-4); }
+.issue-icon { font-size: 2rem; line-height: 1; flex-shrink: 0; }
+.issue-card-title { font-size: var(--fs-md); color: var(--color-white); font-weight: 700; margin-bottom: 3px; }
+.issue-card-title-hi { font-family: var(--font-body-hi); font-size: var(--fs-sm); color: var(--color-text-muted); }
+.issue-card-summary { font-size: var(--fs-sm); color: var(--color-text-muted); line-height: 1.6; flex: 1; margin-bottom: var(--sp-4); }
+.issue-card-badges { display: flex; gap: var(--sp-2); flex-wrap: wrap; margin-bottom: var(--sp-4); }
+.issue-card-footer {
+  display: flex; align-items: center; justify-content: space-between;
+  padding-top: var(--sp-4); border-top: 1px solid var(--color-surface-border);
+  font-size: var(--fs-xs); color: var(--color-text-dim);
+}
+.issue-card-footer .conn-count { font-family: var(--font-mono); }
+.issue-severity-dot {
+  width: 8px; height: 8px; border-radius: 50%;
+  display: inline-block; margin-right: 4px;
+}
+.severity-critical { background: #ef4444; }
+.severity-high     { background: var(--color-saffron); }
+.severity-medium   { background: #3b82f6; }
+.severity-low      { background: var(--color-green-bright); }
+
+/* ── Featured issue (wide card) ─────────────────────── */
+.issue-featured-card {
+  display: grid; grid-template-columns: 1fr 2fr;
+  gap: 0; border-radius: var(--radius-lg);
+  overflow: hidden; border: 1px solid var(--color-surface-border);
+  cursor: pointer; margin-bottom: var(--sp-7);
+  transition: box-shadow var(--dur-base);
+}
+.issue-featured-card:hover { box-shadow: var(--shadow-lg); }
+.issue-featured-cover {
+  padding: var(--sp-8); display: flex; align-items: center;
+  justify-content: center; font-size: 5rem;
+  background: var(--issue-cover-bg, rgba(193,39,45,.12));
+  border-right: 1px solid var(--color-surface-border);
+}
+.issue-featured-body {
+  padding: var(--sp-7); background: var(--color-surface);
+  display: flex; flex-direction: column; gap: var(--sp-4);
+}
+
+/* ═══════════════════════════════════════════════════════
+   ISSUE DETAILS PAGE
+═══════════════════════════════════════════════════════ */
+
+/* ── Details hero ────────────────────────────────────── */
+.issue-detail-hero {
+  padding: var(--sp-8) 0 var(--sp-6);
+  background: var(--gradient-hero);
+  border-bottom: 1px solid var(--color-surface-border);
+  position: relative; overflow: hidden;
+}
+.issue-detail-hero .issue-meta-row {
+  display: flex; gap: var(--sp-3); flex-wrap: wrap; margin-bottom: var(--sp-4);
+}
+.issue-detail-icon { font-size: 3.5rem; margin-bottom: var(--sp-4); }
+.issue-detail-title { font-size: clamp(1.8rem,4vw,2.8rem); color: var(--color-white); font-weight: 800; margin-bottom: var(--sp-2); }
+.issue-detail-title-hi { font-family: var(--font-body-hi); font-size: var(--fs-xl); color: var(--color-text-muted); margin-bottom: var(--sp-4); }
+.issue-status-live {
+  display: inline-flex; align-items: center; gap: var(--sp-2);
+  font-family: var(--font-mono); font-size: var(--fs-xs);
+  letter-spacing: .08em; color: var(--color-green-bright);
+}
+
+/* ── Sticky section nav ──────────────────────────────── */
+.issue-section-nav {
+  position: sticky; top: 0; z-index: 20;
+  background: var(--color-bg); border-bottom: 1px solid var(--color-surface-border);
+  display: flex; gap: 0; overflow-x: auto; scrollbar-width: none;
+  padding: 0 var(--sp-6);
+}
+.issue-section-nav::-webkit-scrollbar { display: none; }
+.issue-nav-btn {
+  padding: var(--sp-4) var(--sp-4); white-space: nowrap;
+  font-size: var(--fs-sm); color: var(--color-text-dim);
+  border-bottom: 2px solid transparent; flex-shrink: 0;
+  transition: all var(--dur-fast);
+}
+.issue-nav-btn:hover { color: var(--color-text); }
+.issue-nav-btn.active { color: var(--color-white); border-color: var(--color-red-bright); }
+
+/* ── Section wrapper ──────────────────────────────────── */
+.issue-section {
+  padding: var(--sp-8) 0;
+  border-bottom: 1px solid var(--color-surface-border);
+  scroll-margin-top: 56px;
+}
+.issue-section:last-child { border-bottom: none; }
+.issue-section-eyebrow { display: flex; align-items: center; gap: var(--sp-3); margin-bottom: var(--sp-3); }
+.issue-section-eyebrow .s-icon { font-size: 1.4rem; }
+.issue-section-eyebrow .overline { color: var(--color-saffron); }
+
+/* ── Summary card ─────────────────────────────────────── */
+.issue-summary-card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-surface-border);
+  border-radius: var(--radius-lg); padding: var(--sp-6);
+}
+.issue-summary-text { font-size: var(--fs-md); line-height: 1.9; color: var(--color-text-muted); }
+.issue-summary-text.hindi { font-family: var(--font-body-hi); }
+.issue-lang-toggle { display: flex; gap: var(--sp-2); margin-bottom: var(--sp-5); }
+.issue-lang-btn {
+  padding: var(--sp-2) var(--sp-4); border-radius: var(--radius-pill);
+  border: 1px solid var(--color-surface-border); font-size: var(--fs-xs);
+  color: var(--color-text-dim); transition: all var(--dur-fast);
+}
+.issue-lang-btn.active { color: var(--color-white); border-color: var(--color-saffron); background: rgba(255,153,51,.1); }
+
+/* ═══════════════════════════════════════════════════════
+   TIMELINE
+═══════════════════════════════════════════════════════ */
+.issue-timeline { display: flex; flex-direction: column; gap: 0; max-width: 720px; }
+.timeline-entry { display: flex; gap: var(--sp-5); position: relative; }
+.timeline-entry + .timeline-entry { margin-top: var(--sp-1); }
+.timeline-line-col { display: flex; flex-direction: column; align-items: center; flex-shrink: 0; width: 40px; }
+.tl-dot {
+  width: 16px; height: 16px; border-radius: 50%;
+  border: 2px solid var(--color-red); background: var(--color-bg);
+  flex-shrink: 0; z-index: 1; margin-top: 4px;
+  transition: background var(--dur-fast), border-color var(--dur-fast);
+}
+.timeline-entry:hover .tl-dot { background: var(--color-red); }
+.tl-line {
+  flex: 1; width: 2px;
+  background: var(--color-surface-border);
+  margin-top: 4px;
+}
+.timeline-entry:last-child .tl-line { display: none; }
+.tl-content {
+  padding-bottom: var(--sp-6); flex: 1;
+  padding: var(--sp-4) var(--sp-5) var(--sp-6);
+  background: var(--color-surface);
+  border: 1px solid var(--color-surface-border);
+  border-radius: var(--radius-md);
+  margin-bottom: var(--sp-4);
+  transition: border-color var(--dur-fast);
+}
+.timeline-entry:hover .tl-content { border-color: var(--color-surface-border-strong); }
+.tl-year-badge {
+  display: inline-flex; align-items: center; gap: var(--sp-2);
+  font-family: var(--font-mono); font-size: var(--fs-xs);
+  color: var(--color-saffron); margin-bottom: var(--sp-3);
+}
+.tl-event { font-size: var(--fs-md); color: var(--color-white); font-weight: 600; margin-bottom: var(--sp-2); }
+.tl-desc  { font-size: var(--fs-sm); color: var(--color-text-muted); line-height: 1.6; }
+.tl-ref   { font-size: var(--fs-xs); color: var(--color-text-dim); margin-top: var(--sp-2); font-style: italic; }
+
+/* ═══════════════════════════════════════════════════════
+   CONNECTED SECTIONS
+═══════════════════════════════════════════════════════ */
+
+/* ── Statistics mini-cards ───────────────────────────── */
+.issue-stat-grid {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: var(--sp-4);
+}
+.issue-stat-mini {
+  background: var(--color-surface); border: 1px solid var(--color-surface-border);
+  border-radius: var(--radius-md); padding: var(--sp-4);
+  cursor: pointer; transition: all var(--dur-fast);
+}
+.issue-stat-mini:hover { border-color: var(--color-surface-border-strong); transform: translateY(-2px); }
+.ism-value { font-family: var(--font-mono); font-size: var(--fs-xl); color: var(--color-white); margin-bottom: var(--sp-2); }
+.ism-title { font-size: var(--fs-xs); color: var(--color-text-dim); }
+.ism-trend { font-size: var(--fs-xs); font-family: var(--font-mono); margin-top: var(--sp-2); }
+.ism-trend.up   { color: var(--color-green-bright); }
+.ism-trend.down { color: var(--color-red-bright); }
+
+/* ── News list ────────────────────────────────────────── */
+.issue-news-list { display: flex; flex-direction: column; gap: var(--sp-4); }
+.issue-news-item {
+  display: flex; gap: var(--sp-4); align-items: flex-start;
+  background: var(--color-surface); border: 1px solid var(--color-surface-border);
+  border-radius: var(--radius-md); padding: var(--sp-4);
+  transition: border-color var(--dur-fast);
+}
+.issue-news-item:hover { border-color: var(--color-surface-border-strong); }
+.ini-icon { font-size: 1.6rem; flex-shrink: 0; }
+.ini-body { flex: 1; min-width: 0; }
+.ini-cat  { font-size: 10px; text-transform: uppercase; letter-spacing: .06em; color: var(--color-saffron); margin-bottom: 3px; }
+.ini-title{ font-size: var(--fs-sm); color: var(--color-text-muted); font-weight: 600; line-height: 1.5; margin-bottom: 4px; }
+.ini-meta { font-size: 10px; color: var(--color-text-dim); font-family: var(--font-mono); }
+
+/* ── Survey quick-vote cards ──────────────────────────── */
+.issue-survey-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: var(--sp-4); }
+.issue-survey-card {
+  background: var(--color-surface); border: 1px solid var(--color-surface-border);
+  border-radius: var(--radius-md); padding: var(--sp-5);
+  display: flex; flex-direction: column; gap: var(--sp-3);
+  transition: border-color var(--dur-fast);
+}
+.issue-survey-card:hover { border-color: var(--color-surface-border-strong); }
+.isc-q    { font-size: var(--fs-sm); color: var(--color-white); font-weight: 600; }
+.isc-meta { font-size: var(--fs-xs); color: var(--color-text-dim); font-family: var(--font-mono); }
+.isc-vote-row { display: flex; gap: var(--sp-2); flex-wrap: wrap; margin-top: var(--sp-2); }
+
+/* ── Story strip ─────────────────────────────────────── */
+.issue-story-strip { display: flex; gap: var(--sp-4); overflow-x: auto; padding-bottom: var(--sp-3); }
+.issue-story-card {
+  flex: 0 0 200px; background: var(--color-surface);
+  border: 1px solid var(--color-surface-border); border-radius: var(--radius-md);
+  padding: var(--sp-4); cursor: pointer;
+  transition: transform var(--dur-fast), border-color var(--dur-fast);
+}
+.issue-story-card:hover { transform: translateY(-3px); border-color: var(--color-surface-border-strong); }
+.isc-emoji  { font-size: 2.5rem; margin-bottom: var(--sp-3); }
+.isc-title  { font-size: var(--fs-sm); color: var(--color-white); font-weight: 600; margin-bottom: var(--sp-2); }
+.isc-info   { font-size: var(--fs-xs); color: var(--color-text-dim); }
+
+/* ── Politicians related ─────────────────────────────── */
+.issue-pol-row { display: flex; gap: var(--sp-4); flex-wrap: wrap; }
+.issue-pol-card {
+  display: flex; align-items: center; gap: var(--sp-4);
+  background: var(--color-surface); border: 1px solid var(--color-surface-border);
+  border-radius: var(--radius-md); padding: var(--sp-4);
+  cursor: pointer; transition: all var(--dur-fast);
+  text-decoration: none; flex: 0 0 auto;
+}
+.issue-pol-card:hover { border-color: var(--color-surface-border-strong); transform: translateY(-2px); }
+.ipc-avatar {
+  width: 44px; height: 44px; border-radius: 50%;
+  display: grid; place-items: center; font-weight: 700;
+  font-size: var(--fs-sm); flex-shrink: 0;
+}
+.ipc-avatar.male   { background: linear-gradient(135deg, var(--color-red-dim), #1a0e22); color: var(--color-white); }
+.ipc-avatar.female { background: linear-gradient(135deg, #a855f7, #7e22ce); color: var(--color-white); }
+.ipc-name { font-size: var(--fs-sm); color: var(--color-white); font-weight: 600; }
+.ipc-pos  { font-size: var(--fs-xs); color: var(--color-text-dim); }
+.ipc-note { font-size: 10px; color: var(--color-saffron); margin-top: 2px; }
+
+/* ── Official documents ───────────────────────────────── */
+.issue-docs-list { display: flex; flex-direction: column; gap: var(--sp-3); }
+.issue-doc-item {
+  display: flex; align-items: flex-start; gap: var(--sp-4);
+  padding: var(--sp-4) var(--sp-5);
+  background: var(--color-surface); border: 1px solid var(--color-surface-border);
+  border-radius: var(--radius-md); text-decoration: none;
+  transition: border-color var(--dur-fast);
+}
+.issue-doc-item:hover { border-color: var(--color-saffron); }
+.doc-type-badge { flex-shrink: 0; }
+.doc-title { font-size: var(--fs-sm); color: var(--color-white); font-weight: 500; }
+.doc-date  { font-size: var(--fs-xs); color: var(--color-text-dim); font-family: var(--font-mono); margin-top: 3px; }
+
+/* ═══════════════════════════════════════════════════════
+   FAQ ACCORDION
+═══════════════════════════════════════════════════════ */
+.faq-list { display: flex; flex-direction: column; gap: var(--sp-3); max-width: 720px; }
+.faq-item {
+  background: var(--color-surface); border: 1px solid var(--color-surface-border);
+  border-radius: var(--radius-md); overflow: hidden;
+  transition: border-color var(--dur-fast);
+}
+.faq-item.open { border-color: var(--color-surface-border-strong); }
+.faq-question {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: var(--sp-4); padding: var(--sp-5); cursor: pointer;
+  font-size: var(--fs-sm); color: var(--color-white); font-weight: 600;
+}
+.faq-arrow {
+  flex-shrink: 0; width: 22px; height: 22px;
+  border-radius: 50%; border: 1px solid var(--color-surface-border);
+  display: grid; place-items: center; font-size: 12px;
+  color: var(--color-text-dim); transition: transform var(--dur-base), border-color var(--dur-fast);
+}
+.faq-item.open .faq-arrow { transform: rotate(180deg); border-color: var(--color-saffron); }
+.faq-answer {
+  display: none; padding: 0 var(--sp-5) var(--sp-5);
+  font-size: var(--fs-sm); color: var(--color-text-muted); line-height: 1.7;
+}
+.faq-item.open .faq-answer { display: block; }
+.faq-answer-hi {
+  font-family: var(--font-body-hi);
+  margin-top: var(--sp-3); padding-top: var(--sp-3);
+  border-top: 1px solid var(--color-surface-border);
+  color: var(--color-text-dim); font-size: var(--fs-sm); line-height: 1.8;
+}
+
+/* ═══════════════════════════════════════════════════════
+   RELATED ISSUES
+═══════════════════════════════════════════════════════ */
+.related-issues-grid { display: flex; gap: var(--sp-3); flex-wrap: wrap; }
+.related-issue-pill {
+  display: inline-flex; align-items: center; gap: var(--sp-3);
+  padding: var(--sp-3) var(--sp-5);
+  background: var(--color-surface); border: 1px solid var(--color-surface-border);
+  border-radius: var(--radius-pill); font-size: var(--fs-sm); color: var(--color-text-muted);
+  cursor: pointer; text-decoration: none;
+  transition: all var(--dur-fast);
+}
+.related-issue-pill:hover { border-color: var(--color-saffron); color: var(--color-saffron); background: rgba(255,153,51,.06); }
+
+/* ── Issue chart ──────────────────────────────────────── */
+.issue-chart-wrap {
+  background: var(--color-surface); border: 1px solid var(--color-surface-border);
+  border-radius: var(--radius-lg); padding: var(--sp-5);
+  margin-top: var(--sp-5);
+}
+.issue-chart-wrap canvas { max-height: 260px; }
+
+/* ── Transparency disclaimer ─────────────────────────── */
+.issue-transparency-note {
+  padding: var(--sp-4) var(--sp-5);
+  background: rgba(255,153,51,.05); border: 1px solid rgba(255,153,51,.2);
+  border-radius: var(--radius-md); font-size: var(--fs-xs);
+  color: var(--color-text-dim); line-height: 1.7; margin-top: var(--sp-4);
+}
+
+/* ── Home trending issues ─────────────────────────────── */
+.trending-issue-strip { display: flex; flex-direction: column; gap: var(--sp-3); }
+.trending-issue-row {
+  display: flex; align-items: center; gap: var(--sp-4);
+  padding: var(--sp-4) var(--sp-5);
+  background: var(--color-surface); border: 1px solid var(--color-surface-border);
+  border-radius: var(--radius-md); cursor: pointer; text-decoration: none;
+  transition: all var(--dur-fast);
+}
+.trending-issue-row:hover { border-color: var(--color-surface-border-strong); transform: translateX(4px); }
+.tir-rank { font-family: var(--font-mono); font-size: var(--fs-sm); color: var(--color-text-dim); min-width: 28px; }
+.tir-icon { font-size: 1.4rem; }
+.tir-text { flex: 1; }
+.tir-title{ font-size: var(--fs-sm); color: var(--color-white); font-weight: 600; }
+.tir-cat  { font-size: var(--fs-xs); color: var(--color-text-dim); }
+.tir-badge { font-family: var(--font-mono); font-size: 10px; }
+
+/* ── Responsive ─────────────────────────────────────────── */
+@media (max-width: 900px) {
+  .issue-featured-card { grid-template-columns: 1fr; }
+  .issue-featured-cover { padding: var(--sp-5); font-size: 4rem; }
+  .issues-grid { grid-template-columns: 1fr; }
+}
+@media (max-width: 640px) {
+  .issues-toolbar { flex-direction: column; align-items: stretch; }
+  .issue-pol-card { width: 100%; }
+  .issue-stat-grid { grid-template-columns: repeat(2, 1fr); }
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "bjp",
+    "name": "Bharatiya Janata Party",
+    "name_hi": "भारतीय जनता पार्टी",
+    "short": "BJP",
+    "founded": 1980
+  },
+  {
+    "id": "inc",
+    "name": "Indian National Congress",
+    "name_hi": "भारतीय राष्ट्रीय कांग्रेस",
+    "short": "INC",
+    "founded": 1885
+  }
+]

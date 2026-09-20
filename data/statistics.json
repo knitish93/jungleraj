@@ -1,0 +1,4170 @@
+[
+  {
+    "id": "st001",
+    "title": "भारत की कुल जनसंख्या",
+    "title_en": "India Total Population",
+    "category": "Population",
+    "value": "1,44,17,19,852",
+    "unit": "व्यक्ति",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 0.9,
+    "prevValue": "1,42,86,18,022",
+    "description": "भारत दुनिया का सबसे अधिक जनसंख्या वाला देश है।",
+    "description_en": "India is the world's most populous nation.",
+    "source": "UNFPA / Census of India",
+    "last_updated": "2024-01",
+    "related_story": "st001",
+    "related_survey": "s024",
+    "history": [
+      {
+        "year": 2019,
+        "value": 1367
+      },
+      {
+        "year": 2020,
+        "value": 1380
+      },
+      {
+        "year": 2021,
+        "value": 1393
+      },
+      {
+        "year": 2022,
+        "value": 1407
+      },
+      {
+        "year": 2023,
+        "value": 1428
+      },
+      {
+        "year": 2024,
+        "value": 1441
+      }
+    ],
+    "icon": "👥",
+    "color": "#c1272d"
+  },
+  {
+    "id": "st002",
+    "title": "शहरी जनसंख्या",
+    "title_en": "Urban Population",
+    "category": "Population",
+    "value": "56.4 करोड़",
+    "unit": "व्यक्ति",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 2.4,
+    "prevValue": "54.8 करोड़",
+    "description": "शहरीकरण की दर प्रतिवर्ष बढ़ रही है।",
+    "description_en": "Urbanization rate is increasing annually.",
+    "source": "World Bank / RGI India",
+    "last_updated": "2024-01",
+    "related_story": "st001",
+    "related_survey": "s024",
+    "history": [
+      {
+        "year": 2019,
+        "value": 480
+      },
+      {
+        "year": 2020,
+        "value": 496
+      },
+      {
+        "year": 2021,
+        "value": 509
+      },
+      {
+        "year": 2022,
+        "value": 522
+      },
+      {
+        "year": 2023,
+        "value": 548
+      },
+      {
+        "year": 2024,
+        "value": 564
+      }
+    ],
+    "icon": "🏙️",
+    "color": "#2255a4"
+  },
+  {
+    "id": "st003",
+    "title": "ग्रामीण जनसंख्या",
+    "title_en": "Rural Population",
+    "category": "Population",
+    "value": "87.7 करोड़",
+    "unit": "व्यक्ति",
+    "year": 2024,
+    "trend": "stable",
+    "trendPct": 0.1,
+    "prevValue": "87.4 करोड़",
+    "description": "भारत की लगभग 60% जनसंख्या ग्रामीण क्षेत्रों में है।",
+    "description_en": "About 60% of India's population lives in rural areas.",
+    "source": "Census of India",
+    "last_updated": "2024-01",
+    "related_story": "st003",
+    "related_survey": "s024",
+    "history": [
+      {
+        "year": 2019,
+        "value": 890
+      },
+      {
+        "year": 2020,
+        "value": 884
+      },
+      {
+        "year": 2021,
+        "value": 884
+      },
+      {
+        "year": 2022,
+        "value": 885
+      },
+      {
+        "year": 2023,
+        "value": 874
+      },
+      {
+        "year": 2024,
+        "value": 877
+      }
+    ],
+    "icon": "🌾",
+    "color": "#128807"
+  },
+  {
+    "id": "ec001",
+    "title": "सकल घरेलू उत्पाद (GDP)",
+    "title_en": "Gross Domestic Product (GDP)",
+    "category": "Economy",
+    "value": "₹3,73,00,000 करोड़",
+    "unit": "₹ (नाममात्र)",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 8.2,
+    "prevValue": "₹3,44,73,000 करोड़",
+    "description": "भारत दुनिया की पाँचवीं सबसे बड़ी अर्थव्यवस्था है।",
+    "description_en": "India is the world's 5th largest economy.",
+    "source": "Ministry of Statistics (MoSPI)",
+    "last_updated": "2024-03",
+    "related_story": "st002",
+    "related_survey": "s050",
+    "history": [
+      {
+        "year": 2019,
+        "value": 190073
+      },
+      {
+        "year": 2020,
+        "value": 197455
+      },
+      {
+        "year": 2021,
+        "value": 229658
+      },
+      {
+        "year": 2022,
+        "value": 272441
+      },
+      {
+        "year": 2023,
+        "value": 344730
+      },
+      {
+        "year": 2024,
+        "value": 373000
+      }
+    ],
+    "icon": "📈",
+    "color": "#ff9933"
+  },
+  {
+    "id": "ec002",
+    "title": "GDP वृद्धि दर",
+    "title_en": "GDP Growth Rate",
+    "category": "Economy",
+    "value": "8.2%",
+    "unit": "%",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 1.1,
+    "prevValue": "7.2%",
+    "description": "FY2024 में भारत की GDP वृद्धि दर 8.2% रही।",
+    "description_en": "India's GDP growth rate for FY2024 was 8.2%.",
+    "source": "MoSPI",
+    "last_updated": "2024-05",
+    "related_story": "st002",
+    "related_survey": "s003",
+    "history": [
+      {
+        "year": 2019,
+        "value": 5.0
+      },
+      {
+        "year": 2020,
+        "value": -6.6
+      },
+      {
+        "year": 2021,
+        "value": 8.7
+      },
+      {
+        "year": 2022,
+        "value": 7.2
+      },
+      {
+        "year": 2023,
+        "value": 7.6
+      },
+      {
+        "year": 2024,
+        "value": 8.2
+      }
+    ],
+    "icon": "📊",
+    "color": "#2255a4"
+  },
+  {
+    "id": "ec003",
+    "title": "मुद्रास्फीति (CPI)",
+    "title_en": "Consumer Price Inflation",
+    "category": "Economy",
+    "value": "5.4%",
+    "unit": "%",
+    "year": 2024,
+    "trend": "down",
+    "trendPct": -0.9,
+    "prevValue": "6.7%",
+    "description": "CPI आधारित मुद्रास्फीति 2024 में घटकर 5.4% हुई।",
+    "description_en": "CPI-based inflation fell to 5.4% in 2024.",
+    "source": "Ministry of Statistics",
+    "last_updated": "2024-06",
+    "related_story": "st002",
+    "related_survey": "s003",
+    "history": [
+      {
+        "year": 2019,
+        "value": 3.7
+      },
+      {
+        "year": 2020,
+        "value": 6.2
+      },
+      {
+        "year": 2021,
+        "value": 5.5
+      },
+      {
+        "year": 2022,
+        "value": 6.7
+      },
+      {
+        "year": 2023,
+        "value": 5.7
+      },
+      {
+        "year": 2024,
+        "value": 5.4
+      }
+    ],
+    "icon": "💸",
+    "color": "#c1272d"
+  },
+  {
+    "id": "ec004",
+    "title": "विदेशी मुद्रा भंडार",
+    "title_en": "Foreign Exchange Reserves",
+    "category": "Economy",
+    "value": "$640 अरब",
+    "unit": "USD",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 5.2,
+    "prevValue": "$608 अरब",
+    "description": "RBI का विदेशी मुद्रा भंडार नए रिकॉर्ड पर।",
+    "description_en": "RBI's forex reserves at a new record high.",
+    "source": "Reserve Bank of India",
+    "last_updated": "2024-06",
+    "related_story": "st002",
+    "related_survey": "s050",
+    "history": [
+      {
+        "year": 2019,
+        "value": 412
+      },
+      {
+        "year": 2020,
+        "value": 580
+      },
+      {
+        "year": 2021,
+        "value": 634
+      },
+      {
+        "year": 2022,
+        "value": 524
+      },
+      {
+        "year": 2023,
+        "value": 608
+      },
+      {
+        "year": 2024,
+        "value": 640
+      }
+    ],
+    "icon": "🏦",
+    "color": "#0d9488"
+  },
+  {
+    "id": "ec005",
+    "title": "FDI (प्रत्यक्ष विदेशी निवेश)",
+    "title_en": "Foreign Direct Investment",
+    "category": "Economy",
+    "value": "$70.95 अरब",
+    "unit": "USD",
+    "year": 2024,
+    "trend": "down",
+    "trendPct": -0.8,
+    "prevValue": "$71.35 अरब",
+    "description": "FY2024 में विदेशी प्रत्यक्ष निवेश।",
+    "description_en": "FDI inflow in FY2024.",
+    "source": "DPIIT",
+    "last_updated": "2024-06",
+    "related_story": "st009",
+    "related_survey": "s050",
+    "history": [
+      {
+        "year": 2019,
+        "value": 49.97
+      },
+      {
+        "year": 2020,
+        "value": 74.39
+      },
+      {
+        "year": 2021,
+        "value": 81.97
+      },
+      {
+        "year": 2022,
+        "value": 84.84
+      },
+      {
+        "year": 2023,
+        "value": 71.35
+      },
+      {
+        "year": 2024,
+        "value": 70.95
+      }
+    ],
+    "icon": "🌐",
+    "color": "#a78bfa"
+  },
+  {
+    "id": "ec006",
+    "title": "गरीबी रेखा से नीचे (MPI)",
+    "title_en": "Population Below Poverty Line",
+    "category": "Economy",
+    "value": "~11.9%",
+    "unit": "%",
+    "year": 2022,
+    "trend": "down",
+    "trendPct": -10,
+    "prevValue": "~21.9%",
+    "description": "बहुआयामी निर्धनता सूचकांक (MPI) 2022।",
+    "description_en": "Multidimensional Poverty Index (MPI) 2022.",
+    "source": "NITI Aayog / UNDP",
+    "last_updated": "2023-07",
+    "related_story": "st001",
+    "related_survey": "s041",
+    "history": [
+      {
+        "year": 2015,
+        "value": 29.7
+      },
+      {
+        "year": 2019,
+        "value": 21.9
+      },
+      {
+        "year": 2022,
+        "value": 11.9
+      }
+    ],
+    "icon": "📉",
+    "color": "#c1272d"
+  },
+  {
+    "id": "ec007",
+    "title": "शेयर बाज़ार (Sensex)",
+    "title_en": "Stock Market (Sensex)",
+    "category": "Economy",
+    "value": "73,961",
+    "unit": "अंक",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 23.1,
+    "prevValue": "60,098",
+    "description": "BSE Sensex का वार्षिक प्रदर्शन।",
+    "description_en": "BSE Sensex annual performance.",
+    "source": "BSE India",
+    "last_updated": "2024-06",
+    "related_story": "st002",
+    "related_survey": "s050",
+    "history": [
+      {
+        "year": 2020,
+        "value": 47751
+      },
+      {
+        "year": 2021,
+        "value": 58253
+      },
+      {
+        "year": 2022,
+        "value": 60098
+      },
+      {
+        "year": 2023,
+        "value": 72000
+      },
+      {
+        "year": 2024,
+        "value": 73961
+      }
+    ],
+    "icon": "📈",
+    "color": "#128807"
+  },
+  {
+    "id": "ec008",
+    "title": "जन धन खाते",
+    "title_en": "Jan Dhan Accounts",
+    "category": "Economy",
+    "value": "53.13 करोड़",
+    "unit": "खाते",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 5.2,
+    "prevValue": "50.5 करोड़",
+    "description": "PMJDY के तहत खोले गए बैंक खाते।",
+    "description_en": "Bank accounts under PMJDY scheme.",
+    "source": "Ministry of Finance",
+    "last_updated": "2024-06",
+    "related_story": "st002",
+    "related_survey": "s041",
+    "history": [
+      {
+        "year": 2019,
+        "value": 36.06
+      },
+      {
+        "year": 2020,
+        "value": 40.35
+      },
+      {
+        "year": 2021,
+        "value": 43.04
+      },
+      {
+        "year": 2022,
+        "value": 46.25
+      },
+      {
+        "year": 2023,
+        "value": 50.5
+      },
+      {
+        "year": 2024,
+        "value": 53.13
+      }
+    ],
+    "icon": "🏧",
+    "color": "#128807"
+  },
+  {
+    "id": "em001",
+    "title": "बेरोज़गारी दर",
+    "title_en": "Unemployment Rate",
+    "category": "Employment",
+    "value": "8.1%",
+    "unit": "%",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 0.4,
+    "prevValue": "7.7%",
+    "description": "शहरी युवाओं में बेरोज़गारी सबसे अधिक।",
+    "description_en": "Youth unemployment highest in urban areas.",
+    "source": "CMIE",
+    "last_updated": "2024-05",
+    "related_story": "st009",
+    "related_survey": "s011",
+    "history": [
+      {
+        "year": 2019,
+        "value": 7.6
+      },
+      {
+        "year": 2020,
+        "value": 11.3
+      },
+      {
+        "year": 2021,
+        "value": 8.0
+      },
+      {
+        "year": 2022,
+        "value": 7.3
+      },
+      {
+        "year": 2023,
+        "value": 7.7
+      },
+      {
+        "year": 2024,
+        "value": 8.1
+      }
+    ],
+    "icon": "🧑‍💼",
+    "color": "#c1272d"
+  },
+  {
+    "id": "em002",
+    "title": "युवा बेरोज़गारी (15–29)",
+    "title_en": "Youth Unemployment (15–29)",
+    "category": "Employment",
+    "value": "23.7%",
+    "unit": "%",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 1.2,
+    "prevValue": "22.5%",
+    "description": "15–29 आयु वर्ग में बेरोज़गारी।",
+    "description_en": "Unemployment in 15–29 age group.",
+    "source": "CMIE / ILO",
+    "last_updated": "2024-05",
+    "related_story": "st009",
+    "related_survey": "s011",
+    "history": [
+      {
+        "year": 2019,
+        "value": 22.9
+      },
+      {
+        "year": 2020,
+        "value": 28.4
+      },
+      {
+        "year": 2021,
+        "value": 24.8
+      },
+      {
+        "year": 2022,
+        "value": 23.2
+      },
+      {
+        "year": 2023,
+        "value": 22.5
+      },
+      {
+        "year": 2024,
+        "value": 23.7
+      }
+    ],
+    "icon": "🎓",
+    "color": "#f59e0b"
+  },
+  {
+    "id": "em003",
+    "title": "महिला श्रम बल भागीदारी",
+    "title_en": "Female Labour Force Participation",
+    "category": "Employment",
+    "value": "37.0%",
+    "unit": "%",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 2.8,
+    "prevValue": "34.0%",
+    "description": "महिलाओं की कार्यबल में भागीदारी बढ़ी।",
+    "description_en": "Female workforce participation has increased.",
+    "source": "PLFS",
+    "last_updated": "2024-03",
+    "related_story": "st007",
+    "related_survey": "s021",
+    "history": [
+      {
+        "year": 2019,
+        "value": 20.6
+      },
+      {
+        "year": 2020,
+        "value": 24.5
+      },
+      {
+        "year": 2021,
+        "value": 32.5
+      },
+      {
+        "year": 2022,
+        "value": 33.0
+      },
+      {
+        "year": 2023,
+        "value": 34.0
+      },
+      {
+        "year": 2024,
+        "value": 37.0
+      }
+    ],
+    "icon": "👩",
+    "color": "#a855f7"
+  },
+  {
+    "id": "em004",
+    "title": "MGNREGA रोज़गार",
+    "title_en": "MGNREGA Employment",
+    "category": "Employment",
+    "value": "5.73 करोड़",
+    "unit": "परिवार",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 8.5,
+    "prevValue": "5.28 करोड़",
+    "description": "FY2024 में MGNREGA के तहत रोज़गार।",
+    "description_en": "Families employed under MGNREGA in FY2024.",
+    "source": "Ministry of Rural Development",
+    "last_updated": "2024-06",
+    "related_story": "st003",
+    "related_survey": "s037",
+    "history": [
+      {
+        "year": 2020,
+        "value": 7.55
+      },
+      {
+        "year": 2021,
+        "value": 7.55
+      },
+      {
+        "year": 2022,
+        "value": 5.0
+      },
+      {
+        "year": 2023,
+        "value": 5.28
+      },
+      {
+        "year": 2024,
+        "value": 5.73
+      }
+    ],
+    "icon": "🌾",
+    "color": "#128807"
+  },
+  {
+    "id": "em005",
+    "title": "सरकारी कर्मचारी",
+    "title_en": "Government Employees",
+    "category": "Employment",
+    "value": "3.18 करोड़",
+    "unit": "कर्मचारी",
+    "year": 2023,
+    "trend": "down",
+    "trendPct": -1.2,
+    "prevValue": "3.22 करोड़",
+    "description": "केंद्र और राज्य सरकार के कुल कर्मचारी।",
+    "description_en": "Total central and state government employees.",
+    "source": "Ministry of Finance",
+    "last_updated": "2023-12",
+    "related_story": "st009",
+    "related_survey": "s027",
+    "history": [
+      {
+        "year": 2019,
+        "value": 3.34
+      },
+      {
+        "year": 2020,
+        "value": 3.3
+      },
+      {
+        "year": 2021,
+        "value": 3.28
+      },
+      {
+        "year": 2022,
+        "value": 3.26
+      },
+      {
+        "year": 2023,
+        "value": 3.18
+      }
+    ],
+    "icon": "🏛️",
+    "color": "#2255a4"
+  },
+  {
+    "id": "ed001",
+    "title": "साक्षरता दर",
+    "title_en": "Literacy Rate",
+    "category": "Education",
+    "value": "77.7%",
+    "unit": "%",
+    "year": 2023,
+    "trend": "up",
+    "trendPct": 1.2,
+    "prevValue": "74.04%",
+    "description": "NSF 2023 के अनुसार भारत की साक्षरता दर।",
+    "description_en": "India's literacy rate per NSF 2023.",
+    "source": "NITI Aayog / NSO",
+    "last_updated": "2023-09",
+    "related_story": "st004",
+    "related_survey": "s006",
+    "history": [
+      {
+        "year": 2011,
+        "value": 74.04
+      },
+      {
+        "year": 2015,
+        "value": 74.37
+      },
+      {
+        "year": 2018,
+        "value": 75.0
+      },
+      {
+        "year": 2020,
+        "value": 76.5
+      },
+      {
+        "year": 2023,
+        "value": 77.7
+      }
+    ],
+    "icon": "📚",
+    "color": "#ff9933"
+  },
+  {
+    "id": "ed002",
+    "title": "प्राथमिक नामांकन दर",
+    "title_en": "Primary School Enrollment Rate",
+    "category": "Education",
+    "value": "98.4%",
+    "unit": "%",
+    "year": 2023,
+    "trend": "up",
+    "trendPct": 0.4,
+    "prevValue": "98.0%",
+    "description": "6–11 आयु वर्ग का प्राथमिक नामांकन।",
+    "description_en": "Primary enrollment for age 6–11.",
+    "source": "UDISE+",
+    "last_updated": "2023-11",
+    "related_story": "st005",
+    "related_survey": "s006",
+    "history": [
+      {
+        "year": 2019,
+        "value": 96.2
+      },
+      {
+        "year": 2020,
+        "value": 97.1
+      },
+      {
+        "year": 2021,
+        "value": 97.5
+      },
+      {
+        "year": 2022,
+        "value": 98.0
+      },
+      {
+        "year": 2023,
+        "value": 98.4
+      }
+    ],
+    "icon": "🏫",
+    "color": "#128807"
+  },
+  {
+    "id": "ed003",
+    "title": "ड्रॉपआउट दर (माध्यमिक)",
+    "title_en": "Secondary Dropout Rate",
+    "category": "Education",
+    "value": "14.9%",
+    "unit": "%",
+    "year": 2023,
+    "trend": "down",
+    "trendPct": -2.1,
+    "prevValue": "17.0%",
+    "description": "माध्यमिक स्तर पर स्कूल छोड़ने की दर।",
+    "description_en": "Dropout rate at secondary level.",
+    "source": "UDISE+",
+    "last_updated": "2023-11",
+    "related_story": "st005",
+    "related_survey": "s006",
+    "history": [
+      {
+        "year": 2019,
+        "value": 19.8
+      },
+      {
+        "year": 2020,
+        "value": 19.1
+      },
+      {
+        "year": 2021,
+        "value": 17.9
+      },
+      {
+        "year": 2022,
+        "value": 17.0
+      },
+      {
+        "year": 2023,
+        "value": 14.9
+      }
+    ],
+    "icon": "🎒",
+    "color": "#c1272d"
+  },
+  {
+    "id": "ed004",
+    "title": "पेपर लीक घटनाएँ",
+    "title_en": "Paper Leak Incidents",
+    "category": "Education",
+    "value": "41",
+    "unit": "मामले",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 36.7,
+    "prevValue": "30",
+    "description": "2015–2024 में सरकारी परीक्षाओं में पेपर लीक।",
+    "description_en": "Paper leak incidents in govt exams 2015–2024.",
+    "source": "Media Reports / TI",
+    "last_updated": "2024-06",
+    "related_story": "st006",
+    "related_survey": "s005",
+    "history": [
+      {
+        "year": 2019,
+        "value": 15
+      },
+      {
+        "year": 2020,
+        "value": 18
+      },
+      {
+        "year": 2021,
+        "value": 22
+      },
+      {
+        "year": 2022,
+        "value": 28
+      },
+      {
+        "year": 2023,
+        "value": 30
+      },
+      {
+        "year": 2024,
+        "value": 41
+      }
+    ],
+    "icon": "📝",
+    "color": "#c1272d"
+  },
+  {
+    "id": "ed005",
+    "title": "उच्च शिक्षा GER",
+    "title_en": "Higher Education Gross Enrollment Ratio",
+    "category": "Education",
+    "value": "28.4%",
+    "unit": "GER %",
+    "year": 2023,
+    "trend": "up",
+    "trendPct": 2.1,
+    "prevValue": "27.3%",
+    "description": "18–23 आयु वर्ग में उच्च शिक्षा नामांकन।",
+    "description_en": "Higher education enrollment in 18–23 age group.",
+    "source": "AISHE / Ministry of Education",
+    "last_updated": "2023-11",
+    "related_story": "st004",
+    "related_survey": "s019",
+    "history": [
+      {
+        "year": 2019,
+        "value": 26.3
+      },
+      {
+        "year": 2020,
+        "value": 27.1
+      },
+      {
+        "year": 2021,
+        "value": 27.3
+      },
+      {
+        "year": 2023,
+        "value": 28.4
+      }
+    ],
+    "icon": "🎓",
+    "color": "#2255a4"
+  },
+  {
+    "id": "ed006",
+    "title": "स्कूलों की संख्या",
+    "title_en": "Number of Schools",
+    "category": "Education",
+    "value": "14.89 लाख",
+    "unit": "स्कूल",
+    "year": 2023,
+    "trend": "up",
+    "trendPct": 0.3,
+    "prevValue": "14.84 लाख",
+    "description": "भारत में कुल पंजीकृत स्कूल।",
+    "description_en": "Total registered schools in India.",
+    "source": "UDISE+",
+    "last_updated": "2023-11",
+    "related_story": "st005",
+    "related_survey": "s006",
+    "history": [
+      {
+        "year": 2019,
+        "value": 15.5
+      },
+      {
+        "year": 2020,
+        "value": 15.08
+      },
+      {
+        "year": 2021,
+        "value": 14.97
+      },
+      {
+        "year": 2022,
+        "value": 14.84
+      },
+      {
+        "year": 2023,
+        "value": 14.89
+      }
+    ],
+    "icon": "🏫",
+    "color": "#ff9933"
+  },
+  {
+    "id": "hc001",
+    "title": "जीवन प्रत्याशा",
+    "title_en": "Life Expectancy at Birth",
+    "category": "Healthcare",
+    "value": "70.19 वर्ष",
+    "unit": "वर्ष",
+    "year": 2023,
+    "trend": "up",
+    "trendPct": 0.8,
+    "prevValue": "69.4 वर्ष",
+    "description": "भारत में जन्म पर औसत जीवन प्रत्याशा।",
+    "description_en": "Average life expectancy at birth in India.",
+    "source": "World Bank / SRS",
+    "last_updated": "2023-09",
+    "related_story": "st010",
+    "related_survey": "s007",
+    "history": [
+      {
+        "year": 2019,
+        "value": 69.16
+      },
+      {
+        "year": 2020,
+        "value": 69.4
+      },
+      {
+        "year": 2021,
+        "value": 69.4
+      },
+      {
+        "year": 2022,
+        "value": 69.4
+      },
+      {
+        "year": 2023,
+        "value": 70.19
+      }
+    ],
+    "icon": "❤️",
+    "color": "#c1272d"
+  },
+  {
+    "id": "hc002",
+    "title": "शिशु मृत्यु दर",
+    "title_en": "Infant Mortality Rate",
+    "category": "Healthcare",
+    "value": "26.6",
+    "unit": "प्रति 1000 जन्म",
+    "year": 2023,
+    "trend": "down",
+    "trendPct": -4.3,
+    "prevValue": "27.8",
+    "description": "प्रति 1,000 जीवित जन्मों पर एक वर्ष से कम में मृत्यु।",
+    "description_en": "Deaths per 1,000 live births under age 1.",
+    "source": "SRS",
+    "last_updated": "2023-09",
+    "related_story": "st010",
+    "related_survey": "s007",
+    "history": [
+      {
+        "year": 2019,
+        "value": 30.0
+      },
+      {
+        "year": 2020,
+        "value": 28.0
+      },
+      {
+        "year": 2021,
+        "value": 27.4
+      },
+      {
+        "year": 2022,
+        "value": 27.8
+      },
+      {
+        "year": 2023,
+        "value": 26.6
+      }
+    ],
+    "icon": "👶",
+    "color": "#a855f7"
+  },
+  {
+    "id": "hc003",
+    "title": "सरकारी अस्पताल",
+    "title_en": "Government Hospitals",
+    "category": "Healthcare",
+    "value": "25,778",
+    "unit": "अस्पताल",
+    "year": 2023,
+    "trend": "up",
+    "trendPct": 3.2,
+    "prevValue": "24,985",
+    "description": "राज्य और केंद्र सरकार के अस्पताल।",
+    "description_en": "State and central government hospitals.",
+    "source": "National Health Profile",
+    "last_updated": "2023-12",
+    "related_story": "st010",
+    "related_survey": "s007",
+    "history": [
+      {
+        "year": 2019,
+        "value": 23582
+      },
+      {
+        "year": 2020,
+        "value": 23839
+      },
+      {
+        "year": 2021,
+        "value": 24019
+      },
+      {
+        "year": 2022,
+        "value": 24985
+      },
+      {
+        "year": 2023,
+        "value": 25778
+      }
+    ],
+    "icon": "🏥",
+    "color": "#0d9488"
+  },
+  {
+    "id": "hc004",
+    "title": "मेडिकल कॉलेज",
+    "title_en": "Medical Colleges",
+    "category": "Healthcare",
+    "value": "706",
+    "unit": "कॉलेज",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 5.7,
+    "prevValue": "667",
+    "description": "NMC द्वारा अनुमोदित मेडिकल कॉलेज।",
+    "description_en": "NMC-approved medical colleges.",
+    "source": "National Medical Commission",
+    "last_updated": "2024-03",
+    "related_story": "st010",
+    "related_survey": "s042",
+    "history": [
+      {
+        "year": 2019,
+        "value": 529
+      },
+      {
+        "year": 2020,
+        "value": 558
+      },
+      {
+        "year": 2021,
+        "value": 596
+      },
+      {
+        "year": 2022,
+        "value": 638
+      },
+      {
+        "year": 2023,
+        "value": 667
+      },
+      {
+        "year": 2024,
+        "value": 706
+      }
+    ],
+    "icon": "🩺",
+    "color": "#2255a4"
+  },
+  {
+    "id": "hc005",
+    "title": "डॉक्टर-जनसंख्या अनुपात",
+    "title_en": "Doctor-Population Ratio",
+    "category": "Healthcare",
+    "value": "1 : 834",
+    "unit": "अनुपात",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 3.1,
+    "prevValue": "1 : 860",
+    "description": "WHO अनुशंसित 1:1000 से बेहतर।",
+    "description_en": "Better than WHO recommendation of 1:1000.",
+    "source": "Indian Medical Register",
+    "last_updated": "2024-03",
+    "related_story": "st010",
+    "related_survey": "s042",
+    "history": [
+      {
+        "year": 2019,
+        "value": 1445
+      },
+      {
+        "year": 2021,
+        "value": 1100
+      },
+      {
+        "year": 2022,
+        "value": 900
+      },
+      {
+        "year": 2023,
+        "value": 860
+      },
+      {
+        "year": 2024,
+        "value": 834
+      }
+    ],
+    "icon": "👨‍⚕️",
+    "color": "#128807"
+  },
+  {
+    "id": "hc006",
+    "title": "मातृ मृत्यु दर",
+    "title_en": "Maternal Mortality Rate",
+    "category": "Healthcare",
+    "value": "97",
+    "unit": "प्रति लाख जन्म",
+    "year": 2023,
+    "trend": "down",
+    "trendPct": -5.8,
+    "prevValue": "103",
+    "description": "SRS 2020 के अनुसार मातृ मृत्यु दर।",
+    "description_en": "Maternal mortality rate per SRS 2020.",
+    "source": "SRS (Sample Registration System)",
+    "last_updated": "2023-09",
+    "related_story": "st010",
+    "related_survey": "s007",
+    "history": [
+      {
+        "year": 2014,
+        "value": 167
+      },
+      {
+        "year": 2016,
+        "value": 130
+      },
+      {
+        "year": 2018,
+        "value": 113
+      },
+      {
+        "year": 2020,
+        "value": 103
+      },
+      {
+        "year": 2023,
+        "value": 97
+      }
+    ],
+    "icon": "👩",
+    "color": "#a855f7"
+  },
+  {
+    "id": "hc007",
+    "title": "Ayushman Bharat लाभार्थी",
+    "title_en": "Ayushman Bharat Beneficiaries",
+    "category": "Healthcare",
+    "value": "6.14 करोड़",
+    "unit": "भर्ती",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 15,
+    "prevValue": "5.34 करोड़",
+    "description": "AB-PMJAY के तहत अस्पताल में भर्ती।",
+    "description_en": "Hospitalised beneficiaries under AB-PMJAY.",
+    "source": "National Health Authority",
+    "last_updated": "2024-06",
+    "related_story": "st010",
+    "related_survey": "s028",
+    "history": [
+      {
+        "year": 2020,
+        "value": 1.6
+      },
+      {
+        "year": 2021,
+        "value": 2.8
+      },
+      {
+        "year": 2022,
+        "value": 4.1
+      },
+      {
+        "year": 2023,
+        "value": 5.34
+      },
+      {
+        "year": 2024,
+        "value": 6.14
+      }
+    ],
+    "icon": "🏥",
+    "color": "#0d9488"
+  },
+  {
+    "id": "ag001",
+    "title": "कृषि क्षेत्र GDP में योगदान",
+    "title_en": "Agriculture Share in GDP",
+    "category": "Agriculture",
+    "value": "18.2%",
+    "unit": "%",
+    "year": 2024,
+    "trend": "down",
+    "trendPct": -0.2,
+    "prevValue": "18.4%",
+    "description": "कृषि क्षेत्र का GDP में हिस्सा।",
+    "description_en": "Agriculture sector's share in GDP.",
+    "source": "MoSPI / Ministry of Agriculture",
+    "last_updated": "2024-03",
+    "related_story": "st003",
+    "related_survey": "s018",
+    "history": [
+      {
+        "year": 2019,
+        "value": 16.5
+      },
+      {
+        "year": 2020,
+        "value": 20.2
+      },
+      {
+        "year": 2021,
+        "value": 18.8
+      },
+      {
+        "year": 2022,
+        "value": 18.6
+      },
+      {
+        "year": 2023,
+        "value": 18.4
+      },
+      {
+        "year": 2024,
+        "value": 18.2
+      }
+    ],
+    "icon": "🌾",
+    "color": "#128807"
+  },
+  {
+    "id": "ag002",
+    "title": "किसान आत्महत्याएँ",
+    "title_en": "Farmer Suicides",
+    "category": "Agriculture",
+    "value": "11,290",
+    "unit": "मामले",
+    "year": 2022,
+    "trend": "up",
+    "trendPct": 4.1,
+    "prevValue": "10,850",
+    "description": "NCRB 2022 के अनुसार किसान और खेत मज़दूर आत्महत्याएँ।",
+    "description_en": "Farmer and farm labour suicides per NCRB 2022.",
+    "source": "NCRB",
+    "last_updated": "2023-12",
+    "related_story": "st003",
+    "related_survey": "s032",
+    "history": [
+      {
+        "year": 2019,
+        "value": 10281
+      },
+      {
+        "year": 2020,
+        "value": 10677
+      },
+      {
+        "year": 2021,
+        "value": 10881
+      },
+      {
+        "year": 2022,
+        "value": 11290
+      }
+    ],
+    "icon": "🚨",
+    "color": "#c1272d"
+  },
+  {
+    "id": "ag003",
+    "title": "खाद्यान्न उत्पादन",
+    "title_en": "Foodgrain Production",
+    "category": "Agriculture",
+    "value": "32.96 करोड़ टन",
+    "unit": "मिलियन टन",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 0.4,
+    "prevValue": "32.83 करोड़ टन",
+    "description": "FY2024 में कुल खाद्यान्न उत्पादन।",
+    "description_en": "Total foodgrain production in FY2024.",
+    "source": "Ministry of Agriculture",
+    "last_updated": "2024-05",
+    "related_story": "st003",
+    "related_survey": "s018",
+    "history": [
+      {
+        "year": 2019,
+        "value": 284.95
+      },
+      {
+        "year": 2020,
+        "value": 305.43
+      },
+      {
+        "year": 2021,
+        "value": 314.51
+      },
+      {
+        "year": 2022,
+        "value": 315.72
+      },
+      {
+        "year": 2023,
+        "value": 328.3
+      },
+      {
+        "year": 2024,
+        "value": 329.6
+      }
+    ],
+    "icon": "🌿",
+    "color": "#128807"
+  },
+  {
+    "id": "ag004",
+    "title": "किसान परिवार औसत आय",
+    "title_en": "Average Farm Household Income",
+    "category": "Agriculture",
+    "value": "₹10,218/माह",
+    "unit": "₹/माह",
+    "year": 2023,
+    "trend": "up",
+    "trendPct": 11.2,
+    "prevValue": "₹6,426/माह",
+    "description": "NSSO सर्वेक्षण 2021–22 के अनुसार।",
+    "description_en": "Per NSSO Survey 2021–22.",
+    "source": "NSSO / NABARD",
+    "last_updated": "2023-06",
+    "related_story": "st003",
+    "related_survey": "s032",
+    "history": [
+      {
+        "year": 2016,
+        "value": 6426
+      },
+      {
+        "year": 2018,
+        "value": 7380
+      },
+      {
+        "year": 2020,
+        "value": 8283
+      },
+      {
+        "year": 2023,
+        "value": 10218
+      }
+    ],
+    "icon": "💰",
+    "color": "#ff9933"
+  },
+  {
+    "id": "ag005",
+    "title": "MSP पर गेहूँ खरीद",
+    "title_en": "Wheat Procurement at MSP",
+    "category": "Agriculture",
+    "value": "26.2 MT",
+    "unit": "मिलियन टन",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 5,
+    "prevValue": "25.0 MT",
+    "description": "FY2024 में MSP पर सरकारी गेहूँ खरीद।",
+    "description_en": "Government wheat procurement at MSP in FY2024.",
+    "source": "FCI / Ministry of Agriculture",
+    "last_updated": "2024-06",
+    "related_story": "st003",
+    "related_survey": "s018",
+    "history": [
+      {
+        "year": 2020,
+        "value": 34.1
+      },
+      {
+        "year": 2021,
+        "value": 43.3
+      },
+      {
+        "year": 2022,
+        "value": 18.8
+      },
+      {
+        "year": 2023,
+        "value": 25.0
+      },
+      {
+        "year": 2024,
+        "value": 26.2
+      }
+    ],
+    "icon": "🌾",
+    "color": "#128807"
+  },
+  {
+    "id": "cr001",
+    "title": "महिलाओं के विरुद्ध अपराध",
+    "title_en": "Crimes Against Women",
+    "category": "Crime",
+    "value": "4,45,256",
+    "unit": "मामले",
+    "year": 2022,
+    "trend": "up",
+    "trendPct": 4.0,
+    "prevValue": "4,28,278",
+    "description": "IPC और SLL के तहत महिलाओं के विरुद्ध कुल अपराध।",
+    "description_en": "Total crimes against women under IPC and SLL.",
+    "source": "NCRB",
+    "last_updated": "2023-12",
+    "related_story": "st007",
+    "related_survey": "s017",
+    "history": [
+      {
+        "year": 2019,
+        "value": 405861
+      },
+      {
+        "year": 2020,
+        "value": 371503
+      },
+      {
+        "year": 2021,
+        "value": 428278
+      },
+      {
+        "year": 2022,
+        "value": 445256
+      }
+    ],
+    "icon": "⚠️",
+    "color": "#c1272d"
+  },
+  {
+    "id": "cr002",
+    "title": "बलात्कार के दर्ज मामले",
+    "title_en": "Reported Rape Cases",
+    "category": "Crime",
+    "value": "31,516",
+    "unit": "मामले",
+    "year": 2022,
+    "trend": "up",
+    "trendPct": 9.9,
+    "prevValue": "28,678",
+    "description": "NCRB 2022 के अनुसार।",
+    "description_en": "Per NCRB 2022.",
+    "source": "NCRB",
+    "last_updated": "2023-12",
+    "related_story": "st007",
+    "related_survey": "s017",
+    "history": [
+      {
+        "year": 2019,
+        "value": 32033
+      },
+      {
+        "year": 2020,
+        "value": 28046
+      },
+      {
+        "year": 2021,
+        "value": 31677
+      },
+      {
+        "year": 2022,
+        "value": 31516
+      }
+    ],
+    "icon": "🚨",
+    "color": "#c1272d"
+  },
+  {
+    "id": "cr003",
+    "title": "साइबर अपराध",
+    "title_en": "Cyber Crimes",
+    "category": "Crime",
+    "value": "65,893",
+    "unit": "मामले",
+    "year": 2022,
+    "trend": "up",
+    "trendPct": 24.4,
+    "prevValue": "52,974",
+    "description": "इंटरनेट से जुड़े साइबर अपराध।",
+    "description_en": "Cyber crimes related to internet and digital media.",
+    "source": "NCRB",
+    "last_updated": "2023-12",
+    "related_story": "st009",
+    "related_survey": "s022",
+    "history": [
+      {
+        "year": 2019,
+        "value": 44735
+      },
+      {
+        "year": 2020,
+        "value": 50035
+      },
+      {
+        "year": 2021,
+        "value": 52974
+      },
+      {
+        "year": 2022,
+        "value": 65893
+      }
+    ],
+    "icon": "💻",
+    "color": "#2255a4"
+  },
+  {
+    "id": "cr004",
+    "title": "सड़क दुर्घटना मृत्यु",
+    "title_en": "Road Accident Deaths",
+    "category": "Crime",
+    "value": "1,68,491",
+    "unit": "मृत्यु",
+    "year": 2022,
+    "trend": "up",
+    "trendPct": 9.4,
+    "prevValue": "1,53,972",
+    "description": "देश में सड़क दुर्घटनाओं में मृत्यु।",
+    "description_en": "Deaths in road accidents across the country.",
+    "source": "MoRTH",
+    "last_updated": "2023-10",
+    "related_story": "st001",
+    "related_survey": "s039",
+    "history": [
+      {
+        "year": 2019,
+        "value": 151113
+      },
+      {
+        "year": 2020,
+        "value": 131714
+      },
+      {
+        "year": 2021,
+        "value": 153972
+      },
+      {
+        "year": 2022,
+        "value": 168491
+      }
+    ],
+    "icon": "🚗",
+    "color": "#f59e0b"
+  },
+  {
+    "id": "cr005",
+    "title": "बलात्कार में दोष सिद्धि दर",
+    "title_en": "Rape Case Conviction Rate",
+    "category": "Crime",
+    "value": "27.5%",
+    "unit": "%",
+    "year": 2022,
+    "trend": "up",
+    "trendPct": 2.2,
+    "prevValue": "25.3%",
+    "description": "न्यायालय में बलात्कार मामलों में सज़ा की दर।",
+    "description_en": "Conviction rate in rape cases in courts.",
+    "source": "NCRB",
+    "last_updated": "2023-12",
+    "related_story": "st007",
+    "related_survey": "s004",
+    "history": [
+      {
+        "year": 2019,
+        "value": 27.8
+      },
+      {
+        "year": 2020,
+        "value": 25.3
+      },
+      {
+        "year": 2021,
+        "value": 26.5
+      },
+      {
+        "year": 2022,
+        "value": 27.5
+      }
+    ],
+    "icon": "⚖️",
+    "color": "#128807"
+  },
+  {
+    "id": "cr006",
+    "title": "ड्रग अपराध मामले",
+    "title_en": "Drug Crime Cases",
+    "category": "Crime",
+    "value": "1,12,756",
+    "unit": "मामले",
+    "year": 2022,
+    "trend": "up",
+    "trendPct": 19,
+    "prevValue": "94,825",
+    "description": "नारकोटिक्स एक्ट के तहत दर्ज मामले।",
+    "description_en": "Cases registered under Narcotics Act.",
+    "source": "NCRB",
+    "last_updated": "2023-12",
+    "related_story": "st006",
+    "related_survey": "s039",
+    "history": [
+      {
+        "year": 2019,
+        "value": 68000
+      },
+      {
+        "year": 2020,
+        "value": 78000
+      },
+      {
+        "year": 2021,
+        "value": 94825
+      },
+      {
+        "year": 2022,
+        "value": 112756
+      }
+    ],
+    "icon": "🚨",
+    "color": "#c1272d"
+  },
+  {
+    "id": "cr007",
+    "title": "सांसदों पर आपराधिक मामले",
+    "title_en": "MPs with Criminal Cases",
+    "category": "Crime",
+    "value": "251",
+    "unit": "सांसद",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 5,
+    "prevValue": "233",
+    "description": "2024 लोकसभा में आपराधिक मामलों वाले सांसद।",
+    "description_en": "MPs in 2024 Lok Sabha with pending criminal cases.",
+    "source": "ADR",
+    "last_updated": "2024-06",
+    "related_story": "st006",
+    "related_survey": "s031",
+    "history": [
+      {
+        "year": 2014,
+        "value": 185
+      },
+      {
+        "year": 2019,
+        "value": 233
+      },
+      {
+        "year": 2024,
+        "value": 251
+      }
+    ],
+    "icon": "⚠️",
+    "color": "#c1272d"
+  },
+  {
+    "id": "jd001",
+    "title": "लंबित न्यायिक मामले",
+    "title_en": "Pending Court Cases",
+    "category": "Judiciary",
+    "value": "5.06 करोड़",
+    "unit": "मामले",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 3.2,
+    "prevValue": "4.9 करोड़",
+    "description": "सभी न्यायालयों में लंबित मामले।",
+    "description_en": "Pending cases across all courts.",
+    "source": "NJDG",
+    "last_updated": "2024-06",
+    "related_story": "st006",
+    "related_survey": "s009",
+    "history": [
+      {
+        "year": 2019,
+        "value": 3.3
+      },
+      {
+        "year": 2020,
+        "value": 3.7
+      },
+      {
+        "year": 2021,
+        "value": 4.2
+      },
+      {
+        "year": 2022,
+        "value": 4.6
+      },
+      {
+        "year": 2023,
+        "value": 4.9
+      },
+      {
+        "year": 2024,
+        "value": 5.06
+      }
+    ],
+    "icon": "⚖️",
+    "color": "#c1272d"
+  },
+  {
+    "id": "jd002",
+    "title": "न्यायाधीशों की संख्या",
+    "title_en": "Number of Judges",
+    "category": "Judiciary",
+    "value": "20,558",
+    "unit": "न्यायाधीश",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 1.9,
+    "prevValue": "20,182",
+    "description": "उच्च और जिला न्यायालयों में कार्यरत।",
+    "description_en": "Working in High and District Courts.",
+    "source": "Supreme Court of India / DOJ",
+    "last_updated": "2024-03",
+    "related_story": "st002",
+    "related_survey": "s039",
+    "history": [
+      {
+        "year": 2020,
+        "value": 18000
+      },
+      {
+        "year": 2021,
+        "value": 19200
+      },
+      {
+        "year": 2022,
+        "value": 19800
+      },
+      {
+        "year": 2023,
+        "value": 20182
+      },
+      {
+        "year": 2024,
+        "value": 20558
+      }
+    ],
+    "icon": "👨‍⚖️",
+    "color": "#2255a4"
+  },
+  {
+    "id": "jd003",
+    "title": "20+ वर्ष पुराने लंबित मामले",
+    "title_en": "Cases Pending Over 20 Years",
+    "category": "Judiciary",
+    "value": "2.25 लाख",
+    "unit": "मामले",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 5.1,
+    "prevValue": "2.14 लाख",
+    "description": "20 वर्ष से अधिक समय से न्यायालयों में लंबित।",
+    "description_en": "Cases pending for more than 20 years in courts.",
+    "source": "NJDG",
+    "last_updated": "2024-06",
+    "related_story": "st002",
+    "related_survey": "s039",
+    "history": [
+      {
+        "year": 2021,
+        "value": 171000
+      },
+      {
+        "year": 2022,
+        "value": 194000
+      },
+      {
+        "year": 2023,
+        "value": 214000
+      },
+      {
+        "year": 2024,
+        "value": 225000
+      }
+    ],
+    "icon": "🗓️",
+    "color": "#c1272d"
+  },
+  {
+    "id": "jd004",
+    "title": "RERA शिकायतें",
+    "title_en": "RERA Complaints",
+    "category": "Judiciary",
+    "value": "1.35 लाख",
+    "unit": "शिकायतें",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 12,
+    "prevValue": "1.21 लाख",
+    "description": "रियल एस्टेट नियामक के पास शिकायतें।",
+    "description_en": "Complaints registered with RERA.",
+    "source": "Ministry of Housing",
+    "last_updated": "2024-03",
+    "related_story": "st002",
+    "related_survey": "s039",
+    "history": [
+      {
+        "year": 2020,
+        "value": 80000
+      },
+      {
+        "year": 2021,
+        "value": 95000
+      },
+      {
+        "year": 2022,
+        "value": 110000
+      },
+      {
+        "year": 2023,
+        "value": 121000
+      },
+      {
+        "year": 2024,
+        "value": 135000
+      }
+    ],
+    "icon": "🏗️",
+    "color": "#f59e0b"
+  },
+  {
+    "id": "tx001",
+    "title": "प्रत्यक्ष कर संग्रह",
+    "title_en": "Direct Tax Collection",
+    "category": "Tax",
+    "value": "₹19.58 लाख करोड़",
+    "unit": "₹ लाख करोड़",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 17.7,
+    "prevValue": "₹16.63 लाख करोड़",
+    "description": "FY2024 में आयकर एवं कॉर्पोरेट टैक्स।",
+    "description_en": "Income tax and corporate tax in FY2024.",
+    "source": "CBDT / Ministry of Finance",
+    "last_updated": "2024-04",
+    "related_story": "st002",
+    "related_survey": "s008",
+    "history": [
+      {
+        "year": 2019,
+        "value": 11.17
+      },
+      {
+        "year": 2020,
+        "value": 9.45
+      },
+      {
+        "year": 2021,
+        "value": 9.45
+      },
+      {
+        "year": 2022,
+        "value": 14.1
+      },
+      {
+        "year": 2023,
+        "value": 16.63
+      },
+      {
+        "year": 2024,
+        "value": 19.58
+      }
+    ],
+    "icon": "📋",
+    "color": "#2255a4"
+  },
+  {
+    "id": "tx002",
+    "title": "GST संग्रह (मासिक)",
+    "title_en": "GST Collection (Monthly)",
+    "category": "Tax",
+    "value": "₹2.10 लाख करोड़",
+    "unit": "₹",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 12.4,
+    "prevValue": "₹1.87 लाख करोड़",
+    "description": "अप्रैल 2024 में GST संग्रह रिकॉर्ड।",
+    "description_en": "GST collection in April 2024 at record high.",
+    "source": "Ministry of Finance",
+    "last_updated": "2024-05",
+    "related_story": "st002",
+    "related_survey": "s002",
+    "history": [
+      {
+        "year": 2019,
+        "value": 1.02
+      },
+      {
+        "year": 2020,
+        "value": 0.94
+      },
+      {
+        "year": 2021,
+        "value": 1.03
+      },
+      {
+        "year": 2022,
+        "value": 1.5
+      },
+      {
+        "year": 2023,
+        "value": 1.87
+      },
+      {
+        "year": 2024,
+        "value": 2.1
+      }
+    ],
+    "icon": "💼",
+    "color": "#ff9933"
+  },
+  {
+    "id": "tx003",
+    "title": "ITR फाइल करने वाले",
+    "title_en": "Income Tax Return Filers",
+    "category": "Tax",
+    "value": "8.18 करोड़",
+    "unit": "फाइलर",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 7.5,
+    "prevValue": "7.51 करोड़",
+    "description": "FY2024 में आयकर रिटर्न दाखिल।",
+    "description_en": "ITR filers in FY2024.",
+    "source": "CBDT",
+    "last_updated": "2024-07",
+    "related_story": "st002",
+    "related_survey": "s008",
+    "history": [
+      {
+        "year": 2019,
+        "value": 5.78
+      },
+      {
+        "year": 2020,
+        "value": 5.95
+      },
+      {
+        "year": 2021,
+        "value": 6.17
+      },
+      {
+        "year": 2022,
+        "value": 6.72
+      },
+      {
+        "year": 2023,
+        "value": 7.51
+      },
+      {
+        "year": 2024,
+        "value": 8.18
+      }
+    ],
+    "icon": "📑",
+    "color": "#128807"
+  },
+  {
+    "id": "tx004",
+    "title": "TDS/TCS संग्रह",
+    "title_en": "TDS/TCS Collection",
+    "category": "Tax",
+    "value": "₹12.3 लाख करोड़",
+    "unit": "₹ लाख करोड़",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 18,
+    "prevValue": "₹10.4 लाख करोड़",
+    "description": "FY2024 में TDS/TCS कर संग्रह।",
+    "description_en": "Tax collection via TDS/TCS in FY2024.",
+    "source": "CBDT",
+    "last_updated": "2024-07",
+    "related_story": "st002",
+    "related_survey": "s008",
+    "history": [
+      {
+        "year": 2020,
+        "value": 6.2
+      },
+      {
+        "year": 2021,
+        "value": 7.0
+      },
+      {
+        "year": 2022,
+        "value": 9.1
+      },
+      {
+        "year": 2023,
+        "value": 10.4
+      },
+      {
+        "year": 2024,
+        "value": 12.3
+      }
+    ],
+    "icon": "📋",
+    "color": "#2255a4"
+  },
+  {
+    "id": "fu001",
+    "title": "पेट्रोल मूल्य (दिल्ली)",
+    "title_en": "Petrol Price (Delhi)",
+    "category": "Fuel",
+    "value": "₹94.72/लीटर",
+    "unit": "₹/लीटर",
+    "year": 2024,
+    "trend": "stable",
+    "trendPct": 0,
+    "prevValue": "₹96.72/लीटर",
+    "description": "दिल्ली में प्रति लीटर पेट्रोल का खुदरा मूल्य।",
+    "description_en": "Retail petrol price per litre in Delhi.",
+    "source": "PPAC",
+    "last_updated": "2024-06",
+    "related_story": "st002",
+    "related_survey": "s001",
+    "history": [
+      {
+        "year": 2019,
+        "value": 74.33
+      },
+      {
+        "year": 2020,
+        "value": 69.59
+      },
+      {
+        "year": 2021,
+        "value": 101.84
+      },
+      {
+        "year": 2022,
+        "value": 96.72
+      },
+      {
+        "year": 2023,
+        "value": 94.72
+      },
+      {
+        "year": 2024,
+        "value": 94.72
+      }
+    ],
+    "icon": "⛽",
+    "color": "#f59e0b"
+  },
+  {
+    "id": "fu002",
+    "title": "डीज़ल मूल्य (दिल्ली)",
+    "title_en": "Diesel Price (Delhi)",
+    "category": "Fuel",
+    "value": "₹87.62/लीटर",
+    "unit": "₹/लीटर",
+    "year": 2024,
+    "trend": "stable",
+    "trendPct": 0,
+    "prevValue": "₹89.62/लीटर",
+    "description": "दिल्ली में प्रति लीटर डीज़ल का खुदरा मूल्य।",
+    "description_en": "Retail diesel price per litre in Delhi.",
+    "source": "PPAC",
+    "last_updated": "2024-06",
+    "related_story": "st002",
+    "related_survey": "s001",
+    "history": [
+      {
+        "year": 2019,
+        "value": 65.74
+      },
+      {
+        "year": 2020,
+        "value": 62.29
+      },
+      {
+        "year": 2021,
+        "value": 89.87
+      },
+      {
+        "year": 2022,
+        "value": 89.62
+      },
+      {
+        "year": 2023,
+        "value": 87.62
+      },
+      {
+        "year": 2024,
+        "value": 87.62
+      }
+    ],
+    "icon": "🛢️",
+    "color": "#c1272d"
+  },
+  {
+    "id": "fu003",
+    "title": "LPG सिलेंडर मूल्य (14.2 kg)",
+    "title_en": "LPG Cylinder Price (14.2 kg)",
+    "category": "Fuel",
+    "value": "₹803",
+    "unit": "₹/सिलेंडर",
+    "year": 2024,
+    "trend": "down",
+    "trendPct": -10.6,
+    "prevValue": "₹898",
+    "description": "14.2 किलो घरेलू LPG सिलेंडर का मूल्य।",
+    "description_en": "Price of 14.2 kg domestic LPG cylinder.",
+    "source": "Indian Oil Corporation",
+    "last_updated": "2024-06",
+    "related_story": "st003",
+    "related_survey": "s003",
+    "history": [
+      {
+        "year": 2019,
+        "value": 714
+      },
+      {
+        "year": 2020,
+        "value": 694
+      },
+      {
+        "year": 2021,
+        "value": 834
+      },
+      {
+        "year": 2022,
+        "value": 1003
+      },
+      {
+        "year": 2023,
+        "value": 898
+      },
+      {
+        "year": 2024,
+        "value": 803
+      }
+    ],
+    "icon": "🔥",
+    "color": "#ff9933"
+  },
+  {
+    "id": "if001",
+    "title": "राष्ट्रीय राजमार्ग",
+    "title_en": "National Highway Length",
+    "category": "Infrastructure",
+    "value": "1,46,195 किमी",
+    "unit": "किलोमीटर",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 5.2,
+    "prevValue": "1,38,991 किमी",
+    "description": "भारत का NH नेटवर्क विश्व में दूसरा सबसे बड़ा।",
+    "description_en": "India's NH network is 2nd largest in the world.",
+    "source": "NHAI / MoRTH",
+    "last_updated": "2024-03",
+    "related_story": "st001",
+    "related_survey": "s010",
+    "history": [
+      {
+        "year": 2019,
+        "value": 132500
+      },
+      {
+        "year": 2020,
+        "value": 134000
+      },
+      {
+        "year": 2021,
+        "value": 141000
+      },
+      {
+        "year": 2022,
+        "value": 145155
+      },
+      {
+        "year": 2023,
+        "value": 138991
+      },
+      {
+        "year": 2024,
+        "value": 146195
+      }
+    ],
+    "icon": "🛣️",
+    "color": "#2255a4"
+  },
+  {
+    "id": "if002",
+    "title": "रेलवे नेटवर्क",
+    "title_en": "Railway Network Length",
+    "category": "Infrastructure",
+    "value": "68,584 किमी",
+    "unit": "किलोमीटर",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 0.8,
+    "prevValue": "68,043 किमी",
+    "description": "विश्व का चौथा सबसे बड़ा रेलवे नेटवर्क।",
+    "description_en": "4th largest railway network in the world.",
+    "source": "Ministry of Railways",
+    "last_updated": "2024-03",
+    "related_story": "st001",
+    "related_survey": "s025",
+    "history": [
+      {
+        "year": 2019,
+        "value": 67312
+      },
+      {
+        "year": 2020,
+        "value": 67415
+      },
+      {
+        "year": 2021,
+        "value": 67786
+      },
+      {
+        "year": 2022,
+        "value": 67956
+      },
+      {
+        "year": 2023,
+        "value": 68043
+      },
+      {
+        "year": 2024,
+        "value": 68584
+      }
+    ],
+    "icon": "🚂",
+    "color": "#c1272d"
+  },
+  {
+    "id": "if003",
+    "title": "रेल दुर्घटनाएँ",
+    "title_en": "Railway Accidents",
+    "category": "Infrastructure",
+    "value": "30",
+    "unit": "मामले",
+    "year": 2023,
+    "trend": "down",
+    "trendPct": -14.3,
+    "prevValue": "35",
+    "description": "रेलवे दुर्घटनाओं की कुल संख्या।",
+    "description_en": "Total number of railway accidents.",
+    "source": "Ministry of Railways",
+    "last_updated": "2024-03",
+    "related_story": "st001",
+    "related_survey": "s025",
+    "history": [
+      {
+        "year": 2019,
+        "value": 59
+      },
+      {
+        "year": 2020,
+        "value": 22
+      },
+      {
+        "year": 2021,
+        "value": 18
+      },
+      {
+        "year": 2022,
+        "value": 35
+      },
+      {
+        "year": 2023,
+        "value": 30
+      }
+    ],
+    "icon": "🚨",
+    "color": "#f59e0b"
+  },
+  {
+    "id": "if004",
+    "title": "ग्रामीण सड़क कवरेज (PMGSY)",
+    "title_en": "Rural Road Coverage (PMGSY)",
+    "category": "Infrastructure",
+    "value": "99.2%",
+    "unit": "% गाँव कवर्ड",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 0.2,
+    "prevValue": "99.0%",
+    "description": "PMGSY के तहत जुड़े पात्र गाँव।",
+    "description_en": "Eligible villages connected under PMGSY.",
+    "source": "Ministry of Rural Development",
+    "last_updated": "2024-03",
+    "related_story": "st005",
+    "related_survey": "s010",
+    "history": [
+      {
+        "year": 2019,
+        "value": 95.0
+      },
+      {
+        "year": 2020,
+        "value": 96.5
+      },
+      {
+        "year": 2021,
+        "value": 97.8
+      },
+      {
+        "year": 2022,
+        "value": 98.7
+      },
+      {
+        "year": 2023,
+        "value": 99.0
+      },
+      {
+        "year": 2024,
+        "value": 99.2
+      }
+    ],
+    "icon": "🏘️",
+    "color": "#128807"
+  },
+  {
+    "id": "if005",
+    "title": "हवाई अड्डे",
+    "title_en": "Operational Airports",
+    "category": "Infrastructure",
+    "value": "148",
+    "unit": "हवाई अड्डे",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 9.6,
+    "prevValue": "135",
+    "description": "AAI और private airports का कुल नेटवर्क।",
+    "description_en": "Total network of AAI and private airports.",
+    "source": "Airports Authority of India",
+    "last_updated": "2024-03",
+    "related_story": "st001",
+    "related_survey": "s025",
+    "history": [
+      {
+        "year": 2019,
+        "value": 100
+      },
+      {
+        "year": 2020,
+        "value": 109
+      },
+      {
+        "year": 2021,
+        "value": 125
+      },
+      {
+        "year": 2022,
+        "value": 135
+      },
+      {
+        "year": 2024,
+        "value": 148
+      }
+    ],
+    "icon": "✈️",
+    "color": "#2255a4"
+  },
+  {
+    "id": "tc001",
+    "title": "इंटरनेट उपयोगकर्ता",
+    "title_en": "Internet Users",
+    "category": "Technology",
+    "value": "82 करोड़+",
+    "unit": "उपयोगकर्ता",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 7.9,
+    "prevValue": "75.9 करोड़",
+    "description": "भारत में सक्रिय इंटरनेट उपयोगकर्ता।",
+    "description_en": "Active internet users in India.",
+    "source": "IAMAI / TRAI",
+    "last_updated": "2024-03",
+    "related_story": "st009",
+    "related_survey": "s022",
+    "history": [
+      {
+        "year": 2019,
+        "value": 560
+      },
+      {
+        "year": 2020,
+        "value": 622
+      },
+      {
+        "year": 2021,
+        "value": 680
+      },
+      {
+        "year": 2022,
+        "value": 759
+      },
+      {
+        "year": 2023,
+        "value": 759
+      },
+      {
+        "year": 2024,
+        "value": 820
+      }
+    ],
+    "icon": "🌐",
+    "color": "#2255a4"
+  },
+  {
+    "id": "tc002",
+    "title": "UPI लेनदेन (मासिक)",
+    "title_en": "UPI Transactions (Monthly)",
+    "category": "Technology",
+    "value": "14.04 अरब",
+    "unit": "लेनदेन",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 49,
+    "prevValue": "9.4 अरब",
+    "description": "अप्रैल 2024 में UPI लेनदेन।",
+    "description_en": "UPI transactions in April 2024.",
+    "source": "NPCI",
+    "last_updated": "2024-05",
+    "related_story": "st002",
+    "related_survey": "s022",
+    "history": [
+      {
+        "year": 2020,
+        "value": 2.23
+      },
+      {
+        "year": 2021,
+        "value": 3.9
+      },
+      {
+        "year": 2022,
+        "value": 7.4
+      },
+      {
+        "year": 2023,
+        "value": 9.4
+      },
+      {
+        "year": 2024,
+        "value": 14.04
+      }
+    ],
+    "icon": "📱",
+    "color": "#0d9488"
+  },
+  {
+    "id": "tc003",
+    "title": "स्मार्टफोन उपयोगकर्ता",
+    "title_en": "Smartphone Users",
+    "category": "Technology",
+    "value": "70 करोड़+",
+    "unit": "उपयोगकर्ता",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 8.5,
+    "prevValue": "64.5 करोड़",
+    "description": "भारत में स्मार्टफोन उपयोगकर्ता।",
+    "description_en": "Estimated smartphone users in India.",
+    "source": "Statista / IAMAI",
+    "last_updated": "2024-01",
+    "related_story": "st009",
+    "related_survey": "s047",
+    "history": [
+      {
+        "year": 2019,
+        "value": 396
+      },
+      {
+        "year": 2020,
+        "value": 468
+      },
+      {
+        "year": 2021,
+        "value": 529
+      },
+      {
+        "year": 2022,
+        "value": 600
+      },
+      {
+        "year": 2023,
+        "value": 645
+      },
+      {
+        "year": 2024,
+        "value": 700
+      }
+    ],
+    "icon": "📲",
+    "color": "#a78bfa"
+  },
+  {
+    "id": "tc004",
+    "title": "DigiLocker उपयोगकर्ता",
+    "title_en": "DigiLocker Users",
+    "category": "Technology",
+    "value": "28 करोड़",
+    "unit": "उपयोगकर्ता",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 27.3,
+    "prevValue": "22 करोड़",
+    "description": "DigiLocker पर पंजीकृत उपयोगकर्ता।",
+    "description_en": "Users registered on DigiLocker.",
+    "source": "Ministry of Electronics & IT",
+    "last_updated": "2024-03",
+    "related_story": "st009",
+    "related_survey": "s022",
+    "history": [
+      {
+        "year": 2020,
+        "value": 6.5
+      },
+      {
+        "year": 2021,
+        "value": 10.5
+      },
+      {
+        "year": 2022,
+        "value": 15.0
+      },
+      {
+        "year": 2023,
+        "value": 22.0
+      },
+      {
+        "year": 2024,
+        "value": 28.0
+      }
+    ],
+    "icon": "📲",
+    "color": "#0d9488"
+  },
+  {
+    "id": "en001",
+    "title": "वायु प्रदूषण PM2.5 (दिल्ली)",
+    "title_en": "Air Pollution PM2.5 (Delhi)",
+    "category": "Environment",
+    "value": "96.4 µg/m³",
+    "unit": "µg/m³",
+    "year": 2023,
+    "trend": "up",
+    "trendPct": 6.4,
+    "prevValue": "90.6 µg/m³",
+    "description": "WHO मानक 5 µg/m³ — दिल्ली 19 गुना अधिक।",
+    "description_en": "WHO standard is 5 µg/m³. Delhi is 19× higher.",
+    "source": "CPCB / IQAir",
+    "last_updated": "2024-03",
+    "related_story": "st009",
+    "related_survey": "s023",
+    "history": [
+      {
+        "year": 2019,
+        "value": 98.6
+      },
+      {
+        "year": 2020,
+        "value": 84.1
+      },
+      {
+        "year": 2021,
+        "value": 85.1
+      },
+      {
+        "year": 2022,
+        "value": 90.6
+      },
+      {
+        "year": 2023,
+        "value": 96.4
+      }
+    ],
+    "icon": "🌫️",
+    "color": "#c1272d"
+  },
+  {
+    "id": "en002",
+    "title": "वन आवरण",
+    "title_en": "Forest Cover",
+    "category": "Environment",
+    "value": "21.76%",
+    "unit": "% भूमि क्षेत्र",
+    "year": 2023,
+    "trend": "up",
+    "trendPct": 0.2,
+    "prevValue": "21.67%",
+    "description": "भारत के कुल भूमि क्षेत्र का वन आवरण।",
+    "description_en": "Forest cover as % of India's total land area.",
+    "source": "FSI",
+    "last_updated": "2023-12",
+    "related_story": "st003",
+    "related_survey": "s023",
+    "history": [
+      {
+        "year": 2015,
+        "value": 21.34
+      },
+      {
+        "year": 2017,
+        "value": 21.54
+      },
+      {
+        "year": 2019,
+        "value": 21.67
+      },
+      {
+        "year": 2021,
+        "value": 21.71
+      },
+      {
+        "year": 2023,
+        "value": 21.76
+      }
+    ],
+    "icon": "🌳",
+    "color": "#128807"
+  },
+  {
+    "id": "en003",
+    "title": "नवीकरणीय ऊर्जा क्षमता",
+    "title_en": "Renewable Energy Capacity",
+    "category": "Environment",
+    "value": "194 GW",
+    "unit": "Gigawatt",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 14.8,
+    "prevValue": "168.96 GW",
+    "description": "सौर, पवन और जल विद्युत सहित।",
+    "description_en": "Including solar, wind and hydro.",
+    "source": "Ministry of New & Renewable Energy",
+    "last_updated": "2024-06",
+    "related_story": "st009",
+    "related_survey": "s030",
+    "history": [
+      {
+        "year": 2019,
+        "value": 83.0
+      },
+      {
+        "year": 2020,
+        "value": 93.5
+      },
+      {
+        "year": 2021,
+        "value": 152.0
+      },
+      {
+        "year": 2022,
+        "value": 157.3
+      },
+      {
+        "year": 2023,
+        "value": 168.96
+      },
+      {
+        "year": 2024,
+        "value": 194
+      }
+    ],
+    "icon": "☀️",
+    "color": "#ff9933"
+  },
+  {
+    "id": "en004",
+    "title": "CO2 उत्सर्जन",
+    "title_en": "CO2 Emissions",
+    "category": "Environment",
+    "value": "2.88 GT",
+    "unit": "Gigatonnes",
+    "year": 2023,
+    "trend": "up",
+    "trendPct": 4.5,
+    "prevValue": "2.76 GT",
+    "description": "भारत की वार्षिक CO2 उत्सर्जन।",
+    "description_en": "India's annual CO2 emission.",
+    "source": "Global Carbon Atlas / IEA",
+    "last_updated": "2024-03",
+    "related_story": "st003",
+    "related_survey": "s030",
+    "history": [
+      {
+        "year": 2019,
+        "value": 2.57
+      },
+      {
+        "year": 2020,
+        "value": 2.44
+      },
+      {
+        "year": 2021,
+        "value": 2.71
+      },
+      {
+        "year": 2022,
+        "value": 2.76
+      },
+      {
+        "year": 2023,
+        "value": 2.88
+      }
+    ],
+    "icon": "🌡️",
+    "color": "#c1272d"
+  },
+  {
+    "id": "ws001",
+    "title": "महिला अपराध दर",
+    "title_en": "Crime Rate Against Women",
+    "category": "Women Safety",
+    "value": "64.5",
+    "unit": "प्रति लाख",
+    "year": 2022,
+    "trend": "up",
+    "trendPct": 4.1,
+    "prevValue": "61.9",
+    "description": "प्रति लाख महिला जनसंख्या पर अपराध दर।",
+    "description_en": "Crime rate per lakh female population.",
+    "source": "NCRB 2022",
+    "last_updated": "2023-12",
+    "related_story": "st007",
+    "related_survey": "s017",
+    "history": [
+      {
+        "year": 2019,
+        "value": 62.4
+      },
+      {
+        "year": 2020,
+        "value": 56.5
+      },
+      {
+        "year": 2021,
+        "value": 64.5
+      },
+      {
+        "year": 2022,
+        "value": 64.5
+      }
+    ],
+    "icon": "⚠️",
+    "color": "#c1272d"
+  },
+  {
+    "id": "ws002",
+    "title": "घरेलू हिंसा (IPC 498A)",
+    "title_en": "Domestic Violence (IPC 498A)",
+    "category": "Women Safety",
+    "value": "1,35,600",
+    "unit": "मामले",
+    "year": 2022,
+    "trend": "up",
+    "trendPct": 8.2,
+    "prevValue": "1,25,298",
+    "description": "IPC 498A के तहत घरेलू हिंसा मामले।",
+    "description_en": "Domestic violence cases under IPC Sec 498A.",
+    "source": "NCRB",
+    "last_updated": "2023-12",
+    "related_story": "st007",
+    "related_survey": "s033",
+    "history": [
+      {
+        "year": 2019,
+        "value": 129156
+      },
+      {
+        "year": 2020,
+        "value": 111549
+      },
+      {
+        "year": 2021,
+        "value": 125298
+      },
+      {
+        "year": 2022,
+        "value": 135600
+      }
+    ],
+    "icon": "🏠",
+    "color": "#f59e0b"
+  },
+  {
+    "id": "ws003",
+    "title": "POCSO मामले",
+    "title_en": "POCSO Cases (Children)",
+    "category": "Women Safety",
+    "value": "51,863",
+    "unit": "मामले",
+    "year": 2022,
+    "trend": "up",
+    "trendPct": 16.3,
+    "prevValue": "44,596",
+    "description": "यौन अपराधों से बच्चों के संरक्षण अधिनियम।",
+    "description_en": "Cases under POCSO Act.",
+    "source": "NCRB",
+    "last_updated": "2023-12",
+    "related_story": "st007",
+    "related_survey": "s033",
+    "history": [
+      {
+        "year": 2019,
+        "value": 47221
+      },
+      {
+        "year": 2020,
+        "value": 47221
+      },
+      {
+        "year": 2021,
+        "value": 53874
+      },
+      {
+        "year": 2022,
+        "value": 51863
+      }
+    ],
+    "icon": "🚨",
+    "color": "#c1272d"
+  },
+  {
+    "id": "mi001",
+    "title": "आंतरिक प्रवासी",
+    "title_en": "Internal Migrants",
+    "category": "Migration",
+    "value": "45.36 करोड़",
+    "unit": "व्यक्ति",
+    "year": 2023,
+    "trend": "stable",
+    "trendPct": 0,
+    "prevValue": "45.36 करोड़",
+    "description": "NSSO के अनुसार आंतरिक प्रवासी।",
+    "description_en": "Internal migrants per NSSO.",
+    "source": "NSSO / World Bank",
+    "last_updated": "2023-09",
+    "related_story": "st001",
+    "related_survey": "s024",
+    "history": [
+      {
+        "year": 2007,
+        "value": 309
+      },
+      {
+        "year": 2011,
+        "value": 453.6
+      },
+      {
+        "year": 2023,
+        "value": 453.6
+      }
+    ],
+    "icon": "🚶",
+    "color": "#2255a4"
+  },
+  {
+    "id": "mi002",
+    "title": "अंतर्राष्ट्रीय प्रवासी",
+    "title_en": "International Migrants",
+    "category": "Migration",
+    "value": "1.77 करोड़",
+    "unit": "व्यक्ति",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 4.7,
+    "prevValue": "1.69 करोड़",
+    "description": "विदेशों में कार्यरत भारतीय प्रवासी।",
+    "description_en": "Indian migrants working abroad.",
+    "source": "MEA / UN Migration",
+    "last_updated": "2024-03",
+    "related_story": "st001",
+    "related_survey": "s044",
+    "history": [
+      {
+        "year": 2019,
+        "value": 1.38
+      },
+      {
+        "year": 2021,
+        "value": 1.57
+      },
+      {
+        "year": 2022,
+        "value": 1.69
+      },
+      {
+        "year": 2024,
+        "value": 1.77
+      }
+    ],
+    "icon": "✈️",
+    "color": "#0d9488"
+  },
+  {
+    "id": "mi003",
+    "title": "विदेशी प्रेषण",
+    "title_en": "Remittances from Abroad",
+    "category": "Migration",
+    "value": "$120 अरब",
+    "unit": "USD",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 7.5,
+    "prevValue": "$111.22 अरब",
+    "description": "भारत विश्व में सर्वाधिक रेमिटेंस प्राप्त करने वाला।",
+    "description_en": "India is world's largest recipient of remittances.",
+    "source": "World Bank / RBI",
+    "last_updated": "2024-06",
+    "related_story": "st001",
+    "related_survey": "s044",
+    "history": [
+      {
+        "year": 2019,
+        "value": 82.2
+      },
+      {
+        "year": 2020,
+        "value": 83.1
+      },
+      {
+        "year": 2021,
+        "value": 89.4
+      },
+      {
+        "year": 2022,
+        "value": 111.22
+      },
+      {
+        "year": 2024,
+        "value": 120
+      }
+    ],
+    "icon": "💸",
+    "color": "#ff9933"
+  },
+  {
+    "id": "po001",
+    "title": "पंजीकृत मतदाता",
+    "title_en": "Registered Voters",
+    "category": "Politics",
+    "value": "96.8 करोड़",
+    "unit": "मतदाता",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 4.1,
+    "prevValue": "93 करोड़",
+    "description": "लोकसभा चुनाव 2024 में पंजीकृत मतदाता।",
+    "description_en": "Registered voters in Lok Sabha election 2024.",
+    "source": "Election Commission of India",
+    "last_updated": "2024-04",
+    "related_story": "st006",
+    "related_survey": "s013",
+    "history": [
+      {
+        "year": 2014,
+        "value": 814.5
+      },
+      {
+        "year": 2019,
+        "value": 930
+      },
+      {
+        "year": 2024,
+        "value": 968
+      }
+    ],
+    "icon": "🗳️",
+    "color": "#2255a4"
+  },
+  {
+    "id": "po002",
+    "title": "मतदान प्रतिशत 2024",
+    "title_en": "Voter Turnout Lok Sabha 2024",
+    "category": "Politics",
+    "value": "65.79%",
+    "unit": "%",
+    "year": 2024,
+    "trend": "down",
+    "trendPct": -1.0,
+    "prevValue": "67.40%",
+    "description": "2024 लोकसभा चुनाव में कुल मतदान।",
+    "description_en": "Total voter turnout in 2024 General Elections.",
+    "source": "Election Commission of India",
+    "last_updated": "2024-06",
+    "related_story": "st006",
+    "related_survey": "s031",
+    "history": [
+      {
+        "year": 2009,
+        "value": 58.19
+      },
+      {
+        "year": 2014,
+        "value": 66.44
+      },
+      {
+        "year": 2019,
+        "value": 67.4
+      },
+      {
+        "year": 2024,
+        "value": 65.79
+      }
+    ],
+    "icon": "📊",
+    "color": "#c1272d"
+  },
+  {
+    "id": "po003",
+    "title": "महिला सांसद",
+    "title_en": "Women Members of Parliament",
+    "category": "Politics",
+    "value": "74 / 543",
+    "unit": "MP",
+    "year": 2024,
+    "trend": "down",
+    "trendPct": -5.1,
+    "prevValue": "78 / 543",
+    "description": "लोकसभा में महिला सांसद (2024)।",
+    "description_en": "Women MPs in Lok Sabha after 2024 elections.",
+    "source": "Election Commission of India",
+    "last_updated": "2024-06",
+    "related_story": "st007",
+    "related_survey": "s033",
+    "history": [
+      {
+        "year": 2009,
+        "value": 59
+      },
+      {
+        "year": 2014,
+        "value": 62
+      },
+      {
+        "year": 2019,
+        "value": 78
+      },
+      {
+        "year": 2024,
+        "value": 74
+      }
+    ],
+    "icon": "👩",
+    "color": "#a855f7"
+  },
+  {
+    "id": "po004",
+    "title": "भ्रष्टाचार बोध सूचकांक",
+    "title_en": "Corruption Perception Index",
+    "category": "Politics",
+    "value": "39/100",
+    "unit": "स्कोर",
+    "year": 2023,
+    "trend": "down",
+    "trendPct": -1,
+    "prevValue": "40/100",
+    "description": "Transparency International CPI 2023 — 93वाँ स्थान।",
+    "description_en": "Transparency International CPI 2023 — Ranked 93rd.",
+    "source": "Transparency International",
+    "last_updated": "2024-01",
+    "related_story": "st002",
+    "related_survey": "s009",
+    "history": [
+      {
+        "year": 2019,
+        "value": 41
+      },
+      {
+        "year": 2020,
+        "value": 40
+      },
+      {
+        "year": 2021,
+        "value": 40
+      },
+      {
+        "year": 2022,
+        "value": 40
+      },
+      {
+        "year": 2023,
+        "value": 39
+      }
+    ],
+    "icon": "⚖️",
+    "color": "#c1272d"
+  },
+  {
+    "id": "na001",
+    "title": "मानव विकास सूचकांक",
+    "title_en": "Human Development Index",
+    "category": "National",
+    "value": "0.644",
+    "unit": "स्कोर (0–1)",
+    "year": 2023,
+    "trend": "up",
+    "trendPct": 0.8,
+    "prevValue": "0.633",
+    "description": "UNDP HDR 2023 के अनुसार।",
+    "description_en": "India's HDI score per UNDP HDR 2023.",
+    "source": "UNDP Human Development Report",
+    "last_updated": "2023-09",
+    "related_story": "st001",
+    "related_survey": "s050",
+    "history": [
+      {
+        "year": 2019,
+        "value": 0.633
+      },
+      {
+        "year": 2021,
+        "value": 0.633
+      },
+      {
+        "year": 2022,
+        "value": 0.644
+      },
+      {
+        "year": 2023,
+        "value": 0.644
+      }
+    ],
+    "icon": "🌏",
+    "color": "#ff9933"
+  },
+  {
+    "id": "na002",
+    "title": "पुलिसकर्मी",
+    "title_en": "Police Personnel",
+    "category": "National",
+    "value": "22.26 लाख",
+    "unit": "कर्मचारी",
+    "year": 2022,
+    "trend": "up",
+    "trendPct": 2.1,
+    "prevValue": "21.8 लाख",
+    "description": "देश में कुल पुलिसकर्मी।",
+    "description_en": "Total police personnel in the country.",
+    "source": "BPR&D",
+    "last_updated": "2023-06",
+    "related_story": "st006",
+    "related_survey": "s048",
+    "history": [
+      {
+        "year": 2019,
+        "value": 1926
+      },
+      {
+        "year": 2020,
+        "value": 1963
+      },
+      {
+        "year": 2021,
+        "value": 2180
+      },
+      {
+        "year": 2022,
+        "value": 2226
+      }
+    ],
+    "icon": "👮",
+    "color": "#2255a4"
+  },
+  {
+    "id": "na003",
+    "title": "वैश्विक नवाचार रैंकिंग",
+    "title_en": "Global Innovation Index Rank",
+    "category": "National",
+    "value": "40 / 132",
+    "unit": "रैंक",
+    "year": 2023,
+    "trend": "up",
+    "trendPct": null,
+    "prevValue": "46 / 132",
+    "description": "WIPO GII 2023 में भारत।",
+    "description_en": "India in WIPO GII 2023.",
+    "source": "WIPO",
+    "last_updated": "2023-09",
+    "related_story": "st009",
+    "related_survey": "s022",
+    "history": [
+      {
+        "year": 2019,
+        "value": 52
+      },
+      {
+        "year": 2020,
+        "value": 48
+      },
+      {
+        "year": 2021,
+        "value": 46
+      },
+      {
+        "year": 2022,
+        "value": 40
+      },
+      {
+        "year": 2023,
+        "value": 40
+      }
+    ],
+    "icon": "💡",
+    "color": "#ff9933"
+  },
+  {
+    "id": "na004",
+    "title": "Press Freedom Index",
+    "title_en": "Press Freedom Index Rank",
+    "category": "National",
+    "value": "159 / 180",
+    "unit": "रैंक",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": null,
+    "prevValue": "161 / 180",
+    "description": "RSF World Press Freedom Index 2024।",
+    "description_en": "RSF World Press Freedom Index 2024.",
+    "source": "Reporters Without Borders",
+    "last_updated": "2024-05",
+    "related_story": "st006",
+    "related_survey": "s031",
+    "history": [
+      {
+        "year": 2019,
+        "value": 140
+      },
+      {
+        "year": 2021,
+        "value": 142
+      },
+      {
+        "year": 2022,
+        "value": 150
+      },
+      {
+        "year": 2023,
+        "value": 161
+      },
+      {
+        "year": 2024,
+        "value": 159
+      }
+    ],
+    "icon": "📰",
+    "color": "#c1272d"
+  },
+  {
+    "id": "na005",
+    "title": "Ease of Doing Business",
+    "title_en": "Ease of Doing Business Rank",
+    "category": "National",
+    "value": "63 / 190",
+    "unit": "रैंक",
+    "year": 2023,
+    "trend": "up",
+    "trendPct": null,
+    "prevValue": "77 / 190",
+    "description": "World Bank 2020 रैंकिंग।",
+    "description_en": "World Bank Ease of Doing Business 2020.",
+    "source": "World Bank",
+    "last_updated": "2023-01",
+    "related_story": "st002",
+    "related_survey": "s050",
+    "history": [
+      {
+        "year": 2017,
+        "value": 130
+      },
+      {
+        "year": 2018,
+        "value": 100
+      },
+      {
+        "year": 2019,
+        "value": 77
+      },
+      {
+        "year": 2020,
+        "value": 63
+      }
+    ],
+    "icon": "📊",
+    "color": "#2255a4"
+  },
+  {
+    "id": "ch001",
+    "title": "बाल श्रमिक (5–14 वर्ष)",
+    "title_en": "Child Labour (5–14 years)",
+    "category": "Children",
+    "value": "~33.8 लाख",
+    "unit": "बच्चे",
+    "year": 2023,
+    "trend": "down",
+    "trendPct": -12,
+    "prevValue": "1.01 करोड़",
+    "description": "जनगणना और NSSO के अनुसार।",
+    "description_en": "Per Census and NSSO.",
+    "source": "Census of India / ILO",
+    "last_updated": "2023-09",
+    "related_story": "st005",
+    "related_survey": "s006",
+    "history": [
+      {
+        "year": 2011,
+        "value": 10130
+      },
+      {
+        "year": 2019,
+        "value": 4500
+      },
+      {
+        "year": 2023,
+        "value": 3380
+      }
+    ],
+    "icon": "⚠️",
+    "color": "#c1272d"
+  },
+  {
+    "id": "ch002",
+    "title": "शिशु टीकाकरण दर",
+    "title_en": "Child Immunization Rate",
+    "category": "Children",
+    "value": "93.3%",
+    "unit": "% पूर्ण",
+    "year": 2023,
+    "trend": "up",
+    "trendPct": 2.3,
+    "prevValue": "91.0%",
+    "description": "12–23 माह आयु वर्ग में पूर्ण टीकाकरण।",
+    "description_en": "Complete immunization in 12–23 month age group.",
+    "source": "NFHS-5",
+    "last_updated": "2023-12",
+    "related_story": "st010",
+    "related_survey": "s007",
+    "history": [
+      {
+        "year": 2016,
+        "value": 62
+      },
+      {
+        "year": 2019,
+        "value": 76.4
+      },
+      {
+        "year": 2021,
+        "value": 91.0
+      },
+      {
+        "year": 2023,
+        "value": 93.3
+      }
+    ],
+    "icon": "💉",
+    "color": "#128807"
+  },
+  {
+    "id": "ch003",
+    "title": "5 वर्ष से कम में कुपोषण",
+    "title_en": "Child Malnutrition Under-5",
+    "category": "Children",
+    "value": "35.5%",
+    "unit": "% stunted",
+    "year": 2023,
+    "trend": "down",
+    "trendPct": -4.0,
+    "prevValue": "35.5%",
+    "description": "5 वर्ष से कम में ठिगनापन दर।",
+    "description_en": "Stunting rate in children under 5 years.",
+    "source": "NFHS-5",
+    "last_updated": "2023-09",
+    "related_story": "st010",
+    "related_survey": "s007",
+    "history": [
+      {
+        "year": 2015,
+        "value": 38.4
+      },
+      {
+        "year": 2019,
+        "value": 35.5
+      },
+      {
+        "year": 2021,
+        "value": 35.5
+      },
+      {
+        "year": 2023,
+        "value": 35.5
+      }
+    ],
+    "icon": "🍼",
+    "color": "#f59e0b"
+  },
+  {
+    "id": "ag006",
+    "title": "किसान क्रेडिट कार्ड",
+    "title_en": "Kisan Credit Cards",
+    "category": "Agriculture",
+    "value": "7.56 करोड़",
+    "unit": "KCC",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 4.1,
+    "prevValue": "7.26 करोड़",
+    "description": "KCC के माध्यम से किसानों को ऋण सुविधा।",
+    "description_en": "Credit facility to farmers through KCC.",
+    "source": "Ministry of Agriculture",
+    "last_updated": "2024-06",
+    "related_story": "st003",
+    "related_survey": "s032",
+    "history": [
+      {
+        "year": 2020,
+        "value": 6.88
+      },
+      {
+        "year": 2021,
+        "value": 7.12
+      },
+      {
+        "year": 2022,
+        "value": 7.26
+      },
+      {
+        "year": 2024,
+        "value": 7.56
+      }
+    ],
+    "icon": "💳",
+    "color": "#128807"
+  },
+  {
+    "id": "ec009",
+    "title": "निर्यात",
+    "title_en": "India's Exports",
+    "category": "Economy",
+    "value": "$776.68 अरब",
+    "unit": "USD",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 6.2,
+    "prevValue": "$776.68 अरब",
+    "description": "FY2024 में माल और सेवाओं का कुल निर्यात।",
+    "description_en": "Total merchandise and services exports FY2024.",
+    "source": "Ministry of Commerce",
+    "last_updated": "2024-05",
+    "related_story": "st002",
+    "related_survey": "s050",
+    "history": [
+      {
+        "year": 2020,
+        "value": 391.8
+      },
+      {
+        "year": 2021,
+        "value": 419.6
+      },
+      {
+        "year": 2022,
+        "value": 676.2
+      },
+      {
+        "year": 2023,
+        "value": 776.68
+      },
+      {
+        "year": 2024,
+        "value": 776.68
+      }
+    ],
+    "icon": "🚢",
+    "color": "#0d9488"
+  },
+  {
+    "id": "hc008",
+    "title": "TB मामले",
+    "title_en": "Tuberculosis Cases",
+    "category": "Healthcare",
+    "value": "28.2 लाख",
+    "unit": "मामले",
+    "year": 2023,
+    "trend": "down",
+    "trendPct": -3.4,
+    "prevValue": "29.2 लाख",
+    "description": "WHO के अनुसार भारत में TB मामले।",
+    "description_en": "TB cases in India per WHO.",
+    "source": "WHO Global TB Report",
+    "last_updated": "2023-10",
+    "related_story": "st010",
+    "related_survey": "s007",
+    "history": [
+      {
+        "year": 2019,
+        "value": 26.4
+      },
+      {
+        "year": 2020,
+        "value": 18.0
+      },
+      {
+        "year": 2021,
+        "value": 21.4
+      },
+      {
+        "year": 2022,
+        "value": 29.2
+      },
+      {
+        "year": 2023,
+        "value": 28.2
+      }
+    ],
+    "icon": "🫁",
+    "color": "#f59e0b"
+  },
+  {
+    "id": "ed007",
+    "title": "केंद्रीय विश्वविद्यालय",
+    "title_en": "Central Universities",
+    "category": "Education",
+    "value": "54",
+    "unit": "विश्वविद्यालय",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 1.9,
+    "prevValue": "53",
+    "description": "भारत में केंद्रीय विश्वविद्यालयों की संख्या।",
+    "description_en": "Number of central universities in India.",
+    "source": "UGC / Ministry of Education",
+    "last_updated": "2024-03",
+    "related_story": "st004",
+    "related_survey": "s019",
+    "history": [
+      {
+        "year": 2019,
+        "value": 47
+      },
+      {
+        "year": 2020,
+        "value": 47
+      },
+      {
+        "year": 2021,
+        "value": 53
+      },
+      {
+        "year": 2022,
+        "value": 53
+      },
+      {
+        "year": 2024,
+        "value": 54
+      }
+    ],
+    "icon": "🎓",
+    "color": "#2255a4"
+  },
+  {
+    "id": "if006",
+    "title": "मेट्रो नेटवर्क",
+    "title_en": "Metro Rail Network",
+    "category": "Infrastructure",
+    "value": "945 किमी",
+    "unit": "किलोमीटर",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 18.8,
+    "prevValue": "795 किमी",
+    "description": "भारत में चालू मेट्रो लाइनें।",
+    "description_en": "Operational metro rail lines in India.",
+    "source": "Metro Rail Corporation / MoHUA",
+    "last_updated": "2024-03",
+    "related_story": "st001",
+    "related_survey": "s025",
+    "history": [
+      {
+        "year": 2019,
+        "value": 657
+      },
+      {
+        "year": 2020,
+        "value": 733
+      },
+      {
+        "year": 2021,
+        "value": 780
+      },
+      {
+        "year": 2022,
+        "value": 795
+      },
+      {
+        "year": 2023,
+        "value": 860
+      },
+      {
+        "year": 2024,
+        "value": 945
+      }
+    ],
+    "icon": "🚇",
+    "color": "#2255a4"
+  },
+  {
+    "id": "cr008",
+    "title": "वित्तीय धोखाधड़ी",
+    "title_en": "Financial Fraud Cases",
+    "category": "Crime",
+    "value": "30,252",
+    "unit": "मामले",
+    "year": 2022,
+    "trend": "up",
+    "trendPct": 15.4,
+    "prevValue": "26,223",
+    "description": "बैंकिंग और वित्तीय क्षेत्र में धोखाधड़ी।",
+    "description_en": "Fraud in banking and financial sector.",
+    "source": "RBI / NCRB",
+    "last_updated": "2023-12",
+    "related_story": "st002",
+    "related_survey": "s009",
+    "history": [
+      {
+        "year": 2019,
+        "value": 18000
+      },
+      {
+        "year": 2020,
+        "value": 21000
+      },
+      {
+        "year": 2021,
+        "value": 26223
+      },
+      {
+        "year": 2022,
+        "value": 30252
+      }
+    ],
+    "icon": "🏦",
+    "color": "#c1272d"
+  },
+  {
+    "id": "po005",
+    "title": "राज्य विधान सभाओं में महिलाएँ",
+    "title_en": "Women in State Assemblies",
+    "category": "Politics",
+    "value": "13.1%",
+    "unit": "%",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 1.2,
+    "prevValue": "12.0%",
+    "description": "राज्य विधान सभाओं में महिलाओं का प्रतिशत।",
+    "description_en": "Percentage of women in state legislatures.",
+    "source": "ADR / ECI",
+    "last_updated": "2024-06",
+    "related_story": "st007",
+    "related_survey": "s033",
+    "history": [
+      {
+        "year": 2017,
+        "value": 9.0
+      },
+      {
+        "year": 2019,
+        "value": 10.5
+      },
+      {
+        "year": 2021,
+        "value": 12.0
+      },
+      {
+        "year": 2024,
+        "value": 13.1
+      }
+    ],
+    "icon": "👩",
+    "color": "#a855f7"
+  },
+  {
+    "id": "na006",
+    "title": "भारत की अंतरिक्ष उपलब्धियाँ",
+    "title_en": "India Space Missions",
+    "category": "National",
+    "value": "9 मिशन",
+    "unit": "2023–24",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": null,
+    "prevValue": "8 मिशन",
+    "description": "चंद्रयान-3, आदित्य L1 सहित ISRO मिशन।",
+    "description_en": "ISRO missions including Chandrayaan-3, Aditya L1.",
+    "source": "ISRO",
+    "last_updated": "2024-03",
+    "related_story": "st009",
+    "related_survey": "s022",
+    "history": [
+      {
+        "year": 2020,
+        "value": 5
+      },
+      {
+        "year": 2021,
+        "value": 6
+      },
+      {
+        "year": 2022,
+        "value": 8
+      },
+      {
+        "year": 2023,
+        "value": 8
+      },
+      {
+        "year": 2024,
+        "value": 9
+      }
+    ],
+    "icon": "🚀",
+    "color": "#ff9933"
+  },
+  {
+    "id": "hc009",
+    "title": "स्वास्थ्य पर सरकारी व्यय",
+    "title_en": "Government Health Expenditure",
+    "category": "Healthcare",
+    "value": "2.1%",
+    "unit": "% of GDP",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 0.2,
+    "prevValue": "1.9%",
+    "description": "GDP के प्रतिशत के रूप में सरकारी स्वास्थ्य व्यय।",
+    "description_en": "Government health expenditure as % of GDP.",
+    "source": "Ministry of Health / NHA",
+    "last_updated": "2024-03",
+    "related_story": "st010",
+    "related_survey": "s007",
+    "history": [
+      {
+        "year": 2019,
+        "value": 1.35
+      },
+      {
+        "year": 2020,
+        "value": 1.6
+      },
+      {
+        "year": 2021,
+        "value": 2.05
+      },
+      {
+        "year": 2022,
+        "value": 1.9
+      },
+      {
+        "year": 2023,
+        "value": 2.0
+      },
+      {
+        "year": 2024,
+        "value": 2.1
+      }
+    ],
+    "icon": "🏥",
+    "color": "#0d9488"
+  },
+  {
+    "id": "en005",
+    "title": "जल संकट (जल तनाव)",
+    "title_en": "Water Stress Indicator",
+    "category": "Environment",
+    "value": "High",
+    "unit": "श्रेणी",
+    "year": 2024,
+    "trend": "stable",
+    "trendPct": null,
+    "prevValue": "High",
+    "description": "विश्व संसाधन संस्थान के अनुसार उच्च जल तनाव।",
+    "description_en": "High water stress per World Resources Institute.",
+    "source": "WRI Aqueduct",
+    "last_updated": "2024-01",
+    "related_story": "st003",
+    "related_survey": "s030",
+    "history": [
+      {
+        "year": 2019,
+        "value": 4.1
+      },
+      {
+        "year": 2020,
+        "value": 4.1
+      },
+      {
+        "year": 2021,
+        "value": 4.2
+      },
+      {
+        "year": 2022,
+        "value": 4.2
+      },
+      {
+        "year": 2023,
+        "value": 4.3
+      }
+    ],
+    "icon": "💧",
+    "color": "#c1272d"
+  },
+  {
+    "id": "ec010",
+    "title": "आय असमानता (Gini)",
+    "title_en": "Income Inequality (Gini)",
+    "category": "Economy",
+    "value": "0.345",
+    "unit": "Gini Coefficient",
+    "year": 2023,
+    "trend": "up",
+    "trendPct": 1.2,
+    "prevValue": "0.327",
+    "description": "UNDP के अनुसार आय असमानता सूचकांक।",
+    "description_en": "Income inequality index per UNDP.",
+    "source": "UNDP / World Inequality Database",
+    "last_updated": "2023-09",
+    "related_story": "st001",
+    "related_survey": "s041",
+    "history": [
+      {
+        "year": 2019,
+        "value": 0.327
+      },
+      {
+        "year": 2020,
+        "value": 0.334
+      },
+      {
+        "year": 2021,
+        "value": 0.341
+      },
+      {
+        "year": 2022,
+        "value": 0.34
+      },
+      {
+        "year": 2023,
+        "value": 0.345
+      }
+    ],
+    "icon": "📊",
+    "color": "#c1272d"
+  },
+  {
+    "id": "ws004",
+    "title": "महिला संसद सदस्य (राज्य सभा)",
+    "title_en": "Women in Rajya Sabha",
+    "category": "Women Safety",
+    "value": "31 / 245",
+    "unit": "MP",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 3.3,
+    "prevValue": "30 / 245",
+    "description": "राज्य सभा में महिला सांसदों की संख्या।",
+    "description_en": "Women MPs in Rajya Sabha.",
+    "source": "Election Commission of India",
+    "last_updated": "2024-06",
+    "related_story": "st007",
+    "related_survey": "s033",
+    "history": [
+      {
+        "year": 2019,
+        "value": 23
+      },
+      {
+        "year": 2021,
+        "value": 28
+      },
+      {
+        "year": 2022,
+        "value": 30
+      },
+      {
+        "year": 2024,
+        "value": 31
+      }
+    ],
+    "icon": "👩",
+    "color": "#a855f7"
+  },
+  {
+    "id": "tx005",
+    "title": "GST पंजीकृत व्यापारी",
+    "title_en": "GST Registered Businesses",
+    "category": "Tax",
+    "value": "1.41 करोड़",
+    "unit": "व्यापारी",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 7.6,
+    "prevValue": "1.31 करोड़",
+    "description": "GST के तहत पंजीकृत व्यापारियों की संख्या।",
+    "description_en": "Businesses registered under GST.",
+    "source": "GSTN",
+    "last_updated": "2024-06",
+    "related_story": "st002",
+    "related_survey": "s002",
+    "history": [
+      {
+        "year": 2019,
+        "value": 1.05
+      },
+      {
+        "year": 2020,
+        "value": 1.12
+      },
+      {
+        "year": 2021,
+        "value": 1.2
+      },
+      {
+        "year": 2022,
+        "value": 1.31
+      },
+      {
+        "year": 2023,
+        "value": 1.31
+      },
+      {
+        "year": 2024,
+        "value": 1.41
+      }
+    ],
+    "icon": "💼",
+    "color": "#ff9933"
+  },
+  {
+    "id": "ag007",
+    "title": "कृषि ऋण लक्ष्य",
+    "title_en": "Agriculture Credit Target",
+    "category": "Agriculture",
+    "value": "₹20 लाख करोड़",
+    "unit": "₹ लाख करोड़",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 11.1,
+    "prevValue": "₹18 लाख करोड़",
+    "description": "FY2024–25 के लिए कृषि ऋण लक्ष्य।",
+    "description_en": "Agriculture credit target for FY2024–25.",
+    "source": "Ministry of Finance / NABARD",
+    "last_updated": "2024-02",
+    "related_story": "st003",
+    "related_survey": "s018",
+    "history": [
+      {
+        "year": 2020,
+        "value": 15
+      },
+      {
+        "year": 2021,
+        "value": 16.5
+      },
+      {
+        "year": 2022,
+        "value": 18
+      },
+      {
+        "year": 2023,
+        "value": 18
+      },
+      {
+        "year": 2024,
+        "value": 20
+      }
+    ],
+    "icon": "💰",
+    "color": "#128807"
+  },
+  {
+    "id": "if007",
+    "title": "विद्युतीकृत गाँव",
+    "title_en": "Electrified Villages",
+    "category": "Infrastructure",
+    "value": "5,97,464",
+    "unit": "गाँव",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": null,
+    "prevValue": "5,97,464",
+    "description": "सौभाग्य योजना के तहत 100% गाँवों का विद्युतीकरण।",
+    "description_en": "100% village electrification under Saubhagya scheme.",
+    "source": "Ministry of Power / MoRD",
+    "last_updated": "2024-01",
+    "related_story": "st005",
+    "related_survey": "s010",
+    "history": [
+      {
+        "year": 2018,
+        "value": 597464
+      },
+      {
+        "year": 2024,
+        "value": 597464
+      }
+    ],
+    "icon": "💡",
+    "color": "#ff9933"
+  },
+  {
+    "id": "cr009",
+    "title": "पुलिस रिक्तियाँ",
+    "title_en": "Police Vacancies",
+    "category": "Crime",
+    "value": "5.28 लाख",
+    "unit": "रिक्त पद",
+    "year": 2022,
+    "trend": "up",
+    "trendPct": 3.5,
+    "prevValue": "5.10 लाख",
+    "description": "स्वीकृत पद में से रिक्त पुलिस पदों की संख्या।",
+    "description_en": "Vacant police posts from sanctioned strength.",
+    "source": "BPR&D",
+    "last_updated": "2023-06",
+    "related_story": "st006",
+    "related_survey": "s048",
+    "history": [
+      {
+        "year": 2019,
+        "value": 5.25
+      },
+      {
+        "year": 2020,
+        "value": 5.1
+      },
+      {
+        "year": 2021,
+        "value": 5.1
+      },
+      {
+        "year": 2022,
+        "value": 5.28
+      }
+    ],
+    "icon": "👮",
+    "color": "#c1272d"
+  },
+  {
+    "id": "ch004",
+    "title": "Anganwadi Centres",
+    "title_en": "Anganwadi Centres",
+    "category": "Children",
+    "value": "13.53 लाख",
+    "unit": "केंद्र",
+    "year": 2024,
+    "trend": "up",
+    "trendPct": 1.1,
+    "prevValue": "13.38 लाख",
+    "description": "ICDS के तहत चालू आँगनवाड़ी केंद्र।",
+    "description_en": "Operational Anganwadi centres under ICDS.",
+    "source": "Ministry of Women & Child Development",
+    "last_updated": "2024-03",
+    "related_story": "st005",
+    "related_survey": "s007",
+    "history": [
+      {
+        "year": 2020,
+        "value": 13.2
+      },
+      {
+        "year": 2021,
+        "value": 13.35
+      },
+      {
+        "year": 2022,
+        "value": 13.38
+      },
+      {
+        "year": 2024,
+        "value": 13.53
+      }
+    ],
+    "icon": "🏡",
+    "color": "#a855f7"
+  }
+]

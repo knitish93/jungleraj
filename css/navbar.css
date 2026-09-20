@@ -1,0 +1,138 @@
+/* =========================================================
+   NAVBAR — sticky glass nav with chakra brand mark
+   ========================================================= */
+
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 150;
+  height: var(--nav-height);
+  display: flex;
+  align-items: center;
+  background: rgba(10, 10, 13, 0.55);
+  backdrop-filter: var(--blur-glass);
+  -webkit-backdrop-filter: var(--blur-glass);
+  border-bottom: 1px solid var(--color-surface-border);
+  transition: background var(--dur-base), border-color var(--dur-base);
+}
+
+.navbar .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--sp-5);
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-3);
+  font-family: var(--font-display-en);
+  font-weight: 700;
+  font-size: var(--fs-lg);
+  color: var(--color-white);
+  flex-shrink: 0;
+}
+.brand .chakra-mark {
+  width: 34px; height: 34px;
+  color: var(--color-chakra);
+  animation: chakra-spin 18s linear infinite;
+}
+.brand-text-hi { font-family: var(--font-display-hi); }
+.brand small {
+  display: block;
+  font-family: var(--font-body-en);
+  font-weight: 400;
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  color: var(--color-text-dim);
+  text-transform: uppercase;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-6);
+  list-style: none;
+}
+.nav-links a {
+  position: relative;
+  font-size: var(--fs-sm);
+  color: var(--color-text-muted);
+  padding-block: var(--sp-2);
+  transition: color var(--dur-fast);
+}
+.nav-links a::after {
+  content: "";
+  position: absolute;
+  left: 0; right: 0; bottom: -4px;
+  height: 2px;
+  background: var(--gradient-red);
+  transform: scaleX(0);
+  transform-origin: center;
+  transition: transform var(--dur-base) var(--ease-out);
+}
+.nav-links a:hover, .nav-links a.active { color: var(--color-white); }
+.nav-links a:hover::after, .nav-links a.active::after { transform: scaleX(1); }
+
+.nav-actions { display: flex; align-items: center; gap: var(--sp-4); }
+
+.lang-toggle {
+  display: flex;
+  align-items: center;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--color-surface-border-strong);
+  overflow: hidden;
+  font-size: var(--fs-xs);
+  font-weight: 600;
+}
+.lang-toggle button {
+  padding: var(--sp-2) var(--sp-4);
+  color: var(--color-text-muted);
+  transition: all var(--dur-fast);
+}
+.lang-toggle button.active { background: var(--gradient-red); color: var(--color-white); }
+
+.nav-toggle {
+  display: none;
+  width: 40px; height: 40px;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--color-surface-border-strong);
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 4px;
+}
+.nav-toggle span {
+  width: 18px; height: 2px;
+  background: var(--color-white);
+  transition: all var(--dur-base) var(--ease-out);
+}
+.nav-toggle.open span:nth-child(1) { transform: translateY(6px) rotate(45deg); }
+.nav-toggle.open span:nth-child(2) { opacity: 0; }
+.nav-toggle.open span:nth-child(3) { transform: translateY(-6px) rotate(-45deg); }
+
+@keyframes chakra-spin { to { transform: rotate(360deg); } }
+
+@media (max-width: 900px) {
+  .nav-links {
+    position: fixed;
+    top: var(--nav-height);
+    left: 0; right: 0;
+    flex-direction: column;
+    align-items: flex-start;
+    background: rgba(10, 10, 13, 0.97);
+    backdrop-filter: var(--blur-glass);
+    padding: var(--sp-6) var(--sp-5);
+    gap: var(--sp-5);
+    border-bottom: 1px solid var(--color-surface-border);
+    transform: translateY(-120%);
+    opacity: 0;
+    transition: transform var(--dur-base) var(--ease-out), opacity var(--dur-base);
+    max-height: calc(100vh - var(--nav-height));
+    overflow-y: auto;
+  }
+  .nav-links.open { transform: translateY(0); opacity: 1; }
+  .nav-toggle { display: inline-flex; }
+  .brand small { display: none; }
+}

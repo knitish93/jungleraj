@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /tools/
+Disallow: /tools/.cache/
+Disallow: /tools/logs/
+Disallow: /__pycache__/
+
+Sitemap: https://jungleraj.in/sitemap.xml

@@ -1,0 +1,349 @@
+[
+  {
+    "id": "n001",
+    "title": "GDP वृद्धि दर 8.2% — भारत विश्व की सबसे तेज़ बड़ी अर्थव्यवस्था",
+    "title_en": "GDP Growth 8.2% — India World's Fastest Large Economy",
+    "category": "Economy",
+    "source": "MoSPI",
+    "date": "2024-05-31",
+    "summary": "FY2024 में भारत की GDP 8.2% की दर से बढ़ी, जो अनुमान से अधिक है। अगले वर्ष भी 7–7.5% की उम्मीद।",
+    "summary_en": "India's GDP grew at 8.2% in FY2024, beating estimates. 7–7.5% expected next year.",
+    "url": "#",
+    "tags": [
+      "economy",
+      "gdp",
+      "growth"
+    ],
+    "icon": "📈",
+    "featured": true
+  },
+  {
+    "id": "n002",
+    "title": "GST संग्रह अप्रैल 2024 में ₹2.10 लाख करोड़ — नया रिकॉर्ड",
+    "title_en": "GST Collection ₹2.10 Lakh Crore in April 2024 — New Record",
+    "category": "Tax",
+    "source": "Ministry of Finance",
+    "date": "2024-05-01",
+    "summary": "अप्रैल 2024 में GST संग्रह नई ऊँचाई पर पहुँचा। यह पिछले साल की तुलना में 12.4% अधिक है।",
+    "summary_en": "GST collection hit a new high in April 2024, up 12.4% year-on-year.",
+    "url": "#",
+    "tags": [
+      "tax",
+      "gst"
+    ],
+    "icon": "💼",
+    "featured": false
+  },
+  {
+    "id": "n003",
+    "title": "पेपर लीक मामलों में 2024 में 37% वृद्धि — CBI जाँच के आदेश",
+    "title_en": "Paper Leak Cases Up 37% in 2024 — CBI Investigation Ordered",
+    "category": "Education",
+    "source": "Media Reports",
+    "date": "2024-06-25",
+    "summary": "2024 में सरकारी परीक्षाओं में पेपर लीक के 41 मामले सामने आए। सरकार ने कड़े कानून का प्रस्ताव रखा।",
+    "summary_en": "41 paper leak incidents in government exams in 2024. Govt proposes strict law.",
+    "url": "#",
+    "tags": [
+      "education",
+      "exam",
+      "corruption"
+    ],
+    "icon": "📝",
+    "featured": true
+  },
+  {
+    "id": "n004",
+    "title": "NCRB 2022: महिलाओं के विरुद्ध अपराध 4.45 लाख पार",
+    "title_en": "NCRB 2022: Crimes Against Women Cross 4.45 Lakh",
+    "category": "Women Safety",
+    "source": "NCRB",
+    "date": "2023-12-04",
+    "summary": "2022 में महिलाओं के विरुद्ध 4,45,256 अपराध दर्ज हुए — 2021 से 4% अधिक।",
+    "summary_en": "4,45,256 crimes against women registered in 2022 — 4% more than 2021.",
+    "url": "#",
+    "tags": [
+      "women",
+      "crime",
+      "safety"
+    ],
+    "icon": "⚠️",
+    "featured": false
+  },
+  {
+    "id": "n005",
+    "title": "नवीकरणीय ऊर्जा 194 GW पार — 2030 तक 500 GW का लक्ष्य",
+    "title_en": "Renewable Energy Crosses 194 GW — Target 500 GW by 2030",
+    "category": "Environment",
+    "source": "MNRE",
+    "date": "2024-06-01",
+    "summary": "सौर और पवन ऊर्जा में तेज़ वृद्धि जारी है। 2030 तक 500 GW लक्ष्य।",
+    "summary_en": "Solar and wind energy growing rapidly. 500 GW target for 2030.",
+    "url": "#",
+    "tags": [
+      "environment",
+      "energy"
+    ],
+    "icon": "☀️",
+    "featured": false
+  },
+  {
+    "id": "n006",
+    "title": "UPI लेनदेन अप्रैल 2024 में 14 अरब — डिजिटल भारत की छलाँग",
+    "title_en": "UPI Transactions 14 Billion in April 2024 — Digital India Leap",
+    "category": "Technology",
+    "source": "NPCI",
+    "date": "2024-05-03",
+    "summary": "UPI ने अप्रैल 2024 में 14.04 अरब लेनदेन का नया रिकॉर्ड बनाया।",
+    "summary_en": "UPI set a new record of 14.04 billion transactions in April 2024.",
+    "url": "#",
+    "tags": [
+      "technology",
+      "upi",
+      "digital"
+    ],
+    "icon": "📱",
+    "featured": false
+  },
+  {
+    "id": "n007",
+    "title": "सुप्रीम कोर्ट: 5 करोड़ लंबित मामले — न्यायिक सुधार जरूरी",
+    "title_en": "Supreme Court: 5 Crore Pending Cases — Judicial Reform Needed",
+    "category": "Judiciary",
+    "source": "NJDG",
+    "date": "2024-06-10",
+    "summary": "देश में 5.06 करोड़ मामले लंबित हैं। CJI ने कहा — न्यायिक ढाँचा मजबूत करना होगा।",
+    "summary_en": "5.06 crore cases pending. CJI says judicial infrastructure must be strengthened.",
+    "url": "#",
+    "tags": [
+      "judiciary",
+      "courts"
+    ],
+    "icon": "⚖️",
+    "featured": false
+  },
+  {
+    "id": "n008",
+    "title": "बेरोज़गारी दर 8.1% — CMIE रिपोर्ट",
+    "title_en": "Unemployment Rate 8.1% — CMIE Report",
+    "category": "Employment",
+    "source": "CMIE",
+    "date": "2024-05-20",
+    "summary": "मई 2024 में बेरोज़गारी दर बढ़कर 8.1% हुई। शहरी क्षेत्रों में दर अधिक।",
+    "summary_en": "Unemployment rate rose to 8.1% in May 2024. Higher in urban areas.",
+    "url": "#",
+    "tags": [
+      "employment",
+      "economy"
+    ],
+    "icon": "🧑‍💼",
+    "featured": false
+  },
+  {
+    "id": "n009",
+    "title": "किसान आत्महत्याएँ 2022 में 11,290 — महाराष्ट्र सबसे आगे",
+    "title_en": "Farmer Suicides 11,290 in 2022 — Maharashtra Highest",
+    "category": "Agriculture",
+    "source": "NCRB",
+    "date": "2023-12-20",
+    "summary": "2022 में 11,290 किसान और खेत मज़दूरों ने आत्महत्या की। MSP और ऋण माफी की माँग जारी।",
+    "summary_en": "11,290 farmer and farm labour suicides in 2022. Demands for MSP and loan waiver continue.",
+    "url": "#",
+    "tags": [
+      "agriculture",
+      "farmer"
+    ],
+    "icon": "🌾",
+    "featured": false
+  },
+  {
+    "id": "n010",
+    "title": "मतदान 2024: 65.79% — 2019 से कम",
+    "title_en": "Voter Turnout 2024: 65.79% — Lower Than 2019",
+    "category": "Politics",
+    "source": "ECI",
+    "date": "2024-06-04",
+    "summary": "लोकसभा चुनाव 2024 में मतदान 2019 के 67.4% से घटकर 65.79% रहा।",
+    "summary_en": "Lok Sabha election 2024 turnout fell from 67.4% in 2019 to 65.79%.",
+    "url": "#",
+    "tags": [
+      "election",
+      "politics"
+    ],
+    "icon": "🗳️",
+    "featured": false
+  },
+  {
+    "id": "n011",
+    "title": "प्रत्यक्ष कर संग्रह FY2024: ₹19.58 लाख करोड़ — 17.7% वृद्धि",
+    "title_en": "Direct Tax Collection FY2024: ₹19.58 Lakh Crore — 17.7% Rise",
+    "category": "Tax",
+    "source": "CBDT",
+    "date": "2024-04-15",
+    "summary": "FY2024 में प्रत्यक्ष कर संग्रह 17.7% बढ़कर ₹19.58 लाख करोड़ हुआ।",
+    "summary_en": "Direct tax collection rose 17.7% to ₹19.58 lakh crore in FY2024.",
+    "url": "#",
+    "tags": [
+      "tax",
+      "economy"
+    ],
+    "icon": "📋",
+    "featured": false
+  },
+  {
+    "id": "n012",
+    "title": "चंद्रयान-3 की सफलता के बाद गगनयान की तैयारी",
+    "title_en": "Gaganyaan Mission Prep After Chandrayaan-3 Success",
+    "category": "National",
+    "source": "ISRO",
+    "date": "2024-03-20",
+    "summary": "चंद्रयान-3 की सफलता के बाद भारत का मानव अंतरिक्ष मिशन गगनयान 2025 में प्रस्तावित।",
+    "summary_en": "After Chandrayaan-3 success, India's manned Gaganyaan mission proposed for 2025.",
+    "url": "#",
+    "tags": [
+      "technology",
+      "space",
+      "national"
+    ],
+    "icon": "🚀",
+    "featured": false
+  },
+  {
+    "id": "n013",
+    "title": "लोकसभा 2024: 251 सांसदों पर आपराधिक मामले — ADR रिपोर्ट",
+    "title_en": "Lok Sabha 2024: 251 MPs with Criminal Cases — ADR Report",
+    "category": "Politics",
+    "source": "ADR",
+    "date": "2024-06-15",
+    "summary": "2024 में निर्वाचित 543 में से 251 सांसदों पर आपराधिक मामले लंबित।",
+    "summary_en": "251 of 543 elected MPs in 2024 have pending criminal cases.",
+    "url": "#",
+    "tags": [
+      "politics",
+      "corruption"
+    ],
+    "icon": "⚠️",
+    "featured": false
+  },
+  {
+    "id": "n014",
+    "title": "मेट्रो नेटवर्क 945 किमी — 2030 तक 2,000 किमी का लक्ष्य",
+    "title_en": "Metro Network 945 km — Target 2,000 km by 2030",
+    "category": "Infrastructure",
+    "source": "MoHUA",
+    "date": "2024-03-01",
+    "summary": "भारत का मेट्रो नेटवर्क 945 किमी पर पहुँचा, 2030 तक 2,000 किमी का लक्ष्य।",
+    "summary_en": "India's metro network reaches 945 km, target 2,000 km by 2030.",
+    "url": "#",
+    "tags": [
+      "infrastructure",
+      "metro"
+    ],
+    "icon": "🚇",
+    "featured": false
+  },
+  {
+    "id": "n015",
+    "title": "इंटरनेट यूज़र 82 करोड़ — 5G कवरेज 800+ शहरों में",
+    "title_en": "Internet Users 82 Crore — 5G Coverage in 800+ Cities",
+    "category": "Technology",
+    "source": "TRAI",
+    "date": "2024-03-15",
+    "summary": "भारत में इंटरनेट उपयोगकर्ता 82 करोड़ पार, 5G नेटवर्क 800+ शहरों में।",
+    "summary_en": "India's internet users cross 82 crore, 5G network in 800+ cities.",
+    "url": "#",
+    "tags": [
+      "technology",
+      "internet",
+      "5g"
+    ],
+    "icon": "🌐",
+    "featured": false
+  },
+  {
+    "id": "n016",
+    "title": "Ayushman Bharat: 6.14 करोड़ मरीज़ों को मुफ्त इलाज",
+    "title_en": "Ayushman Bharat: 6.14 Crore Patients Treated Free",
+    "category": "Healthcare",
+    "source": "NHA",
+    "date": "2024-06-01",
+    "summary": "AB-PMJAY के तहत अब तक 6.14 करोड़ अस्पताल भर्ती का लाभ मिला।",
+    "summary_en": "6.14 crore hospitalisations benefited under AB-PMJAY so far.",
+    "url": "#",
+    "tags": [
+      "healthcare",
+      "government"
+    ],
+    "icon": "🏥",
+    "featured": false
+  },
+  {
+    "id": "n017",
+    "title": "वन आवरण 2023: 21.76% — हर वर्ष थोड़ा बेहतर",
+    "title_en": "Forest Cover 2023: 21.76% — Slightly Better Each Year",
+    "category": "Environment",
+    "source": "FSI",
+    "date": "2023-12-15",
+    "summary": "FSI रिपोर्ट 2023: भारत का वन आवरण बढ़कर 21.76% हुआ।",
+    "summary_en": "FSI Report 2023: India's forest cover increased to 21.76%.",
+    "url": "#",
+    "tags": [
+      "environment",
+      "forest"
+    ],
+    "icon": "🌳",
+    "featured": false
+  },
+  {
+    "id": "n018",
+    "title": "2024 में साइबर अपराध में 24% वृद्धि — I4C रिपोर्ट",
+    "title_en": "Cyber Crime Up 24% in 2024 — I4C Report",
+    "category": "Crime",
+    "source": "MHA / I4C",
+    "date": "2024-04-10",
+    "summary": "2022 में 65,893 साइबर मामले दर्ज हुए। 2024 में और वृद्धि की आशंका।",
+    "summary_en": "65,893 cyber cases in 2022. Further increase expected in 2024.",
+    "url": "#",
+    "tags": [
+      "crime",
+      "cyber",
+      "technology"
+    ],
+    "icon": "💻",
+    "featured": false
+  },
+  {
+    "id": "n019",
+    "title": "पेट्रोल-डीज़ल के दाम स्थिर — चुनाव के बाद संशोधन संभव",
+    "title_en": "Petrol-Diesel Prices Stable — Revision Possible Post-Election",
+    "category": "Fuel",
+    "source": "PPAC",
+    "date": "2024-06-10",
+    "summary": "मार्च 2024 के बाद पेट्रोल-डीज़ल के दाम अपरिवर्तित। अंतरराष्ट्रीय कच्चे तेल का भाव ऊँचा।",
+    "summary_en": "Petrol-diesel prices unchanged since March 2024. International crude remains high.",
+    "url": "#",
+    "tags": [
+      "fuel",
+      "economy"
+    ],
+    "icon": "⛽",
+    "featured": false
+  },
+  {
+    "id": "n020",
+    "title": "भारत की HDI रैंकिंग में सुधार: 0.644 — UNDP 2023",
+    "title_en": "India's HDI Improves to 0.644 — UNDP 2023",
+    "category": "National",
+    "source": "UNDP",
+    "date": "2023-09-13",
+    "summary": "UNDP मानव विकास रिपोर्ट 2023 में भारत का HDI 0.644 — 132वीं रैंक।",
+    "summary_en": "India's HDI at 0.644 in UNDP Human Development Report 2023 — Rank 132.",
+    "url": "#",
+    "tags": [
+      "national",
+      "hdi"
+    ],
+    "icon": "🌏",
+    "featured": false
+  }
+]

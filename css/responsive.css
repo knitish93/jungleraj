@@ -1,0 +1,85 @@
+/* =========================================================
+   RESPONSIVE — cross-cutting breakpoint refinements
+   (component-local responsive rules live in their own files)
+   ========================================================= */
+
+/* ── Desktop adjustments ──────────────────────────────── */
+@media (min-width: 1600px) {
+  :root { --container-max: 1520px; }
+}
+
+@media (min-width: 1920px) {
+  :root { --container-max: 1600px; }
+}
+
+/* ── Laptop adjustments ───────────────────────────────── */
+@media (max-width: 1440px) {
+  :root { --fs-5xl: 4.5rem; --fs-4xl: 3.2rem; }
+}
+
+@media (max-width: 1024px) {
+  :root { --fs-5xl: 4rem; --fs-4xl: 3.1rem; --container-padding: var(--sp-5); }
+}
+
+/* ── Tablet adjustments ───────────────────────────────── */
+@media (max-width: 768px) {
+  :root { --container-padding: var(--sp-5); }
+}
+
+/* ── Mobile adjustments ───────────────────────────────── */
+@media (max-width: 720px) {
+  :root { --fs-5xl: 2.6rem; --fs-4xl: 2.2rem; --fs-3xl: 1.8rem; --nav-height: 66px; --container-padding: var(--sp-4); }
+  .card-grid { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 480px) {
+  .btn { width: 100%; }
+  .btn.btn-inline { width: auto; }
+}
+
+/* ── Extra small adjustments ──────────────────────────── */
+@media (max-width: 375px) {
+  :root { --sp-5: 1.25rem; --sp-6: 1.75rem; --sp-7: 2.5rem; --sp-8: 3.5rem; --container-padding: var(--sp-3); }
+  .container { padding-inline: var(--sp-3); }
+  .section-title { font-size: var(--fs-xl); }
+}
+
+/* ── Hero responsive adjustments ──────────────────────── */
+@media (max-width: 1440px) {
+  .hero-chakra-bg { right: 0; width: min(50vw, 600px); height: min(50vw, 600px); }
+}
+
+@media (max-width: 1024px) {
+  .hero-chakra-bg { right: 0; width: min(50vw, 550px); height: min(50vw, 550px); opacity: 0.15; }
+  .hero-title { max-width: 100%; }
+  .hero-content { max-width: 100%; }
+}
+
+@media (max-width: 768px) {
+  .hero-chakra-bg { right: -8%; width: min(45vw, 450px); height: min(45vw, 450px); }
+  .hero-title .line-hi, .hero-title .accent { white-space: normal; }
+  .hero-title { max-width: 100%; }
+}
+
+@media (max-width: 480px) {
+  .hero-chakra-bg { right: -15%; width: min(80vw, 350px); height: min(80vw, 350px); opacity: 0.1; }
+  .hero { padding-block: var(--sp-6); }
+  .hero-title { font-size: var(--fs-4xl); }
+}
+
+/* Print: strip decoration for disclaimer/privacy pages */
+@media print {
+  .navbar, .site-footer, #app-loader, .no-print { display: none !important; }
+  body { background: #fff; color: #000; }
+}
+
+/* ── Focus-visible ring for keyboard nav ──────────────── */
+:focus-visible {
+  outline: 2px solid var(--color-saffron);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+button:focus:not(:focus-visible),
+a:focus:not(:focus-visible) {
+  outline: none;
+}

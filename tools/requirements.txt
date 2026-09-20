@@ -1,0 +1,35 @@
+# Jungle Raj — Development Data Engine
+# Python 3.11+ required
+#
+# Install with:
+#   pip install -r requirements.txt
+#
+# Or in a virtual environment (recommended):
+#   python -m venv .venv
+#   source .venv/bin/activate   # Windows: .venv\Scripts\activate
+#   pip install -r requirements.txt
+
+# ── HTTP ─────────────────────────────────────────────────
+requests>=2.31.0          # HTTP client with retry support
+urllib3>=2.0.0            # Used by requests
+
+# ── HTML parsing (for future scraping modules) ────────────
+beautifulsoup4>=4.12.0    # HTML/XML parser
+lxml>=5.0.0               # Fast XML/HTML parser backend for BS4
+
+# ── PDF extraction (for NCRB, ECI affidavit PDFs) ────────
+pdfplumber>=0.10.0        # Extract tables and text from PDFs
+
+# ── Data / validation ─────────────────────────────────────
+# (stdlib json, re, hashlib are used; no extra deps needed)
+
+# ── Scheduling (optional — for automated daily runs) ──────
+schedule>=1.2.0           # Simple in-process cron-like scheduler
+
+# ── CLI colours (optional, enhances crawler.py output) ───
+colorlog>=6.8.0           # Coloured log output in terminal
+
+# ── Dev / testing ─────────────────────────────────────────
+pytest>=7.4.0             # Unit tests
+pytest-cov>=4.1.0         # Coverage reports
+responses>=0.24.0         # Mock HTTP responses in tests

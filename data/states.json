@@ -1,0 +1,16 @@
+[
+  {
+    "id": "state_andhra",
+    "name": "Andhra Pradesh",
+    "name_hi": "आंध्र प्रदेश",
+    "capital": "Amaravati",
+    "cm": "Chief Minister"
+  },
+  {
+    "id": "state_assam",
+    "name": "Assam",
+    "name_hi": "असम",
+    "capital": "Dispur",
+    "cm": "Chief Minister"
+  }
+]

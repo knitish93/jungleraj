@@ -1,0 +1,80 @@
+/* =========================================================
+   FOOTER
+   ========================================================= */
+
+.site-footer {
+  position: relative;
+  z-index: 1;
+  /* .footer-tricolour below is the intended content/footer boundary —
+     no border-top here, or it duplicates that line. */
+  background: var(--color-bg-alt);
+  padding-block: var(--sp-8) var(--sp-6);
+}
+
+.footer-tricolour {
+  height: 3px;
+  background: var(--gradient-tricolour);
+}
+
+.footer-grid {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr 1fr 1fr;
+  gap: var(--sp-6);
+  margin-bottom: var(--sp-7);
+}
+
+.footer-brand .brand { margin-bottom: var(--sp-3); }
+.footer-brand p {
+  color: var(--color-text-muted);
+  font-size: var(--fs-sm);
+  max-width: 34ch;
+}
+
+.footer-col h4 {
+  font-size: var(--fs-sm);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-text-dim);
+  margin-bottom: var(--sp-4);
+}
+.footer-col ul { display: flex; flex-direction: column; gap: var(--sp-3); }
+.footer-col a {
+  font-size: var(--fs-sm);
+  color: var(--color-text-muted);
+  transition: color var(--dur-fast);
+}
+.footer-col a:hover { color: var(--color-saffron); }
+
+.footer-social { display: flex; gap: var(--sp-3); margin-top: var(--sp-5); }
+.footer-social a {
+  width: 38px; height: 38px;
+  border-radius: 50%;
+  border: 1px solid var(--color-surface-border-strong);
+  display: grid; place-items: center;
+  color: var(--color-text-muted);
+  transition: all var(--dur-fast);
+}
+.footer-social a:hover { border-color: var(--color-red-bright); color: var(--color-red-bright); }
+
+.footer-bottom {
+  padding-top: var(--sp-5);
+  border-top: 1px solid var(--color-surface-border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: var(--sp-3);
+  font-size: var(--fs-xs);
+  color: var(--color-text-dim);
+}
+.footer-bottom .disclaimer-note {
+  max-width: 60ch;
+}
+
+@media (max-width: 900px) {
+  .footer-grid { grid-template-columns: 1fr 1fr; }
+}
+@media (max-width: 560px) {
+  .footer-grid { grid-template-columns: 1fr; gap: var(--sp-5); }
+  .footer-bottom { flex-direction: column; align-items: flex-start; }
+}
